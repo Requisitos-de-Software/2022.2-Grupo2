@@ -51,7 +51,7 @@ Figura 1: Padrão de legenda (Fonte: autor, 2023).
 A verificação do conteúdo visa verificar se o conteúdo do artefato está de acordo com a bibliografia da disciplina. A verificação foi dividida em dois checklists, o primeiro (Tabela 2) direciona uma análise geral dos léxicos, e o segundo (Tabela 3) representa uma verificação a ser feita para cada léxico.
 
 |ID |            Questão                                     |Resposta | Comentários |
-|:-:| :---------------------------------------------------- | ------ | ------|
+|:-:| :---------------------------------------------------- | :------: | ------|
 | 1 | Há a definição de usuário nos léxicos? | Sim | - |
 | 2 | Os léxicos estão ordenados alfabeticamente? | Não | - |
 | 3 | Os léxicos possuem ligação entre si? | Incompleto | Estão relacionados, mas não link direto entre eles. |

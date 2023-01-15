@@ -1,8 +1,8 @@
-# Verificação - Rich-picture
+# Verificação - Brainstorming
 
 ## Introdução
 
-O presente artefato apresenta os resultados a verificação do artefato: Rich-picture, elaborado pelo grupo 2, e disponível [neste link](../prerastreabilidade/richpicture.md).
+O presente artefato apresenta os resultados a verificação do artefato: Brainstorming, elaborado pelo grupo 2, e disponível [neste link](../elicitacao/brainstorming.md).
 
 ## Metodologia
 
@@ -18,13 +18,13 @@ A verificação de padronização visa determinar se o artefato está de acordo 
 
 |ID |            Questão                                     | Resposta | Comentários  |
 |:-:| :----------------------------------------------------- | ---------| ------------ |
-| 1 | A linguagem e ortografia estão corretas?               | Sim | |
-| 2 | Possui links para os outros artefatos?                 | Sim | |
-| 3 | Existe uma introdução no artefato?                     | Sim | |
-| 4 | Existe tabela de versionamento padronizado e completo? | Sim | |
-| 5 | Há referências bibliográficas no artefato?             | Sim | |
-| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? | Incompleto | Os elementos não são introduzidos no texto |
-| 7 | As legendas estão no padrão do projeto (Figura 1)?  | Não | |
+| 1 | A linguagem e ortografia estão corretas?               | Sim |
+| 2 | Possui links para os outros artefatos?                 | Não |
+| 3 | Existe uma introdução no artefato?                     | Sim |  Para adequar-se ao padrão da disciplina, aconselho trocar "levantar requisitos" por "elicitar requisitos", na introdução.
+| 4 | Existe tabela de versionamento padronizado e completo? | Sim |
+| 5 | Há referências bibliográficas no artefato?             |Sim |
+| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? | Não | Faltam legendas para as primeiras duas tabelas e a legenda da terceira tabela não condiz com o seu conteúdo. |
+| 7 | As legendas estão no padrão do projeto (Figura 1)?  | Não |
 
 <div style="text-align: center">
 <p>
@@ -48,24 +48,24 @@ Figura 1: Padrão de legenda (Fonte: autor, 2023).
 
 ### Conteúdo
 
-A verificação do conteúdo visa verificar se o conteúdo do artefato está de acordo com a bibliografia da disciplina. Os critérios avaliados e respostas obtidas encontram-se na tabela 2.
+A verificação do conteúdo visa verificar se o conteúdo do artefato está de acordo com a bibliografia da disciplina. Os critérios avaliados e respostas obtidas encontram-se na Tabela 2.
 
 ID | Questão | Resposta | Comentários
 :-: | - | :-: | -
-1 | O richpicture possui legenda explicando os símbolos utilizados no diagrama? | Sim |
-2 | A legenda está completa? | Não | Falta a legenda para a fronteira.
-3 | O richpicture contém fronteira? | Sim |
-4 | O richpicture contém atores? | Sim |
-5 | O richpicture contém operações? | Sim |
-6 | O richpicture contém armazenamento de dados? | Sim |
-7 | O richpicture contém setas? | Sim |
-8 | Os atores estão fora da fronteira? | Sim |
-9 | As operações são ações? | Sim |
-10 | Os elementos de armazenamento de dados estão dentro da fronteira? | Sim |
-11 | O fluxo das setas segue uma ordem lógica? | Não | Os fluxos estão confusos, pois várias ações iniciadas pelo usuário tem a seta partindo da ação, como "observar", por exemplo.
+1 | Os requisitos elicitados são verificáveis? | Não | Não são verificáveis os seguintes requisitos: B04 (quais tipos de jogadas?), B13 (quais informações?), B18 (quais dispositivos?), B19 (qual critério define facilidade de uso?) e B24 (qual critério define se o usuário está engajado e motivado?)
+2 | Houve participação do cliente ou personas na elicitação? | Sim | Faltou especificar qual o perfil dos participantes da sessão de brainstorming.
+3 | Os requisitos foram validados? | Não |
+4 | Há gravação ou registro da elicitação dos requisitos? | Não |
+5 | Os requisitos foram priorizados? | Sim | Foram priorizados, porém a priorização não está nessa página e falta um link para ela.
+6 | Apresenta os participantes da sessão de Brainstorming? | Sim |
+7 | O Brainstorming teve um mediador? | Não |
+8 | Os requisitos são classificados em Funcionais e Não Funcionais? | Sim |
+9 | A classificação entre Funcionais e Não Funcionais está correta? | Não | Os seguintes requisitos são funcionais: B17, B18, B20, B21, B22 e B23. Os requisitos de B20 a B23 estão repetidos.
+10 | Os requisitos possuem identificador de acordo com o padrão ("B01")? | Sim |
+
 <div style="text-align: center">
 <p>
-Tabela 2: Resultados da verificação. (Fonte: autor, 2023).
+Tabela 2: Resultado da Verificação de Conteúdo. (Fonte: autor, 2023)
 </p>
 </div>
 
