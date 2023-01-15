@@ -54,10 +54,14 @@ A verificação do conteúdo visa verificar se o conteúdo do artefato está de 
 
 [1] Lista de Verificação: Análise de Léxicos. Disponível no [link](https://requisitos-de-software.github.io/2019.2-Duolingo/analise/verificacao/inspecaoLéxico/) Acesso em 09/01/2023.
 
-[2] Verificação aplicada pelo Grupo 1, disponível no [link](https://requisitos-de-software.github.io/2022.2-Grasshopper/analise-de-requisitos/verificacao/testePiloto-Lichess/lexicos-Lichess/). Acesso em 10/01/2023.
+[2] Verificação aplicada pelo Grupo 1, disponível no [link](https://requisitos-de-software.github.io/2022.2-Grasshopper/analise-de-requisitos/verificacao/testePiloto-Lichess/). Acesso em 10/01/2023.
+
 [3] Plano de Ensino da disciplina Requisitos de Software.
+
 [4] Gerencia e Qualidade de Software - Aula 06 - Técnica de revisão – UNIVESP<br/>
+
 [5] Gerência e Qualidade de Software - Aula 05 - Verificação e Validação – UNIVESP<br/>
+
 [6] SERRANO M., SERRANO. M. Slides: Requisitos - Aula 23.<br/>
 
 ## Histórico de Versão
