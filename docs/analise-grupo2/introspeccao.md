@@ -1,8 +1,8 @@
-# Verificação - Glossário
+# Verificação - Introspecção
 
 ## Introdução
 
-O presente artefato apresenta os resultados a verificação do artefato: Glossário, elaborado pelo grupo 2, e disponível [neste link](../elicitacao/glossario.md).
+O presente artefato apresenta os resultados a verificação do artefato: Introspecção, elaborado pelo grupo 2, e disponível [neste link](../elicitacao/introspeccao.md).
 
 ## Metodologia
 
@@ -23,8 +23,8 @@ A verificação de padronização visa determinar se o artefato está de acordo 
 | 3 | Existe uma introdução no artefato?                     | Sim |
 | 4 | Existe tabela de versionamento padronizado e completo? | Sim |
 | 5 | Há referências bibliográficas no artefato?             | Sim |
-| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? | Sim |
-| 7 | As legendas estão no padrão do projeto (Figura 1)?  | Sim |
+| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? | Sim
+| 7 | As legendas estão no padrão do projeto (Figura 1)?  | Sim
 
 <div style="text-align: center">
 <p>
@@ -59,7 +59,7 @@ ID | Questão | Resposta | Comentários
 5 | Os requisitos foram priorizados? | Sim | Foram priorizados, mas a priorização não está nessa página e não há link para ela.
 6 | Os requisitos são classificados em Funcionais e Não Funcionais? | Sim |
 7 | A classificação entre Funcionais e Não Funcionais está correta? | Sim |
-8 | Os requisitos possuem identificador de acordo com o padrão ("GLO01")? | Sim |
+8 | Os requisitos possuem identificador de acordo com o padrão ("INT01")? | Sim |
 
 <div style="text-align: center">
 <p>
