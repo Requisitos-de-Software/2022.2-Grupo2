@@ -70,29 +70,26 @@ nav:
           - Backlog: modelagem/agil/backlog.md
           - Histórias de Usuário: modelagem/agil/us.md
 
-  - Análise de Requisitos:
-      - Grupo 2 - Lichess:
-          - Planejamento: analise-grupo2/planejamento.md
-          - Rich-picture: analise-grupo2/richpicture.md
-          - Léxicos: analise-grupo2/lexicos.md
-          - Brainstorming: analise-grupo2/brainstorming.md
-          - Glossário: analise-grupo2/glossario.md
-          - Introspecção: analise-grupo2/introspeccao.md
-          - Questionario: analise-grupo2/questionario.md
-          - Personas: analise-grupo2/personas.md
-          - Storytelling: analise-grupo2/storytelling.md
-          - Entrevista: analise-grupo2/entrevista.md
-          - Priorização: analise-grupo2/priorizacao.md
-          - NFR Framework: analise-grupo2/nfr.md
-      #           - Casos de Uso: analise-grupo2/casos-de-uso.md
-      #           - Backlog: analise-grupo2/backlog.md
-      #           - Histórias de Usuário: analise-grupo2/historias-de-usuario.md
-      #           - Técnicas de elicitação: analise-grupo2/tecnicas-de-elicitacao.md
-      #           - Especificação Suplementar: analise-grupo2/especificacao_sup.md
-      #           - Cenários: analise-grupo2/cenarios.md
-      #           - Perfil do Usuário: analise-grupo2/perfilUsuario.md
+  - Análise de Requisitos (V&V):
+      - Planejamento da Verificação: analise-grupo2/planejamento.md
+      - Verificação - Rich-picture: analise-grupo2/richpicture.md
+      - Verificação - Léxicos: analise-grupo2/lexicos.md
+      - Verificação - Brainstorming: analise-grupo2/brainstorming.md
+      - Verificação - Glossário: analise-grupo2/glossario.md
+      - Verificação - Introspecção: analise-grupo2/introspeccao.md
+      - Verificação - Questionario: analise-grupo2/questionario.md
+      - Verificação - Personas: analise-grupo2/personas.md
+      - Verificação - Storytelling: analise-grupo2/storytelling.md
+      - Verificação - Entrevista: analise-grupo2/entrevista.md
+      - Verificação - Priorização: analise-grupo2/priorizacao.md
+      - Verificação - NFR Framework: analise-grupo2/nfr.md
+      - Verificação - Casos de Uso: analise-grupo2/casos-de-uso.md
+      - Verificação - Backlog: analise-grupo2/backlog.md
+      - Verificação - Histórias de Usuário: analise-grupo2/historias-de-usuario.md
+      - Verificação - Especificação Suplementar: analise-grupo2/especificacao_sup.md
+      - Verificação - Cenários: analise-grupo2/cenarios.md
 
-      - Grupo 3 'MEI - Microempreendedor Individual':
+      - Teste Piloto - V&V Grupo 3:
           - Verificação:
               - NFR Framework: analise-grupo3/verificacao/nfr-framework.md
               - Casos de Uso: analise-grupo3/verificacao/casos-de-uso.md
