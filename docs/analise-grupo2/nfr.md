@@ -85,4 +85,4 @@ Tabela 2: Resultado da Verificação de Conteúdo. (Fonte: autor, 2023)
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 15/01/2023    | Criação do documento.              | Nicolas Souza |               |
+| `1.0`  | 15/01/2023    | Criação do documento.              | Nicolas Souza | Maurício      |
