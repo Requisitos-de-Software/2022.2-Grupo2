@@ -68,4 +68,4 @@ A verificação do conteúdo visa verificar se o conteúdo do artefato está de 
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 10/01/2023    | Criação do documento.              | Nicolas Souza |               |
+| `1.0`  | 10/01/2023    | Criação do documento.              | Nicolas Souza | Maurício      |
