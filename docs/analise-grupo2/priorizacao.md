@@ -1,8 +1,8 @@
-# Verificação - Rich-picture
+# Verificação - Priorização
 
 ## Introdução
 
-O presente artefato apresenta os resultados a verificação do artefato: Rich-picture, elaborado pelo grupo 2, e disponível [neste link](../prerastreabilidade/richpicture.md).
+O presente artefato apresenta os resultados a verificação do artefato: Priorização, elaborado pelo grupo 2, e disponível [neste link](../elicitacao/priorizacao.md).
 
 ## Metodologia
 
@@ -16,15 +16,17 @@ Os resultados para as verificações encontram-se nas tabelas a seguir.
 
 A verificação de padronização visa determinar se o artefato está de acordo com o padrão do projeto, e tem seu resultado registrado na Tabela 1.
 
+<!-- @TODO: preencher essa tabela  -->
+
 |ID |            Questão                                     | Resposta | Comentários  |
 |:-:| :----------------------------------------------------- | ---------| ------------ |
-| 1 | A linguagem e ortografia estão corretas?               | Sim | |
-| 2 | Possui links para os outros artefatos?                 | Sim | |
-| 3 | Existe uma introdução no artefato?                     | Sim | |
-| 4 | Existe tabela de versionamento padronizado e completo? | Sim | |
-| 5 | Há referências bibliográficas no artefato?             | Sim | |
-| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? | Incompleto | Os elementos não são introduzidos no texto |
-| 7 | As legendas estão no padrão do projeto (Figura 1)?  | Não | |
+| 1 | A linguagem e ortografia estão corretas?               | Sim |
+| 2 | Possui links para os outros artefatos?                 | Não |
+| 3 | Existe uma introdução no artefato?                     | Sim |
+| 4 | Existe tabela de versionamento padronizado e completo? | Sim |
+| 5 | Há referências bibliográficas no artefato?             | Sim | O título de referências bibliográficas não está de acordo com o padrão do projeto, além de possuir numeração.
+| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |  Não | Faltam as fontes nas legendas
+| 7 | As legendas estão no padrão do projeto (Figura 1)?  | Não |
 
 <div style="text-align: center">
 <p>
@@ -48,24 +50,23 @@ Figura 1: Padrão de legenda (Fonte: autor, 2023).
 
 ### Conteúdo
 
-A verificação do conteúdo visa verificar se o conteúdo do artefato está de acordo com a bibliografia da disciplina. Os critérios avaliados e respostas obtidas encontram-se na tabela 2.
+A verificação do conteúdo visa verificar se o conteúdo do artefato está de acordo com a bibliografia da disciplina. Os critérios avaliados e respostas obtidas encontram-se na Tabela 2.
 
 ID | Questão | Resposta | Comentários
 :-: | - | :-: | -
-1 | O richpicture possui legenda explicando os símbolos utilizados no diagrama? | Sim |
-2 | A legenda está completa? | Não | Falta a legenda para a fronteira.
-3 | O richpicture contém fronteira? | Sim |
-4 | O richpicture contém atores? | Sim |
-5 | O richpicture contém operações? | Sim |
-6 | O richpicture contém armazenamento de dados? | Sim |
-7 | O richpicture contém setas? | Sim |
-8 | Os atores estão fora da fronteira? | Sim |
-9 | As operações são ações? | Sim |
-10 | Os elementos de armazenamento de dados estão dentro da fronteira? | Sim |
-11 | O fluxo das setas segue uma ordem lógica? | Não | Os fluxos estão confusos, pois várias ações iniciadas pelo usuário tem a seta partindo da ação, como "observar", por exemplo.
+1 | Foram utilizadas no mínimo duas técnicas (além de MoSCoW e 100$)? | Não |
+2 | Houve participação do cliente ou personas na priorização? | Não |
+3 | A priorização foi validada? | Não |
+4 | Os participantes da elicitação são explicitados? | Não |
+5 | Há gravação ou registro da priorização dos requisitos? | Não |
+6 | Os requisitos priorizados estão identificados por IDs? | Sim |
+7 | Há um cronograma para a realização da priorização? | Não |
+8 | A técnica FTF foi aplicada corretamente? | Sim |
+9 | A técnica MoSCoW foi aplicada corretamente? | Sim |
+
 <div style="text-align: center">
 <p>
-Tabela 2: Resultados da verificação. (Fonte: autor, 2023).
+Tabela 2: Resultado da Verificação de Conteúdo. (Fonte: autor, 2023)
 </p>
 </div>
 

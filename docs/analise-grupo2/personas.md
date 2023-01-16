@@ -83,7 +83,7 @@ Tabela 2: Resultado da Verificação de Conteúdo. (Fonte: autor, 2023)
 
 [3] Plano de Ensino da disciplina Requisitos de Software.
 
-[4] Gerencia e Qualidade de Software - Aula 06 - Técnica de revisão – UNIVESP<br/>
+[4] Gerência e Qualidade de Software - Aula 06 - Técnica de revisão – UNIVESP<br/>
 
 [5] Gerência e Qualidade de Software - Aula 05 - Verificação e Validação – UNIVESP<br/>
 
