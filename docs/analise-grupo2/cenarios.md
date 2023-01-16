@@ -1,8 +1,8 @@
-# Verificação - Casos de Uso
+# Verificação - Cenários
 
 ## Introdução
 
-O presente artefato apresenta os resultados a verificação do artefato: Casos de Uso, elaborado pelo grupo 2, e disponível [neste link](../modelagem/casos_de_uso.md).
+O presente artefato apresenta os resultados a verificação do artefato: Cenários, elaborado pelo grupo 2, e disponível [neste link](../modelagem/cenarios.md).
 
 ## Metodologia
 
@@ -19,12 +19,12 @@ A verificação de padronização visa determinar se o artefato está de acordo 
 |ID |            Questão                                     | Resposta | Comentários  |
 |:-:| :----------------------------------------------------- | ---------| ------------ |
 | 1 | A linguagem e ortografia estão corretas?               | Sim
-| 2 | Possui links para os outros artefatos?                 | Sim
+| 2 | Possui links para os outros artefatos?                 | Sim |
 | 3 | Existe uma introdução no artefato?                     | Sim
 | 4 | Existe tabela de versionamento padronizado e completo? | Sim
 | 5 | Há referências bibliográficas no artefato?             | Sim
-| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? | Não | As tabelas de especificação dos casos de uso não não introduzidas no texto |
-| 7 | As legendas estão no padrão do projeto (Figura 1)?  | Sim
+| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? | Não | As tabelas dos cenários estão sem legenda.
+| 7 | As legendas estão no padrão do projeto (Figura 1)?  | Sim |
 
 <div style="text-align: center">
 <p>
@@ -52,20 +52,16 @@ A verificação do conteúdo visa verificar se o conteúdo do artefato está de 
 
 ID | Questão | Resposta | Comentários
 :-: | - | :-: | -
-1 | Existe as especificações dos casos de uso? | Sim |
-2 | Existe os atores principais e secundários no caso de uso? | Sim |
-3 | O ator principal está do lado esquerdo do sistema no diagrama? | Sim |
-4 | Os atores secundários estão do lado direito do sistema no diagrama? | Sim |
-5 | Os atores estão fora da caixe de limite do sistema no diagrama? | Sim |
-6 | Existe a participação do cliente e/ou persona na validação do Diagrama de Caso de Uso? | Não |
-7 | A especificação dos casos de uso possui: nome? | Sim |
-8 | A especificação dos casos de uso possui:  descrição? | Sim |
-9 | A especificação dos casos de uso possui:  atores? | Sim |
-10 | A especificação dos casos de uso possui: pré-condição? | Não |
-11 | A especificação dos casos de uso possui:  pós-condição? | Sim |
-12 | A especificação dos casos de uso possui: fluxo principal? | Sim |
-13 | A especificação dos casos de uso possui: fluxo alternativo? | Sim |
-14 | A especificação dos casos de uso possui: fluxo de exceção? | Sim |
+1 | As especificações dos cenários para o projeto | Sim |
+2 | O título é auto explicativo? | Sim |
+3 | Os atores foram listados de forma correta? | Sim |
+4 | Os cenários possuem: título? | Sim |
+5 | Os cenários possuem: metas/objetivos? | Sim |
+6 | Os cenários possuem: contexto? | Sim |
+7 | Os cenários possuem: atores? | Sim |
+8 | Os cenários possuem: recursos? | Sim |
+9 | Os cenários possuem: exceção? | Sim |
+10 | Os cenários possuem: episódios? | Sim |
 
 <div style="text-align: center">
 <p>
