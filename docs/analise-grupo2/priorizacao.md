@@ -16,8 +16,6 @@ Os resultados para as verificações encontram-se nas tabelas a seguir.
 
 A verificação de padronização visa determinar se o artefato está de acordo com o padrão do projeto, e tem seu resultado registrado na Tabela 1.
 
-<!-- @TODO: preencher essa tabela  -->
-
 |ID |            Questão                                     | Resposta | Comentários  |
 |:-:| :----------------------------------------------------- | ---------| ------------ |
 | 1 | A linguagem e ortografia estão corretas?               | Sim |
