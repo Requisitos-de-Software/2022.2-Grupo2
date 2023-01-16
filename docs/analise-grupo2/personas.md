@@ -1,8 +1,8 @@
-# Verificação - Questionário
+# Verificação - Personas
 
 ## Introdução
 
-O presente artefato apresenta os resultados a verificação do artefato: Questionário, elaborado pelo grupo 2, e disponível [neste link](../elicitacao/questionario.md).
+O presente artefato apresenta os resultados a verificação do artefato: Personas, elaborado pelo grupo 2, e disponível [neste link](../elicitacao/personas.md).
 
 ## Metodologia
 
@@ -18,13 +18,13 @@ A verificação de padronização visa determinar se o artefato está de acordo 
 
 |ID |            Questão                                     | Resposta | Comentários  |
 |:-:| :----------------------------------------------------- | ---------| ------------ |
-| 1 | A linguagem e ortografia estão corretas?               | Sim |
-| 2 | Possui links para os outros artefatos?                 | Não |
+| 1 | A linguagem e ortografia estão corretas?               | Sim | O nome do aplicativo é lichess, sem o C maiúsculo, como está no artefato.
+| 2 | Possui links para os outros artefatos?                 | Sim |
 | 3 | Existe uma introdução no artefato?                     | Sim |
 | 4 | Existe tabela de versionamento padronizado e completo? | Sim |
 | 5 | Há referências bibliográficas no artefato?             | Sim |
-| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? | Não | As tabelas não são introduzidas no texto.
-| 7 | As legendas estão no padrão do projeto (Figura 1)?  | Sim
+| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? | Não | Falta a introdução das tabelas no texto. Não há necessidade de colocar legenda nas fotos das personas. |
+| 7 | As legendas estão no padrão do projeto (Figura 1)?  | Não | Além disso, algumas legendas estão acima das tabelas e outras embaixo. O padrão do projeto é embaixo.
 
 <div style="text-align: center">
 <p>
@@ -52,14 +52,22 @@ A verificação do conteúdo visa verificar se o conteúdo do artefato está de 
 
 ID | Questão | Resposta | Comentários
 :-: | - | :-: | -
-1 | Os requisitos elicitados são verificáveis? |  | Não são verificáveis: Q01 (qual critério define o "minimalismo"?, Q02 (qual tipo de feedback?), Q05 (quais medidas? qual tipo de suporte externo?), Q11 (estimular como? como verificar se o usuário está estimulado?), Q13 (ensinar como? como verificar se o aplicativo ensina?)
-2 | Houve participação do cliente ou personas na elicitação? | Não |
-3 | Os requisitos foram validados? | Não |
-4 | Há gravação ou registro da elicitação dos requisitos? | Não |
-5 | Os requisitos foram priorizados? | Sim | Foram priorizados, mas a priorização não está nessa página e não há link para ela.
-6 | Os requisitos são classificados em Funcionais e Não Funcionais? | Sim |
-7 | A classificação entre Funcionais e Não Funcionais está correta? | Sim |
-8 | Os requisitos possuem identificador de acordo com o padrão ("Q01")? | Sim |
+1 | O perfil do usuário possui: idade (criança, jovem, adulto, terceira idade, etc)? | Sim |
+2 | O perfil do usuário possui: experiência (leito/novato, especialista)? | Sim |
+3 | O perfil do usuário possui: atitudes (tecnófilos, tecnofóbicos)? | Sim |
+4 | O perfil do usuário possui: tarefas primárias (compra, venda, etc)? | Sim |
+5 | As personas foram criadas com base no perfil de usuário? | Sim |
+6 | A quantidade de personas é justificada? | Não | A quantidade introduzida no texto não condiz com a quantidade de personas.
+7 | As personas possuem: identidade (nome e sobrenome)? | Sim |
+8 | As personas possuem: idade e dados demográficos? | Sim | Os dados poderiam ser mais detalhados, com o bairro onde as personas moram em Brasília e profissão.
+9 | As personas possuem: foto? | Sim |
+10 | As personas possuem: status (primária, secundária, stakeholder, antipersona)? | Sim | Há um erro de digitação no status da Ana Júlia.
+11 | As personas possuem: objetivos? | Sim | Nos objetivos das personas estão alguns traços de personalidade, como introversão (Ravi) e extroversão (Roberta). Não são objetivos.
+12 | As personas possuem: habilidades (especialidade, educação, treinamento e competências específicas)? | Incompleto | A maioria das habilidades citadas não estão relacionadas ao domínio da aplicação e às interações entre as personas e o produto.
+13 | As personas possuem: tarefas (tarefas básicas ou críticas)? | Sim |
+14 | As personas possuem: relacionamentos? | Sim |
+15 | As personas possuem: expectativas?  | Não | As expectativas devem ser a respeito da aplicação.
+16 | A metodologia para construção das personas está registrada? | Sim |
 
 <div style="text-align: center">
 <p>
