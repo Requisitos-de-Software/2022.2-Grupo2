@@ -67,8 +67,8 @@ nav:
       - Cenários: modelagem/cenarios.md
       - Especificação Suplementar: modelagem/especificacao_suplementar.md
       - Modelagem Ágil:
-          - Backlog: modelagem/agil/backlog.md
           - Histórias de Usuário: modelagem/agil/us.md
+          - Backlog: modelagem/agil/backlog.md
 
   - Análise de Requisitos (V&V):
       - Planejamento da Verificação: analise-grupo2/planejamento.md
@@ -84,10 +84,10 @@ nav:
       - Verificação - Priorização: analise-grupo2/priorizacao.md
       - Verificação - NFR Framework: analise-grupo2/nfr.md
       - Verificação - Casos de Uso: analise-grupo2/casos-de-uso.md
-      - Verificação - Backlog: analise-grupo2/backlog.md
-      - Verificação - Histórias de Usuário: analise-grupo2/historias-de-usuario.md
-      - Verificação - Especificação Suplementar: analise-grupo2/especificacao_sup.md
       - Verificação - Cenários: analise-grupo2/cenarios.md
+      - Verificação - Especificação Suplementar: analise-grupo2/especificacao_sup.md
+      - Verificação - Histórias de Usuário: analise-grupo2/historias-de-usuario.md
+      - Verificação - Backlog: analise-grupo2/backlog.md
 
       - Teste Piloto - V&V Grupo 3:
           - Verificação:
