@@ -1,5 +1,8 @@
-## Introdução 
-Neste documento, será realizado a verificação do artefato sobre Lexico, desenvolvido pelo grupo MEI (https://requisitos-de-software.github.io/2022.2-MEI/). Que consiste na identificação de defeitos dentro do sistema e também se cumprem aos requisitos funcionais e não funcionais.
+# Verificação - Léxico
+
+## Introdução
+
+Neste documento, será realizado a verificação do artefato sobre Léxico, desenvolvido pelo grupo MEI (<https://requisitos-de-software.github.io/2022.2-MEI/>). Que consiste na identificação de defeitos dentro do sistema e também se cumprem aos requisitos funcionais e não funcionais.
 
 ## Metodologia
 
@@ -22,6 +25,7 @@ Tabela 1: Questões levantadas. (Fonte: autor, 2022).
 </p>
 
 ## Resultados
+
 ### Checklist
 
 | ID  | Acessar | A vencer | CNPJ | Consultar | Conta | Contrib | DAS |
@@ -77,9 +81,9 @@ Tabela 4: Checklist acerca dos lexicos 14 a 17, grupo MEI. (Fonte: autor, 2022).
 
 ## Referências
 
-* [1] Lista de Verificação: Análise de Léxicos. Disponível em: https://fga-disciplinas.github.io/2019.1-Guia-Bolso/analise/analise_lexicos. Acesso em 09/01/2023.
+* [1] Lista de Verificação: Análise de Léxicos. Disponível em: <https://fga-disciplinas.github.io/2019.1-Guia-Bolso/analise/analise_Léxicos>. Acesso em 09/01/2023.
 
-* [2] Lista de Verificação: Análise de Léxicos. Disponível em: https://requisitos-de-software.github.io/2019.2-Duolingo/analise/verificacao/inspecaoLexico/ Acesso em 09/01/2023.
+* [2] Lista de Verificação: Análise de Léxicos. Disponível em: <https://requisitos-de-software.github.io/2019.2-Duolingo/analise/verificacao/inspecaoLéxico/> Acesso em 09/01/2023.
 
 ## Histórico de Versão
 
