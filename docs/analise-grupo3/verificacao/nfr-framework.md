@@ -8,24 +8,25 @@ Esse documento tem como objetivo verificar o artefato NFR framework do grupo MEI
 
 ### Checklists
 
-| Número |                                   Questão                                   | Resposta |
-| :----: | :-------------------------------------------------------------------------: | :------: |
-|   1    |                 O diagrama representa corretamente o fluxo?                 |    ✔     |
-|   2    |             Os elementos do diagrama estão bem representados?               |    ✔     |
-|   3    |   Existem softgoals suficientes para representar corretamente o contexto?   |    ✔     |
-|   4    |                      Os softgoals estão bem escritos?                       |    ✔     |
-|   5    |      As contribuições estão representando corretamente os requisitos?       |    ✔     |
-|   6    | Existem contribuições suficientes para representar corretamente o contexto? |    ✔     |
-|   7    |                  As contribuições estão bem representadas?                  |    ✔     |
-|   8    |                 Os impactos foram propagados corretamente?                  |    ✔     |
-|   9    |              Os softgoals representam corretamente os requisitos?           |    ✔     |
-|   10    |              Os graus de satisfação foram indicados?           |    ✔     |
-|   11    |              Os objetivos foram decompostos em uma hierarquia com AND/OR de softgoals?           |    ✔     |
-|   12    |              O sentido das setas e sinalizações do softgoal é coerente?           |    ✔     |
+| Identificador |                                   Questão                                   | Resposta (Sim / Não / Incompleto) |
+| :-----------: | :-------------------------------------------------------------------------: | :-------------------------------: |
+|       1       |                 O diagrama representa corretamente o fluxo?                 |                Sim                 |
+|       2       |              Os elementos do diagrama estão bem representados?              |                Sim                 |
+|       3       |   Existem softgoals suficientes para representar corretamente o contexto?   |                Sim                 |
+|       4       |                      Os softgoals estão bem escritos?                       |                Sim                 |
+|       5       |      As contribuições estão representando corretamente os requisitos?       |                Sim                 |
+|       6       | Existem contribuições suficientes para representar corretamente o contexto? |                Sim                 |
+|       7       |                  As contribuições estão bem representadas?                  |                Sim                 |
+|       8       |                 Os impactos foram propagados corretamente?                  |                Sim                 |
+|       9       |            Os softgoals representam corretamente os requisitos?             |                Sim                 |
+|      10       |                   Os graus de satisfação foram indicados?                   |                Sim                 |
+|      11       |  Os objetivos foram decompostos em uma hierarquia com AND/OR de softgoals?  |                Sim                 |
+|      12       |         O sentido das setas e sinalizações do softgoal é coerente?          |                Sim                 |
 
-<div>
+
+<div style="text-align: center">
 <p>
-Tabela 1: Checklist acerca do NFR framework. (Fonte: Davi, 2022).
+Tabela 1: Checklist acerca do NFR framework. (Fonte: autor, 2022).
 </p>
 </div>
 

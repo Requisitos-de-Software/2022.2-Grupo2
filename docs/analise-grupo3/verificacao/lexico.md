@@ -6,76 +6,76 @@ Neste documento, será realizado a verificação do artefato sobre Léxico, dese
 
 ## Metodologia
 
-Nessa etapa utilizamos o método de Checklists que consiste em questões pertinentes acerca do sucesso marcado com um "check" e o insucesso marcado com um "X".
+Nessa etapa utilizamos o método de Checklists que consiste em questões pertinentes acerca do sucesso marcado com um "sim" e o insucesso marcado com um "não" ou "incompleto".
 
 ## Questões levantadas
 
-| ID |                      Questão                      |
-| :----: | :-----------------------------------------------: |
-|   1    |     Linguagem e ortografia estão corretas?      |
-|   2    | O nome do Léxico está presente? |
-|   3    |      Possui identificação adequada?       |
-|   4    |           Possui links?           |
-|   5    |     Possui noções?      |
-|   6    |     Possui rastreabilidade das informações?      |
-|   7    |     As informações são suficientes para entendimento do léxico?      |
-|   8    |     Possui sinônimos?      |
-<p>
-Tabela 1: Questões levantadas. (Fonte: Davi, 2022).
+| ID  |                           Questão                           |
+| :-: | :---------------------------------------------------------: |
+|  1  |           Linguagem e ortografia estão corretas?            |
+|  2  |               O nome do lexico está presente?               |
+|  3  |               Possui identificação adequada?                |
+|  4  |                      Possui linkagens?                      |
+|  5  |                       Possui noções?                        |
+|  6  |           Possui rastreabilidade das informações?           |
+|  7  | As informações são suficientes para entendimento do léxico? |
+|  8  |                      Possui sinônimos?                      |
+<p style="text-align: center">
+Tabela 1: Questões levantadas. (Fonte: autor, 2022).
 </p>
 
 ## Resultados
 
 ### Checklist
 
-| ID |  Acessar | A vencer |CNPJ |Consultar |Conta |Contrib |DAS |
-| :--: | :------: | :------: | :-----: | :-----: | :-----: | :-----: | :-----: |
-|   1    | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-|   2    | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-|   3    | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-|   4    | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-|   5    | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-|   6    | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-|   7    | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-|   8    | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| ID  | Acessar | A vencer | CNPJ | Consultar | Conta | Contrib | DAS |
+| :-: | :-----: | :------: | :--: | :-------: | :---: | :-----: | :-: |
+|  1  |   Sim    |    Sim    |  Sim  |    Sim     |  Sim   |   Sim    | Sim  |
+|  2  |   Sim    |    Sim    |  Sim  |    Sim     |  Sim   |   Sim    | Sim  |
+|  3  |   Sim    |    Sim    |  Sim  |    Sim     |  Sim   |   Sim    | Sim  |
+|  4  |   Sim    |    Sim    |  Sim  |    Sim     |  Sim   |   Sim    | Sim  |
+|  5  |   Sim    |    Sim    |  Sim  |    Sim     |  Sim   |   Sim    | Sim  |
+|  6  |   Sim    |    Sim    |  Sim  |    Sim     |  Sim   |   Sim    | Sim  |
+|  7  |   Sim    |    Sim    |  Sim  |    Sim     |  Sim   |   Sim    | Sim  |
+|  8  |   Sim    |    Sim    |  Sim  |    Sim     |  Sim   |   Sim    | Sim  |
 
-<div>
+<div style="text-align: center">
 <p>
-Tabela 2: Checklist acerca dos Léxicos 1 a 7, grupo MEI. (Fonte: Davi, 2022).
+Tabela 2: Checklist acerca dos lexicos 1 a 7, grupo MEI. (Fonte: autor, 2022).
 </p>
 </div>
 
-| ID |  Declarar | Emitir |Exibir |Informação |Legenda |Liquidado |
-| :--: | :------: | :------: | :-----: | :-----: | :-----: | :-----: |
-|   1    | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-|   2    | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-|   3    | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-|   4    | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-|   5    | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-|   6    | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-|   7    | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-|   8    | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| ID  | Declarar | Emitir | Exibir | Informação | Legenda | Liquidado |
+| :-: | :------: | :----: | :----: | :--------: | :-----: | :-------: |
+|  1  |    Sim    |   Sim   |   Sim   |     Sim     |   Sim    |    Sim     |
+|  2  |    Sim    |   Sim   |   Sim   |     Sim     |   Sim    |    Sim     |
+|  3  |    Sim    |   Sim   |   Sim   |     Sim     |   Sim    |    Sim     |
+|  4  |    Sim    |   Sim   |   Sim   |     Sim     |   Sim    |    Sim     |
+|  5  |    Sim    |   Sim   |   Sim   |     Sim     |   Sim    |    Sim     |
+|  6  |    Sim    |   Sim   |   Sim   |     Sim     |   Sim    |    Sim     |
+|  7  |    Sim    |   Sim   |   Sim   |     Sim     |   Sim    |    Sim     |
+|  8  |    Sim    |   Sim   |   Sim   |     Sim     |   Sim    |    Sim     |
 
-<div>
+<div style="text-align: center">
 <p>
-Tabela 3: Checklist acerca dos Léxicos 8 a 13, grupo MEI. (Fonte: Davi, 2022).
+Tabela 3: Checklist acerca dos lexicos 8 a 13, grupo MEI. (Fonte: autor, 2022).
 </p>
 </div>
 
-| ID |  P jurídica | Restituir |SIMEI |Usuário |
-| :--: | :------: | :------: | :-----: | :-----: |
-|   1    | ✔ | ✔ | ✔ | ✔ |
-|   2    | ✔ | ✔ | ✔ | ✔ |
-|   3    | ✔ | ✔ | ✔ | ✔ |
-|   4    | ✔ | ✔ | ✔ | ✔ |
-|   5    | ✔ | ✔ | ✔ | ✔ |
-|   6    | ✔ | ✔ | ✔ | ✔ |
-|   7    | ✔ | ✔ | ✔ | ✔ |
-|   8    | ✔ | ✔ | ✔ | ✔ |
+| ID  | P jurídica | Restituir | SIMEI | Usuário |
+| :-: | :--------: | :-------: | :---: | :-----: |
+|  1  |     Sim     |    Sim     |  Sim   |   Sim    |
+|  2  |     Sim     |    Sim     |  Sim   |   Sim    |
+|  3  |     Sim     |    Sim     |  Sim   |   Sim    |
+|  4  |     Sim     |    Sim     |  Sim   |   Sim    |
+|  5  |     Sim     |    Sim     |  Sim   |   Sim    |
+|  6  |     Sim     |    Sim     |  Sim   |   Sim    |
+|  7  |     Sim     |    Sim     |  Sim   |   Sim    |
+|  8  |     Sim     |    Sim     |  Sim   |   Sim    |
 
-<div>
+<div style="text-align: center">
 <p>
-Tabela 4: Checklist acerca dos Léxicos 14 a 17, grupo MEI. (Fonte: Davi, 2022).
+Tabela 4: Checklist acerca dos lexicos 14 a 17, grupo MEI. (Fonte: autor, 2022).
 </p>
 </div>
 

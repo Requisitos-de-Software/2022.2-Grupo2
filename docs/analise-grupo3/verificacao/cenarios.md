@@ -29,7 +29,7 @@ O checklist utilizado e a inspeção realizada podem ser observados na Tabela 1.
 | 10            | Os cenários possuem Ator                                                        | Sim                               |
 | 11            | Os cenários possuem Episódios                                                   | Sim                               |
 | 12            | Os cenários possuem Restrições                                                  | Sim                               |
-| 13            | Os cenários possuem Exceção                                                     | Sim |
+| 13            | Os cenários possuem Exceção                                                     | Sim                               |
 
 <div style="text-align: center">
 <p> Tabela 1: Checklist do artefato Cenários (Fonte: autor, 2023).</p>
@@ -45,4 +45,4 @@ O checklist utilizado e a inspeção realizada podem ser observados na Tabela 1.
 
 | Versão | Data       | Descrição            | Autor(es)     | Revisor(es) |
 | ------ | ---------- | -------------------- | ------------- | ----------- |
-| `1.0`  | 09/01/2023 | Criação do documento | Lucas Gabriel | Nicolas Souza  |
+| `1.0`  | 09/01/2023 | Criação do documento | Lucas Gabriel |     Davi        |
