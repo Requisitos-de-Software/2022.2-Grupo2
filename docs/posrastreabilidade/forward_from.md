@@ -8,6 +8,9 @@ A rastreabilidade pode ser definido como uma técnica usado para determinar o re
 
 ## Metodologia
 
+A metodologia utilizada para conectar os requisitos com os artefatos foi o "foward-from". Desse modo, a pós-rastreabilidade compreende informações de rastreabilidade entre requisitos e artefatos de atividades de desenvolvimento subsequentes. Bem como também, a rastreabilidade entre requisitos, que é sobre o mapeamento de dependências entre requisitos. Um exemplo desse tipo de rastreabilidade é a informação de que um requisito refina outro requisito, generaliza ou o substitui. 
+
+Iremos utilizar tabelas as quais serão dividias em requisitos funcionais e nao funcionais.
 <!-- TO DO: Finalizar a metodologia -->
 
 ## Mapeamento 
@@ -32,7 +35,7 @@ Serão apresentados na tabela 1, o mapeamento dos documentos e sua referência d
 
 [1] SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 26. 2019. Acessado em: 22/01/2023
 
-[2]
+[2] POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamental. Acessado em 22/01/2023
 
 ## Histórico de Versão
 
