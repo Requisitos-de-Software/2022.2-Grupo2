@@ -108,4 +108,7 @@ nav:
               - Introspecção: analise-grupo3/verificacao/introspeccao.md
           - Validação:
               - Comunicação Informal: analise-grupo3/validacao/comunicacao.md
+  - Pós-rastreabilidade:
+        - Forward from: posrastreabilidade/forward_from.md
+      #  - Backward from:
   - Apresentações: apresentacoes.md
