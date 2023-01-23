@@ -36,11 +36,12 @@ Serão apresentados na tabela 1, o mapeamento dos documentos e sua referência d
 <!-- TO DO: Finalizar a mapeamento -->
 ## Requisitos Funcionais 
 
-### RF1
+Na tabelas a seguir serão registrados os requisitos não funcionais, agora com o método de pós-rastreabilidade
 
-| RF01 | *Deve existir um sistema de recompensas para incentivar os jogadores* |
-| ---- | --------------------------------------------------------------------- |
-|      |                                                                       |
+| Origem         | Épico | Tema     | História de Usuário (US)                                                                                                          | ID   | Funcionalidade | Artefato |
+| -------------- | ----- | -------- | --------------------------------------------------------------------------------------------------------------------------------- | ---- | -------------- | -------- |
+| RF09           | E01   | Partidas | Eu, como usuário, desejo configurar o tempo de partida e incremento ao iniciar uma partida para adequar ao meu estilo de jogo.    | US01 |                |          |
+| RF08,RF07,RF15 | E01   | Partidas | Eu, como usuário, desejo configurar a modalidade e dificuldade do jogo ao iniciar uma partida para não me frustrar com a partida. | US02 |                |          |
 
 
 
