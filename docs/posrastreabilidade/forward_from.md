@@ -77,5 +77,5 @@ Na tabelas a seguir serão registrados os requisitos não funcionais, agora com 
 
 | Versão | Data       | Descrição            | Autor(es)           | Revisor(es) |
 | ------ | ---------- | -------------------- | ------------------- | ----------- |
-| `1.0`  | 22/01/2023 | Criação do documento | Lucas Macedo e Davi | ---         |
-| `1.1`  | 23/01/2023 | Adicionando partes do artefato | Lucas Macedo e Davi | ---         |
+| `1.0`  | 22/01/2023 | Criação do documento | Lucas Macedo e Davi | Lucas Gabriel         |
+| `1.1`  | 23/01/2023 | Adicionando partes do artefato | Lucas Macedo e Davi | Lucas Gabriel        |
