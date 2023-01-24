@@ -162,4 +162,4 @@ Na tabela 7 podemos ver o que foi realizado no Ponto de Controle 7.
 | `1.0`  | 22/11/2022 | Versão inicial do cronograma do projeto                            | Mauricio Machado | Nicolas Souza |
 | `1.1`  | 30/11/2022 | Inclusão do cronograma realizado para o ponto de controle 2        | Nicolas Souza    | Lucas Macedo  |
 | `1.2`  | 15/12/2022 | Inclusão do cronograma realizado para o ponto de controle 3 e 4    | Davi Silva       | Nicolas Souza |
-| `1.3`  | 23/01/2023 | Inclusão do cronograma realizado para o ponto de controle 5, 6 e 7 | Lucas Macedo     |               |
+| `1.3`  | 23/01/2023 | Inclusão do cronograma realizado para o ponto de controle 5, 6 e 7 | Lucas Macedo     |    Nicolas Souza           |
