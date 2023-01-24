@@ -16,12 +16,9 @@ Serão apresentados na tabela 1, o mapeamento dos documentos e sua referência d
 
 | Legenda | Artefato                  |
 | ------- | ------------------------- |
-| HU      | História usuário          |
+| US      | História usuário          |
 | ST      | Storytelling              |
-| BS      | Brainstorm                |
-| L       | Léxico                    |
-| NFR     | NFR                       |
-| CAU     | Casos de Uso              |
+| UC      | Casos de Uso              |
 | C       | Cenários                  |
 | INT     | Introspecção              |
 | Q       | Questionário              |
@@ -35,32 +32,32 @@ Serão apresentados na tabela 1, o mapeamento dos documentos e sua referência d
 
 Na tabelas a seguir serão registrados os requisitos não funcionais, agora com o método de pós-rastreabilidade
 
-| Origem         | Épico | Tema         | História de Usuário (US)                                                                                                                         | ID   | Funcionalidade | Artefato |
-| -------------- | ----- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---- | -------------- | -------- |
-| RF09           | E01   | Partidas     | Eu, como usuário, desejo configurar o tempo de partida e incremento ao iniciar uma partida para adequar ao meu estilo de jogo.                   | US01 |                |          |
-| RF08,RF07,RF15 | E01   | Partidas     | Eu, como usuário, desejo configurar a modalidade e dificuldade do jogo ao iniciar uma partida para não me frustrar com a partida.                | US02 |                |          |
-| RF18           | E01   | Partidas     | Eu, como usuário, desejo escolher jogar contra o computador ou contra um jogador para refletir as minhas necessidades do momento.                | US03 |                |          |
-| RF20           | E02   | Partidas     | Eu, como usuário, desejo poder pausar uma partida contra o computador para poder retomá-la depois.                                               | US04 |                |          |
-| RF10           | E02   | Partidas     | Eu, como usuário, desejo configurar um estilo de jogo para o robô, baseado em jogadores famosos, para me preparar para os campeonatos de xadrez. | US05 |                |          |
-| RF15, RF19     | E03   | Partidas     | Eu, como usuário, desejo escolher o meu oponente podendo filtrar por por nome e nível, para não me frustrar com a partida.                       | US06 |                |          |
-| RF27           | E03   | Partidas     | Eu, como usuário, desejo que meu oponente não possa pausar uma partida, para manter o jogo justo.                                                | US07 |                |          |
-| RF16           | E04   | Partidas     | Eu, como usuário, desejo jogar partidas casuais sem interferir no meu ranqueamento, para não diminuir minha pontuação.                           | US08 |                |          |
-| RF17           | E04   | Partidas     | Eu, como usuário, desejo jogar partidas online sem precisar criar uma conta, para me divertir.                                                   | US09 |                |          |
-| RF02           | E05   | Tutoriais    | Eu, como usuário, desejo que um tutorial do aplicativo seja exibido na primeira vez que eu utilizá-lo, para que eu não fique desorientado.       | US10 |                |          |
-| RF13           | E05   | Tutoriais    | Eu, como usuário, desejo ter acesso à uma seção de tutorial do aplicativo, para me sentir seguro durante momentos de dúvida.                     | US11 |                |          |
-| RF05, RF23     | E06   | Tutoriais    | Eu, como usuário, desejo aprender movimentos de xadrez por meio de tutoriais, para melhorar meu desempenho.                                      | US12 |                |          |
-| RF22           | E06   | Tutoriais    | Eu, como usuário, desejo aprimorar movimentos de xadrez por meio de quebra cabeças, para me sentir desafiado.                                    | US13 |                |          |
-| RF12           | E06   | Tutoriais    | Eu, como usuário, desejo ter acesso às regras utilizadas na modalidade de xadrez durante a partida, para não me sentir desorientado.             | US14 |                |          |
-| RF14           | E07   | Tutoriais    | Eu, como usuário, desejo cadastrar tutoriais para outros usuários, para auxiliar outras pessoas.                                                 | US15 |                |          |
-| RF15           | E07   | Tutoriais    | Eu, como usuário, desejo criar quebra cabeças para outros usuários resolverem, para desafiar outras pessoas.                                     | US16 |                |          |
-| RF01, RF03     | E08   | Ranqueamento | Eu, como usuário, desejo participar de um sistema de ranqueamento, para me sentir motivado.                                                      | US17 |                |          |
-| RF11           | E08   | Ranqueamento | Eu, como usuário, desejo consultar as estatísticas das minhas partidas, para me preparar melhor.                                                 | US18 |                |          |
-| RF26           | E08   | Ranqueamento | Eu, como usuário, desejo visualizar e filtrar o ranqueamento dos jogadores, para me manter motivado.                                             | US19 |                |          |
-| RF25           | E09   | Ranqueamento | Eu, como usuário, desejo consultar as estatísticas dos quebra cabeças resolvidos, para me preparar melhor.                                       | US20 |                |          |
-| RF04           | E10   | Socialização | Eu, como usuário, desejo adicionar outros jogadores como contatos, para fazer novos amigos.                                                      | US21 |                |          |
-| RF24           | E10   | Socialização | Eu, como usuário, desejo trocar mensagens com outros jogadores, para fortalecer minhas amizades.                                                 | US22 |                |          |
-| RF06           | E11   | Ranqueamento | Eu, como usuário, desejo assistir partidas de outros jogadores, para observar as técnicas usadas.                                                | US23 |                |          |
-| RF21           | E11   | Ranqueamento | Eu, como usuário, desejo ser notificado quando partidas de outros jogadores iniciarem, para não perder partidas importantes para mim.            | US24 |                |          |
+| Origem         | Épico | Tema         | História de Usuário (US)                                                                                                                         | ID   | Funcionalidade | Artefato                       | Cenário   |
+| -------------- | ----- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---- | -------------- | ------------------------------ | --------- |
+| RF09           | E01   | Partidas     | Eu, como usuário, desejo configurar o tempo de partida e incremento ao iniciar uma partida para adequar ao meu estilo de jogo.                   | US01 |                | ETN01,GLO02,ST04               | UC01      |
+| RF08,RF07,RF15 | E01   | Partidas     | Eu, como usuário, desejo configurar a modalidade e dificuldade do jogo ao iniciar uma partida para não me frustrar com a partida.                | US02 |                | INT04,INT03,GLO01,ST04,Q04,Q08 | UC02      |
+| RF18           | E01   | Partidas     | Eu, como usuário, desejo escolher jogar contra o computador ou contra um jogador para refletir as minhas necessidades do momento.                | US03 |                | INT01                          | UC01,UC02 |
+| RF20           | E02   | Partidas     | Eu, como usuário, desejo poder pausar uma partida contra o computador para poder retomá-la depois.                                               | US04 |                | INT05                          | UC02      |
+| RF10           | E02   | Partidas     | Eu, como usuário, desejo configurar um estilo de jogo para o robô, baseado em jogadores famosos, para me preparar para os campeonatos de xadrez. | US05 |                | ENT02,ST04                     | UC02      |
+| RF15, RF19     | E03   | Partidas     | Eu, como usuário, desejo escolher o meu oponente podendo filtrar por por nome e nível, para não me frustrar com a partida.                       | US06 |                | Q08,Q04,INT02,ST02,ST05        | UC01      |
+| RF27           | E03   | Partidas     | Eu, como usuário, desejo que meu oponente não possa pausar uma partida, para manter o jogo justo.                                                | US07 |                | INT06                          | UC01      |
+| RF16           | E04   | Partidas     | Eu, como usuário, desejo jogar partidas casuais sem interferir no meu ranqueamento, para não diminuir minha pontuação.                           | US08 |                | ST03                           | UC01      |
+| RF17           | E04   | Partidas     | Eu, como usuário, desejo jogar partidas online sem precisar criar uma conta, para me divertir.                                                   | US09 |                | Q09                            | -         |
+| RF02           | E05   | Tutoriais    | Eu, como usuário, desejo que um tutorial do aplicativo seja exibido na primeira vez que eu utilizá-lo, para que eu não fique desorientado.       | US10 |                | Q10                            | UC04      |
+| RF13           | E05   | Tutoriais    | Eu, como usuário, desejo ter acesso à uma seção de tutorial do aplicativo, para me sentir seguro durante momentos de dúvida.                     | US11 |                | INT08                          | UC04      |
+| RF05, RF23     | E06   | Tutoriais    | Eu, como usuário, desejo aprender movimentos de xadrez por meio de tutoriais, para melhorar meu desempenho.                                      | US12 |                | INT07, Q13,ST11,ST13           | UC04      |
+| RF22           | E06   | Tutoriais    | Eu, como usuário, desejo aprimorar movimentos de xadrez por meio de quebra cabeças, para me sentir desafiado.                                    | US13 |                | GLO04,INT12,ST12               | UC04      |
+| RF12           | E06   | Tutoriais    | Eu, como usuário, desejo ter acesso às regras utilizadas na modalidade de xadrez durante a partida, para não me sentir desorientado.             | US14 |                | GLO03                          | UC04      |
+| RF14           | E07   | Tutoriais    | Eu, como usuário, desejo cadastrar tutoriais para outros usuários, para auxiliar outras pessoas.                                                 | US15 |                | ST13                           | UC04      |
+| RF15           | E07   | Tutoriais    | Eu, como usuário, desejo criar quebra cabeças para outros usuários resolverem, para desafiar outras pessoas.                                     | US16 |                | Q04,Q08                        | UC04      |
+| RF01, RF03     | E08   | Ranqueamento | Eu, como usuário, desejo participar de um sistema de ranqueamento, para me sentir motivado.                                                      | US17 |                | Q04,Q08                        | UC05      |
+| RF11           | E08   | Ranqueamento | Eu, como usuário, desejo consultar as estatísticas das minhas partidas, para me preparar melhor.                                                 | US18 |                | ST09,Q02                       | UC05      |
+| RF26           | E08   | Ranqueamento | Eu, como usuário, desejo visualizar e filtrar o ranqueamento dos jogadores, para me manter motivado.                                             | US19 |                | Q06,ST10                       | UC05      |
+| RF25           | E09   | Ranqueamento | Eu, como usuário, desejo consultar as estatísticas dos quebra cabeças resolvidos, para me preparar melhor.                                       | US20 |                | Q02                            | UC05      |
+| RF04           | E10   | Socialização | Eu, como usuário, desejo adicionar outros jogadores como contatos, para fazer novos amigos.                                                      | US21 | ST07           |                                | UC01      |
+| RF24           | E10   | Socialização | Eu, como usuário, desejo trocar mensagens com outros jogadores, para fortalecer minhas amizades.                                                 | US22 |                | ST08                           | -         |
+| RF06           | E11   | Ranqueamento | Eu, como usuário, desejo assistir partidas de outros jogadores, para observar as técnicas usadas.                                                | US23 |                | ST06                           | UC03      |
+| RF21           | E11   | Ranqueamento | Eu, como usuário, desejo ser notificado quando partidas de outros jogadores iniciarem, para não perder partidas importantes para mim.            | US24 |                | Q03                            | UC03,UC04 |
 
 <div style="text-align: center">
 <p> Tabela 1: Legenda do mapeamento de requisitos (Fonte: Autores[2023]).</p>
