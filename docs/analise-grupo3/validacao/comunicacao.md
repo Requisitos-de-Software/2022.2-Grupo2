@@ -32,4 +32,4 @@ A estratégia escolhida para o desenvolvimento desse documento foi a da comunica
 
 | Versão | Data       | Descrição                                                                              | Autor(es)        | Revisor(es)  |
 | ------ | ---------- | -------------------------------------------------------------------------------------- | ---------------- | ------------ |
-| `1.0`  | 08/01/2023 | Criação do documento e adição da comprovação informal                                             | Davi         | Lucas Gabriel |
+| `1.0`  | 08/01/2023 | Criação do documento e adição da comprovação informal                                             | Davi e Lucas Macedo         | Lucas Gabriel |
