@@ -69,7 +69,6 @@ nav:
       - Modelagem Ágil:
           - Histórias de Usuário: modelagem/agil/us.md
           - Backlog: modelagem/agil/backlog.md
-
   - Análise de Requisitos (V&V):
       - Planejamento da Verificação: analise-grupo2/planejamento.md
       - Verificação:
@@ -89,7 +88,6 @@ nav:
           - Especificação Suplementar: analise-grupo2/especificacao-suplementar.md
           - Histórias de Usuário: analise-grupo2/historias-de-usuario.md
           - Backlog: analise-grupo2/backlog.md
-
       - Teste Piloto - V&V Grupo 3:
           - Verificação:
               - NFR Framework: analise-grupo3/verificacao/nfr-framework.md
@@ -109,6 +107,6 @@ nav:
           - Validação:
               - Comunicação Informal: analise-grupo3/validacao/comunicacao.md
   - Pós-rastreabilidade:
-        - Forward from: posrastreabilidade/forward_from.md
+      - Forward from: posrastreabilidade/forward_from.md
       #  - Backward from:
   - Apresentações: apresentacoes.md
