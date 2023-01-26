@@ -26,7 +26,7 @@ Cada um desses Softgoals podem ser decompostos, e os tipos de decomposição sã
 
 As decomposições são especificações dos softgoals, ou seja, alterações no estado de um softgoal filho geram alterações no softgoal pai, e essas alterações são chamadas de contribuições. Essas contribuições são:
 
-| Contribuição | Descrição                                                                                                                                                  |
+| Contribuição | Descrição                                                                                                                                                   |
 | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | AND          | se os softgoals descendentes forem satisfeitos os softgoals ascendentes também são.                                                                         |
 | OR           | se algum softgoal descendente form satisfeito, o ascendente é satisfeito.                                                                                   |
@@ -59,6 +59,7 @@ A figura 1 apresenta a legenda dos diagramas NFRs que serão mencionados no rest
 Na figura 2 temos o diagrama representando o NFR de usabilidade.
 
 ![Diagrama NFR Usabilidade](./images/nfr_usabilidade.png)
+
 <div style="text-align: center">
 <p> Figura 2: Diagrama NFR Usabilidade. (Fonte: autor, 2022).
 </div>
@@ -88,8 +89,45 @@ Na figura 4 temos o diagrama representando o NFR de portabilidade.
 Na figura 5 temos o diagrama representando o NFR de performance.
 
 ![Diagrama NFR Performance](./images/nfr_performance.jpeg)
+
 <div style="text-align: center">
 <p> Figura 5: Diagrama NFR Performance. (Fonte: autor, 2022).
+</div>
+
+## Requisitos elicitados através do NFR
+
+Abaixo temos uma tabela referente aos requisitos não funcionais levantados através do NFR.
+
+|   ID    |                                           Requisito                                           |
+| :-----: | :-------------------------------------------------------------------------------------------: |
+| RNFR01  |  Sistema deve ter barra de navegação que siga padrões de UI/UX bem estabelecidos no mercado   |
+| RNFR02  |               Usuário deve conseguir padronizar sua interface de maneira única                |
+| RNFR03  |                   Sistema deve ter telas com pouca densidade de informações                   |
+| RNFR04  |               Sistema deve ter animações simples para evitar fatiga do usuário                |
+| RNFR05  |        Sistema deve apresentar acesso a todas as funcionalidades logo no início do app        |
+| RNFR06  |                         Sistema deve permitir customização de partida                         |
+| RNFR07  |                          Sistema deve permitir customização de tema                           |
+| RNFR08  |                        Sistema deve permitir customização de linguagem                        |
+| RNFR09  |                           Sistema deve permitir customização de som                           |
+| RNFR10  |             Sistema deve estar online todos os dias da semana, durante todo o dia             |
+| RNFR11  |  Sistema deve informar sobre manutenções e possíveis tempos em que o servidor estará offline  |
+| RNFR12  |         Sistema deve realizar backup dos usuário e suas conquistas de forma constante         |
+| RNFR13  |                            Sistema deve ser compatível com Android                            |
+| RNFR14  |                              Sistema deve ser compatível com iOS                              |
+| RNFR15  |                            Sistema deve ser compatível com Windows                            |
+| RNFR16  |                             Sistema deve ser compatível com Linux                             |
+| RNFR16  |                             Sistema deve ser compatível com MacOs                             |
+| RNFR17  |                              Sistema deve ser disponível na Web                               |
+| RNFR18  |                                  Sistema deve ser responsivo                                  |
+| RNFR19  | Sistema deve escurecer a tela em caso de inatividade maior de X minutos definido pelo usuário |
+| RNFR2O  |               Dispositivo deve bloquear tela em caso de inatividadde prolongada               |
+| RNFR21  |                   Sistema deve guardar a última tela em que o usuário está                    |
+| RNFR22  |              Sistema deve permitir jogar partidas mesmo sem conexão de internet               |
+| RNFR23  |           Sistema deve permitir acessar o aplicativo mesmo sem conexão de internet            |
+| RNFR 24 |                           Sistema deve ter uma taxa de atraso baixa                           |
+
+<div style="text-align: center">
+<p> Tabela 1: Requisitos de NFR. (Fonte: autor, 2022).
 </div>
 
 ## Bibliografia
@@ -100,6 +138,6 @@ Na figura 5 temos o diagrama representando o NFR de performance.
 
 ## Histórico de Versão
 
-| Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
-| ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 10/12/2022    | Criação da versão inicial do documento | Maurício Machado | Nicolas Souza  |
+| Versão | Data       | Descrição                              | Autor(es)        | Revisor(es)   |
+| ------ | ---------- | -------------------------------------- | ---------------- | ------------- |
+| `1.0`  | 10/12/2022 | Criação da versão inicial do documento | Maurício Machado | Nicolas Souza |
