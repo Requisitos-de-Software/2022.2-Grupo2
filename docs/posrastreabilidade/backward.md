@@ -57,141 +57,169 @@ A técnica de pós-rastreabilidade Backward From é o processo de rastrear os re
 ### EF01
 
 **Categoria:**
+
 **Elos:**
 
 ### EF02
 
 **Categoria:**
+
 **Elos:**
 
 ### EF03
 
 **Categoria:**
+
 **Elos:**
 
 ### EF04
 
 **Categoria:**
+
 **Elos:**
 
 ### EF05
 
 **Categoria:**
+
 **Elos:**
 
 ### EF06
 
 **Categoria:**
+
 **Elos:**
 
 ### EF07
 
 **Categoria:**
+
 **Elos:**
 
 ### EF08
 
 **Categoria:**
+
 **Elos:**
 
 ### EF09
 
 **Categoria:**
+
 **Elos:**
 
 ### EF10
 
 **Categoria:**
+
 **Elos:**
 
 ### EF11
 
 **Categoria:**
+
 **Elos:**
 
 ### EF12
 
 **Categoria:**
+
 **Elos:**
 
 ### EF13
 
 **Categoria:**
+
 **Elos:**
 
 ### EF14
 
 **Categoria:**
+
 **Elos:**
 
 ### EF15
 
 **Categoria:**
+
 **Elos:**
 
 ### EF16
 
 **Categoria:**
+
 **Elos:**
 
 ### EF17
 
 **Categoria:**
+
 **Elos:**
 
 ### EF18
 
 **Categoria:**
+
 **Elos:**
 
 ### EF19
 
 **Categoria:**
+
 **Elos:**
 
 ### EF20
 
 **Categoria:**
+
 **Elos:**
 
 ### EF21
 
 **Categoria:**
+
 **Elos:**
 
 ### EF22
 
 **Categoria:**
+
 **Elos:**
 
 ### EF23
 
 **Categoria:**
+
 **Elos:**
 
 ### EF24
 
 **Categoria:**
+
 **Elos:**
 
 ### EF25
 
 **Categoria:**
+
 **Elos:**
 
 ### EF26
 
 **Categoria:**
+
 **Elos:**
 
 ### EF27
 
 **Categoria:**
+
 **Elos:**
 
 ### EF28
 
 **Categoria:**
+
 **Elos:**
 
 ## Elos Não Funcionais
