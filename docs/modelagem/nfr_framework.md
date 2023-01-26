@@ -141,3 +141,4 @@ Abaixo temos uma tabela referente aos requisitos não funcionais levantados atra
 | Versão | Data       | Descrição                              | Autor(es)        | Revisor(es)   |
 | ------ | ---------- | -------------------------------------- | ---------------- | ------------- |
 | `1.0`  | 10/12/2022 | Criação da versão inicial do documento | Maurício Machado | Nicolas Souza |
+| `1.1`  | 26/01/2022 | Adição lista de requisitos elicitados  | Maurício Machado | Nicolas Souza |
