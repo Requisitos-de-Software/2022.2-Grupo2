@@ -2,7 +2,12 @@
 
 ## Introdução
 
-A técnica de pós-rastreabilidade Backward From é o processo de rastrear os requisitos de volta até sua origem. Isso inclui identificar qual é o objetivo do requisito, quem o solicitou, quais são os requisitos relacionados e como eles se relacionam entre si. Esta técnica é importante porque permite entender a origem e o contexto dos requisitos, o que pode ser útil para tomar decisões sobre como implementá-los e garantir que eles estejam alinhados com as necessidades do negócio. O Backward From também é importante para garantir que os requisitos estejam completos e coerentes. É usado para identificar requisitos que possam estar faltando ou que possam ser redundantes, e para verificar se os requisitos são consistentes com as necessidades do negócio e com os requisitos relacionados.
+A rastreabilidade de requisitos é a técnica utilizada para prover relacionamentos entre requisitos, arquitetura e implementação final do sistema. Essa atividade visa acompanhar e descrever todo o ciclo de vida de um requisito, e, mais especificamente, a pré-rastreabilidade documenta o contexto a partir do qual emergem os requisitos e a pós-rastreabilidade vincula os requisitos ao desenho do sistema e sua implementação[2].
+
+O presente artefato documenta, utilizando a técnica Backward From, os rastros entre os requisitos e seus desenhos e implementação. Optou-se pela utilização do Meta-modelo de Toranzo, aplicado à rastreabilidade de requisitos, que perpassa pelas seguintes atividades:
+
+- Classificação dos requisitos entre quatro níveis: **ambiental, organizacional, gerencial** e **desenvolvimento**.
+- Aplicação do meta-modelo, identificando os tipos de elos entre os requisitos, entre: **satisfação, recurso, responsabilidade, representação, alocado** e **agregação**.
 
 ## Requisitos Funcionais
 
@@ -17,7 +22,7 @@ A técnica de pós-rastreabilidade Backward From é o processo de rastrear os re
 | GLO     | Glossário                 |
 | ENT     | Entrevista                |
 | RF      | Requisitos Funcionais     |
-| RNF     | Requisitos não Funcionais |
+| RNF     | Requisitos não Funcionais |  
 
 | Identificador | Requisito | Origem | Elos
 | :-: | :-: | :-: | :-: |
@@ -49,8 +54,42 @@ A técnica de pós-rastreabilidade Backward From é o processo de rastrear os re
 | RF26 | Deve ser possível visualizar e filtrar o ranqueamento de jogadores | [Q06](../elicitacao/questionario.md#requisitos-elicitados)<br/> [ST10](../elicitacao/storytelling.md#requisitos-elicitados) | [EF26](#ef26)
 | RF27 | Não deve ser possível pausar uma partida contra outro jogador | [INT06](../elicitacao/introspeccao.md#elicitação-de-requisitos) | [EF27](#ef27)
 | RF28 | Deve ser possível criar quebra cabeça para outros jogadores resolverem. | [GLO04](../elicitacao/glossario.md#requisitos-elicitados)<br/> [INT15](../elicitacao/introspeccao.md#elicitação-de-requisitos) | [EF28](#ef28)
+<div style="text-align: center">
+<p>
+Tabela 1: Requisitos Funcionais (Fonte: autor, 2023).
+</p>
+</div>
 
 ## Requisitos Não Funcionais
+
+| Identificador | Requisito | Origem | Elos
+| :-: | :-: | :-: | :-: |
+| RNF01 | Sistema deve ter barra de navegação que siga padrões de UI/UX bem estabelecidos no mercado | [NFR](../modelagem/nfr_framework.md#nfrs) | ENF01
+| RNF02 | Usuário deve conseguir padronizar sua interface de maneira única | [NFR](../modelagem/nfr_framework.md#nfrs) | ENF02
+| RNF03 | Sistema deve ter no máximo 5 interações por funcionalidade | [NFR](../modelagem/nfr_framework.md#nfrs) | ENF03
+| RNF04 | Sistema deve ter animações simples de no máximo 300 milésimos | [NFR](../modelagem/nfr_framework.md#nfrs) | ENF04
+| RNF05 | Sistema deve apresentar acesso a todas as funcionalidades logo no início do app | [NFR](../modelagem/nfr_framework.md#nfrs) | ENF05
+| RNF07 | Sistema deve permitir customização de tema (claro e escuro) | [NFR](../modelagem/nfr_framework.md#nfrs) | ENF07
+| RNF08 | Sistema deve permitir customização de linguagem (português, inglês e espanhol) | [NFR](../modelagem/nfr_framework.md#nfrs) | ENF08
+| RNF09 | Sistema deve permitir customização de som (habilitar e desabilitar efeitos sonoros) | [NFR](../modelagem/nfr_framework.md#nfrs) | ENF09
+| RNF10 | Sistema deve estar online todos os dias da semana, durante todo o dia | [NFR](../modelagem/nfr_framework.md#nfrs) | ENF10
+| RNF11 | Sistema deve informar sobre manutenções e possíveis tempos em que o servidor estará offline via  [NFR](../modelagem/nfr_framework.md#nfrs) | ENF11notificação |
+| RNF12 | Sistema deve realizar backup automático dos dados do usuário todo dia em horário com menor  [NFR](../modelagem/nfr_framework.md#nfrs) | ENF12acesso (a ser determinado pelo sistema) |
+| RNF13 | Sistema deve ser compatível com Android (de versão 9.0 até atual) | [NFR](../modelagem/nfr_framework.md#nfrs) | ENF13
+| RNF14 | Sistema deve ser compatível com iOS (de versão 12 até atual) | [NFR](../modelagem/nfr_framework.md#nfrs) | ENF14
+| RNF17 | Sistema deve ser disponível na Web | [NFR](../modelagem/nfr_framework.md#nfrs) | ENF17
+| RNF18 | Sistema deve ser responsivo | [NFR](../modelagem/nfr_framework.md#nfrs) | ENF18
+| RNF19 | Sistema deve escurecer a tela em caso de inatividade maior de X minutos definido pelo usuário | [NFR](../modelagem/nfr_framework.md#nfrs) | ENF19
+| RNF2O | Dispositivo deve bloquear tela em caso de inatividade prolongada | [NFR](../modelagem/nfr_framework.md#nfrs) | ENF2O
+| RNF21 | Sistema deve guardar a última tela em que o usuário está | [NFR](../modelagem/nfr_framework.md#nfrs) | ENF21
+| RNF22 | Sistema deve permitir jogar partidas mesmo sem conexão de internet | [NFR](../modelagem/nfr_framework.md#nfrs) | ENF22
+| RNF23 | Sistema deve permitir acessar o aplicativo mesmo sem conexão de internet | [NFR](../modelagem/nfr_framework.md#nfrs) | ENF23
+| RNF24 | Sistema deve ter uma taxa de atraso abaixa de 100 milissegundos | [NFR](../modelagem/nfr_framework.md#nfrs) | ENF24
+<div style="text-align: center">
+<p>
+Tabela 1: Requisitos Funcionais (Fonte: autor, 2023).
+</p>
+</div>
 
 ## Elos Funcionais
 
