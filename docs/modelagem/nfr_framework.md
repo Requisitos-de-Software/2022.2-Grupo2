@@ -98,33 +98,29 @@ Na figura 5 temos o diagrama representando o NFR de performance.
 
 Abaixo temos uma tabela referente aos requisitos não funcionais levantados através do NFR.
 
-|   ID    |                                           Requisito                                           |
-| :-----: | :-------------------------------------------------------------------------------------------: |
-| RNFR01  |  Sistema deve ter barra de navegação que siga padrões de UI/UX bem estabelecidos no mercado   |
-| RNFR02  |               Usuário deve conseguir padronizar sua interface de maneira única                |
-| RNFR03  |                   Sistema deve ter telas com pouca densidade de informações                   |
-| RNFR04  |               Sistema deve ter animações simples para evitar fatiga do usuário                |
-| RNFR05  |        Sistema deve apresentar acesso a todas as funcionalidades logo no início do app        |
-| RNFR06  |                         Sistema deve permitir customização de partida                         |
-| RNFR07  |                          Sistema deve permitir customização de tema                           |
-| RNFR08  |                        Sistema deve permitir customização de linguagem                        |
-| RNFR09  |                           Sistema deve permitir customização de som                           |
-| RNFR10  |             Sistema deve estar online todos os dias da semana, durante todo o dia             |
-| RNFR11  |  Sistema deve informar sobre manutenções e possíveis tempos em que o servidor estará offline  |
-| RNFR12  |         Sistema deve realizar backup dos usuário e suas conquistas de forma constante         |
-| RNFR13  |                            Sistema deve ser compatível com Android                            |
-| RNFR14  |                              Sistema deve ser compatível com iOS                              |
-| RNFR15  |                            Sistema deve ser compatível com Windows                            |
-| RNFR16  |                             Sistema deve ser compatível com Linux                             |
-| RNFR16  |                             Sistema deve ser compatível com MacOs                             |
-| RNFR17  |                              Sistema deve ser disponível na Web                               |
-| RNFR18  |                                  Sistema deve ser responsivo                                  |
-| RNFR19  | Sistema deve escurecer a tela em caso de inatividade maior de X minutos definido pelo usuário |
-| RNFR2O  |               Dispositivo deve bloquear tela em caso de inatividadde prolongada               |
-| RNFR21  |                   Sistema deve guardar a última tela em que o usuário está                    |
-| RNFR22  |              Sistema deve permitir jogar partidas mesmo sem conexão de internet               |
-| RNFR23  |           Sistema deve permitir acessar o aplicativo mesmo sem conexão de internet            |
-| RNFR 24 |                           Sistema deve ter uma taxa de atraso baixa                           |
+| ID | Requisito |
+| :-----: | :-------------------------------------------------------------------------------------------: | | |
+| RNFR01 | Sistema deve ter barra de navegação que siga padrões de UI/UX bem estabelecidos no mercado |
+| RNFR02 | Usuário deve conseguir padronizar sua interface de maneira única |
+| RNFR03 | Sistema deve ter no máximo 5 interações por funcionalidade |
+| RNFR04 | Sistema deve ter animações simples de no máximo 300 milésimos |
+| RNFR05 | Sistema deve apresentar acesso a todas as funcionalidades logo no início do app |
+| RNFR07 | Sistema deve permitir customização de tema (claro e escuro) |
+| RNFR08 | Sistema deve permitir customização de linguagem (português, inglês e espanhol) |
+| RNFR09 | Sistema deve permitir customização de som (habilitar e desabilitar efeitos sonoros) |
+| RNFR10 | Sistema deve estar online todos os dias da semana, durante todo o dia |
+| RNFR11 | Sistema deve informar sobre manutenções e possíveis tempos em que o servidor estará offline via notificação |
+| RNFR12 | Sistema deve realizar backup automático dos dados do usuário todo dia em horário com menor acesso (a ser determinado pelo sistema) |
+| RNFR13 | Sistema deve ser compatível com Android (de versão 9.0 até atual) |
+| RNFR14 | Sistema deve ser compatível com iOS (de versão 12 até atual) |
+| RNFR17 | Sistema deve ser disponível na Web |
+| RNFR18 | Sistema deve ser responsivo |
+| RNFR19 | Sistema deve escurecer a tela em caso de inatividade maior de X minutos definido pelo usuário |
+| RNFR2O | Dispositivo deve bloquear tela em caso de inatividadde prolongada |
+| RNFR21 | Sistema deve guardar a última tela em que o usuário está |
+| RNFR22 | Sistema deve permitir jogar partidas mesmo sem conexão de internet |
+| RNFR23 | Sistema deve permitir acessar o aplicativo mesmo sem conexão de internet |
+| RNFR 24 | Sistema deve ter uma taxa de atraso abaixa de 100 milisegundos |
 
 <div style="text-align: center">
 <p> Tabela 1: Requisitos de NFR. (Fonte: autor, 2022).
@@ -142,3 +138,4 @@ Abaixo temos uma tabela referente aos requisitos não funcionais levantados atra
 | ------ | ---------- | -------------------------------------- | ---------------- | ------------- |
 | `1.0`  | 10/12/2022 | Criação da versão inicial do documento | Maurício Machado | Nicolas Souza |
 | `1.1`  | 26/01/2022 | Adição lista de requisitos elicitados  | Maurício Machado | Nicolas Souza |
+| `1.2`  | 26/01/2022 | Ajustes solicitados                    | Maurício Machado | Nicolas Souza |
