@@ -26,7 +26,7 @@ Cada um desses Softgoals podem ser decompostos, e os tipos de decomposição sã
 
 As decomposições são especificações dos softgoals, ou seja, alterações no estado de um softgoal filho geram alterações no softgoal pai, e essas alterações são chamadas de contribuições. Essas contribuições são:
 
-| Contribuição | Descrição                                                                                                                                                  |
+| Contribuição | Descrição                                                                                                                                                   |
 | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | AND          | se os softgoals descendentes forem satisfeitos os softgoals ascendentes também são.                                                                         |
 | OR           | se algum softgoal descendente form satisfeito, o ascendente é satisfeito.                                                                                   |
@@ -59,6 +59,7 @@ A figura 1 apresenta a legenda dos diagramas NFRs que serão mencionados no rest
 Na figura 2 temos o diagrama representando o NFR de usabilidade.
 
 ![Diagrama NFR Usabilidade](./images/nfr_usabilidade.png)
+
 <div style="text-align: center">
 <p> Figura 2: Diagrama NFR Usabilidade. (Fonte: autor, 2022).
 </div>
@@ -88,8 +89,41 @@ Na figura 4 temos o diagrama representando o NFR de portabilidade.
 Na figura 5 temos o diagrama representando o NFR de performance.
 
 ![Diagrama NFR Performance](./images/nfr_performance.jpeg)
+
 <div style="text-align: center">
 <p> Figura 5: Diagrama NFR Performance. (Fonte: autor, 2022).
+</div>
+
+## Requisitos elicitados através do NFR
+
+Abaixo temos uma tabela referente aos requisitos não funcionais levantados através do NFR.
+
+| ID | Requisito |
+| :-----: | :-------------------------------------------------------------------------------------------: | | |
+| RNF01 | Sistema deve ter barra de navegação que siga padrões de UI/UX bem estabelecidos no mercado |
+| RNF02 | Usuário deve conseguir padronizar sua interface de maneira única |
+| RNF03 | Sistema deve ter no máximo 5 interações por funcionalidade |
+| RNF04 | Sistema deve ter animações simples de no máximo 300 milésimos |
+| RNF05 | Sistema deve apresentar acesso a todas as funcionalidades logo no início do app |
+| RNF07 | Sistema deve permitir customização de tema (claro e escuro) |
+| RNF08 | Sistema deve permitir customização de linguagem (português, inglês e espanhol) |
+| RNF09 | Sistema deve permitir customização de som (habilitar e desabilitar efeitos sonoros) |
+| RNF10 | Sistema deve estar online todos os dias da semana, durante todo o dia |
+| RNF11 | Sistema deve informar sobre manutenções e possíveis tempos em que o servidor estará offline via notificação |
+| RNF12 | Sistema deve realizar backup automático dos dados do usuário todo dia em horário com menor acesso (a ser determinado pelo sistema) |
+| RNF13 | Sistema deve ser compatível com Android (de versão 9.0 até atual) |
+| RNF14 | Sistema deve ser compatível com iOS (de versão 12 até atual) |
+| RNF17 | Sistema deve ser disponível na Web |
+| RNF18 | Sistema deve ser responsivo |
+| RNF19 | Sistema deve escurecer a tela em caso de inatividade maior de X minutos definido pelo usuário |
+| RNF2O | Dispositivo deve bloquear tela em caso de inatividade prolongada |
+| RNF21 | Sistema deve guardar a última tela em que o usuário está |
+| RNF22 | Sistema deve permitir jogar partidas mesmo sem conexão de internet |
+| RNF23 | Sistema deve permitir acessar o aplicativo mesmo sem conexão de internet |
+| RNF24 | Sistema deve ter uma taxa de atraso abaixa de 100 milisSegundos |
+
+<div style="text-align: center">
+<p> Tabela 1: Requisitos de NFR. (Fonte: autor, 2022).
 </div>
 
 ## Bibliografia
@@ -100,6 +134,8 @@ Na figura 5 temos o diagrama representando o NFR de performance.
 
 ## Histórico de Versão
 
-| Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
-| ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 10/12/2022    | Criação da versão inicial do documento | Maurício Machado | Nicolas Souza  |
+| Versão | Data       | Descrição                              | Autor(es)        | Revisor(es)   |
+| ------ | ---------- | -------------------------------------- | ---------------- | ------------- |
+| `1.0`  | 10/12/2022 | Criação da versão inicial do documento | Maurício Machado | Nicolas Souza |
+| `1.1`  | 26/01/2023 | Adição lista de requisitos elicitados  | Maurício Machado | Nicolas Souza |
+| `1.2`  | 26/01/2023 | Ajustes solicitados                    | Maurício Machado | Nicolas Souza |
