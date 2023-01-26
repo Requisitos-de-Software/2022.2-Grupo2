@@ -56,6 +56,34 @@ Vídeo 4: Apresentação da etapa 4 do projeto
 
 [Link Apresentação 4](https://youtu.be/sQir_kGXXD0)
 
+## Apresentação 5
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jOMvNtkMdbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+
+<div style="text-align: center">
+Vídeo 5: Apresentação da etapa 5 do projeto
+</div>
+<br>
+
+[Link Apresentação 5](https://youtu.be/jOMvNtkMdbk)
+
+## Apresentação 6
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FUAAh6tfyfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+
+<div style="text-align: center">
+Vídeo 6: Apresentação da etapa 6 do projeto
+</div>
+<br>
+
+[Link Apresentação 4](https://youtu.be/FUAAh6tfyfA)
+
+## Apresentação 7
+  **O grupo não realizou a entrega 7**
 
 ## Histórico de Versão
 
@@ -66,3 +94,4 @@ Vídeo 4: Apresentação da etapa 4 do projeto
 | `1.2`  | 30/11/2022 | Adição da apresentação 2 | Lucas Macedo     | Nicolas Souza |
 | `1.3`  | 10/12/2022 | Adição da apresentação 3 | Mauricio Machado | Nicolas Souza |
 | `1.4`  | 04/01/2023 | Adição da apresentação 4 | Lucas Gabriel    | Nicolas Souza      |
+| `1.5`  | 24/01/2023 | Adição da apresentação 5, 6 e 7 | Lucas Macedo    | Davi      |
