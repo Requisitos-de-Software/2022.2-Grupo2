@@ -111,6 +111,6 @@ nav:
           - Validação:
               - Comunicação Informal: analise-grupo3/validacao/comunicacao.md
   - Pós-rastreabilidade:
-      - Forward from: posrastreabilidade/forward_from.md
-      #- Backward-From: posrastreabilidade/backward.md
+      - Forward From: posrastreabilidade/forward_from.md
+      - Backward From: posrastreabilidade/backward.md
   - Apresentações: apresentacoes.md
