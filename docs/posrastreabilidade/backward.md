@@ -2,7 +2,12 @@
 
 ## Introdução
 
-A técnica de pós-rastreabilidade Backward From é o processo de rastrear os requisitos de volta até sua origem. Isso inclui identificar qual é o objetivo do requisito, quem o solicitou, quais são os requisitos relacionados e como eles se relacionam entre si. Esta técnica é importante porque permite entender a origem e o contexto dos requisitos, o que pode ser útil para tomar decisões sobre como implementá-los e garantir que eles estejam alinhados com as necessidades do negócio. O Backward From também é importante para garantir que os requisitos estejam completos e coerentes. É usado para identificar requisitos que possam estar faltando ou que possam ser redundantes, e para verificar se os requisitos são consistentes com as necessidades do negócio e com os requisitos relacionados.
+A rastreabilidade de requisitos é a técnica utilizada para prover relacionamentos entre requisitos, arquitetura e implementação final do sistema. Essa atividade visa acompanhar e descrever todo o ciclo de vida de um requisito, e, mais especificamente, a pré-rastreabilidade documenta o contexto a partir do qual emergem os requisitos e a pós-rastreabilidade vincula os requisitos ao desenho do sistema e sua implementação[2].
+
+O presente artefato documenta, utilizando a técnica Backward From, os rastros entre os requisitos e seus desenhos e implementação. Optou-se pela utilização do Meta-modelo de Toranzo, aplicado à rastreabilidade de requisitos, que perpassa pelas seguintes atividades:
+
+- Classificação dos requisitos entre quatro níveis: **ambiental, organizacional, gerencial** e **desenvolvimento**.
+- Aplicação do meta-modelo, identificando os tipos de elos entre os requisitos, entre: **satisfação, recurso, responsabilidade, representação, alocado** e **agregação**.
 
 ## Requisitos Funcionais
 
