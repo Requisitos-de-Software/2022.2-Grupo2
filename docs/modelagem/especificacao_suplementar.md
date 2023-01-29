@@ -14,8 +14,8 @@ Para a definição de requisitos do aplicativo Lichess foi utilizado o modelo FU
 
 As funcionalidades foram elicitadas e podem ser encontradas em Elicitação de requisitos e nos Casos de usos levantados.
 
-- [Elicitação de Requisitos(priorização)](/elicitacao/priorizacao.md)
-- [Casos de Uso](/modelagem/casos_de_uso.md)
+- [Elicitação de Requisitos(priorização)](../elicitacao/priorizacao.md)
+- [Casos de Uso](casos_de_uso.md)
 
 ## Usabilidade
 
