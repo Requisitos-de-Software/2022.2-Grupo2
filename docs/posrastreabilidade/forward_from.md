@@ -579,6 +579,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 |            NFR            |                                                                                                             |
 | Especificação Suplementar |                                                                                                             |
 |        Comentários        |                                          Implementação inexistente                                          |
+
 **RNF11**  
 |           RNF11           | Sistema deve realizar backup automático dos dados do usuário todo dia em horário com menor acesso (a ser determinado pelo sistema) |
 | :-----------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
