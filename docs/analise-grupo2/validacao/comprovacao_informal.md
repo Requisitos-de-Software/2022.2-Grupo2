@@ -6,7 +6,7 @@ A validação tem como objetivo a confirmação que um produto é aquele que o u
 ## Comprovação Informal
 Na validação nesse caso é uma tarefa de leitura de descrições em linguagem natural onde há o uso de clientes para identificar problemas nas expressões dos requisitos, sem o apoio automatizado e possuindo a dependência das habilidades analíticas dos leitores [1]. Diante disso, a comprovação informal será realizada por meio do envio de um e-mail para a comunidade de software livre da plataforma do Lichess.
 
-## Email 
+### Email 
 
 A baixo é possível observar na Figura 1 o e-mail enviado pelo grupo 2 da disciplina de Requisitos de Software à comunidade de software livre do Lichess. Até o momento da criação deste artefato, o grupo ainda nao obteve resposta da equipe de desenvolvedores.
 
