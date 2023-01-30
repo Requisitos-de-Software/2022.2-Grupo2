@@ -92,7 +92,7 @@ nav:
           - Especificação Suplementar: analise-grupo2/especificacao-suplementar.md
           - Histórias de Usuário: analise-grupo2/historias-de-usuario.md
           - Backlog: analise-grupo2/backlog.md
-      -Validação:
+      - Validação:
           - Comunicação Informal: analise-grupo2/validacao/comprovacao_informal.md
       - Teste Piloto - V&V Grupo 3:
           - Verificação:
