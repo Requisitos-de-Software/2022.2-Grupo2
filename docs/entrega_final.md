@@ -14,7 +14,8 @@ A Tabela 1 sintetiza os artefatos referentes ao planejamento da equipe, que elab
 
 | Artefato | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: |
-[Aplicativo_Selecionado](planejamento/aplicativo_selecionado.md) | Lucas Gabriel | Maurício |
+[Rich Picture](prerastreabilidade/richpicture.md) | Renan Lacerda | Davi Silva |
+[Aplicativo Selecionado](planejamento/aplicativo_selecionado.md) | Lucas Gabriel | Maurício |
 [Cronograma](planejamento/cronograma.md) | Mauricio Machado | Nicolas Souza |
 [Cronograma Realizado](planejamento/cronograma_realizado.md)| Mauricio Machado | Nicolas Souza |
 [Ferramentas](planejamento/ferramentas.md) | Lucas Macedo | Nicolas e Lucas Gabriel |
@@ -44,13 +45,65 @@ A Tabela 1 sintetiza os artefatos referentes ao planejamento da equipe, que elab
 <!-- @TODO: incluir quais ferramentas foram utilizadas em quais artefatos, aproveitar pra refatorar o arquivo de ferramentas pra remover as que não foram usadas e incluir as que foram e não estão lá -->
 
 ## Execução do Projeto
-<!-- @TODO: A execução do projeto (as fases/etapas do desenvolvidas no projeto). -->
+
+De acordo com o SWEBOK [3], a área de conhecimento de Requisitos de Software é responsável pela gerência dos requisitos, por meio das atividades de **elicitação, análise, especificação** e **validação** destes. Requisitos de Software expressam necessidades e restrições presentes em um produto de software, por meio de combinações complexas de dados proveniente de diversas fontes, dentre elas recursos humanos e o contexto do sistema. Requisitos também possuem atributos, como a [prioridade](elicitacao/priorizacao.md) e identificação única, representada no projeto pelos IDs dos requisitos.
+
+### Elicitação e Priorização
+
+A elicitação de requisitos diz respeito à da etapa de concepção dos requisitos de um software e à forma como o engenheiro de software pode coletá-los. Essa atividade envolve a identificação dos _stakeholders_ e a criação de relacionamentos entre a equipe de desenvolvimento e o cliente, atividade que foi feita por meio de uma [entrevista](elicitacao/entrevista.md) e um [questionário](elicitacao/questionario.md), elementos essenciais para a elaboração do [perfil do usuário](elicitacao/personas.md#perfil-do-usuario) e, em seguida, a elaboração das [personas](elicitacao/personas.md) do projeto. Os requisitos podem vir de diversas fontes, como por exemplo os objetivos do software, domínio de conhecimento, stakeholders, regras de negócio e o ambiente em que o sistema está inserido. A etapa de [elicitação](elicitacao/tecnicas_planejadas.md) utilizou diferentes [técnicas de elicitação](elicitacao/tecnicas_planejadas.md#tecnicas-de-elicitacao) para explorar as fontes citadas anteriormente. Após a elicitação, os requisitos foram [priorizados](elicitacao/priorizacao.md) por meio de três [técnicas](elicitacao/priorizacao.md#tecnicas-utilizadas) diferentes. A Tabela 2 sintetiza os artefatos elaborados durante a etapa de elicitação e priorização.
+
+<center>
+
+| Artefato | Autor(es) | Revisor(es) |
+| :-: | :-: | :-: |
+[Planejamento - Elicitação](elicitacao/tecnicas_planejadas.md) | Nicolas Souza  | Maurício Machado |
+[Brainstorming](elicitacao/brainstorming.md) | Davi Silva | Lucas Macedo, Maurício e Nicolas |
+[Entrevista](elicitacao/entrevista.md) | Lucas Gabriel | Mauricio Machado |
+[Glossário](elicitacao/glossario.md)           | Nicolas Souza |       Mauricio Machado        |
+[Introspecção](elicitacao/introspeccao.md)              | Nicolas Souza |  Lucas Macedo |
+[Questionário](elicitacao/questionario.md) | Mauricio |   Lucas Macedo    |
+[Priorização](elicitacao/priorizacao.md) | Renan | Lucas Macedo |
+<div style="text-align: center">
+<p>
+Tabela 2: Síntese dos artefatos produzidos durante a etapa de elicitação (Fonte: autor, 2023).
+</p>
+</div>
+</center>
+
+### Modelagem
+
+A etapa de modelagem do projeto englobou as atividades de **análise** e **especificação** dos requisitos. A análise de requisitos foi essencial para resolver os conflitos entre requisitos, haja vista que foram utilizadas várias fontes e técnicas durante a elicitação. Além disso, durante a análise, os requisitos de sistema foram transformados em requisitos de software [funcionais](modelagem/agil/backlog.md#requisitos-elicitados) e [não funcionais](modelagem/nfr_framework.md#requisitos-elicitados-atraves-do-nfr) verificáveis.
+
+A especificação dos requisitos contou com a produção de documentos revisáveis, avaliáveis e aprováveis, que posteriormente foram [validados](./#validacao) com a equipe de desenvolvimento do [Lichess](https://lichess.org). A Tabela 3 sintetiza os artefatos produzidos durante a etapa de modelagem.
+
+<center>
+
+| Artefato | Autor(es) | Revisor(es) |
+| :-: | :-: | :-: |
+[Casos de uso](modelagem/casos_de_uso.md)   | Lucas Macedo  |  Nicolas Souza   |
+[Cenários](modelagem/cenarios.md)| Lucas Gabriel | Nicolas Souza |
+[Especificação Suplementar](modelagem/especificacao_suplementar.md)| Davi Silva| Nicolas Souza |
+[Léxico](modelagem/lexico.md)  | Maurício Machado| Nicolas Souza  |
+[NFR Framework](modelagem/nfr_framework.md)| Maurício Machado | Nicolas Souza |
+[Backlog](modelagem/agil/backlog.md)  | Nicolas Souza |  Lucas Macedo |
+[Histórias de Usuário](modelagem/agil/us.md)  | Nicolas Souza | Lucas Macedo |
+
+<div style="text-align: center">
+<p>
+Tabela 3: Síntese dos artefatos produzidos durante a etapa de modelagem. (Fonte: autor, 2023).
+</p>
+</div>
+</center>
+
+### Pós-Rastreabilidade
 
 ## Técnicas Utilizadas
 
 <!-- @TODO: incluir uma tabela com as técnicas utilizadas ao longo do projeto, em quais artefatos foram usadas e quais são os autores/revisores desses artefatos  -->
 
 ## Verificação e Validação dos Artefatos
+
+A etapa de validação de requisitos contempla o processo de análise do documento de requisitos para garantir que ele defina o software esperado pelos usuários. Os documentos elaborados na etapa de especificação passam por uma etapa de verificação e validação, para garantir que o engenheiro de software tenha entendido os requisitos. Além disso, é importante verificar se o documento elaborado está de acordo com os padrões exigidos pelos _stakeholders_, como por exemplo uma padronização de documentos em uma empresa, é consistente, completo e de fácil entendimento. [3]
 
 A verificação foi feita por meio da inspeção, com base na proposta de Fagan [2], utilizando um checklist de erros mais comuns que podem ser identificados em projetos, tomando como base os projetos anteriores da disciplina de [Requisitos de Software](https://github.com/Requisitos-de-Software), os critérios do Plano de Ensino [1], a bibliografia da disciplina e os feedbacks dos monitores. A Tabela 7 sintetiza os responsáveis pela elaboração dos checklists para cada artefato, nos artefatos de planejamento, e execução das verificações, nos artefatos de resultados. A validação foi feita por meio da comunicação informal, via email, com as equipes de desenvolvimento dos aplicativos a serem validados.
 
@@ -126,11 +179,13 @@ Tabela 8: Síntese das apresentações (Fonte: autor, 2023)
 
 ## Bibliografia
 
-[1] Plano de Ensino da disciplina Requisitos de Software.
+[1] Plano de Ensino da disciplina Requisitos de Software.<br/>
 [2] Gerência e Qualidade de Software - Aula 06 - Técnica de revisão – UNIVESP<br/>
+[3] Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.
 
+<!-- @TODO: antes da versão final, numerar as tabelas corretamente -->
 ## Histórico de Versão
 
 | Versão | Data  | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ----- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 30/01/2023 | Criação da versão inicial do documento contendo introdução, síntese do planejamento, da verificação e validação e das gravação, e estrutura para inserção das demais seções.  | Nicolas Souza   |               |
+| `1.0`  | 30/01/2023 | Criação da versão inicial do documento contendo introdução, execução do projeto, sínteses do planejamento, da verificação e validação e das gravações, e estrutura para inserção das demais seções.  | Nicolas Souza   |               |
