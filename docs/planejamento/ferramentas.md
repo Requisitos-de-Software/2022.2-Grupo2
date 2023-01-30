@@ -17,6 +17,7 @@ As ferramentas serão softwares utilizados pela equipe para facilitar o gerencia
 |                   ![Miro](../img/miro-icon.png)                   |           Miro            | Utilizado para a criação dos artefatos rich picture                                                                                                                       |
 |               ![Lucidchart](../img/lucidchart.png)                |        Lucidchart         | Utilizado para elaboração de diagramas.                                                                                                                                   |
 | ![This Person Doesn't Exist](../img/this-person-doesnt-exist.png) | This Person Doesn't Exist | Utilizado para geração de imagens para as personas.                                                                                                                       |
+| ![Google Forms](../img/google-forms-icon.png) | Miro | Utilizado para enviar o formulário e criar o perfil de usuário                                                                                                  |
 
 <div style="text-align: center">
 <p>Tabela 1: Ferramentas utilizadas no projeto (Fonte: autor, 2022). </p>

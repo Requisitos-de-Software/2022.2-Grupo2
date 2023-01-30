@@ -53,6 +53,7 @@ A Tabela 1 sintetiza os artefatos referentes ao planejamento da equipe, que elab
 |           Miro            |         Usado na etapa 1          |                                 Criação das imagens do artefato rich picture                                  |
 |        Lucid Chart        |         Usado na etapa 3          |                                      Criação da artefato de Casos de Uso                                      |
 | This Person Doesn't Exist |         Usado na etapa 2          |                                    Coletado as fotos das personas criadas                                     |
+| Google forms | Usado na etapa 2 | Usado para criar o formulário responsável para  caracterizar o perfil de usuário  |
 
 <div style="text-align: center">
 <p> Tabela 2: Síntese do artefato de Ferramentas (Fonte: autor, 2023).</p>
