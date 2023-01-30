@@ -43,6 +43,9 @@ A Tabela 1 sintetiza os artefatos referentes ao planejamento da equipe, que elab
 
 <!-- @TODO: incluir quais ferramentas foram utilizadas em quais artefatos, aproveitar pra refatorar o arquivo de ferramentas pra remover as que não foram usadas e incluir as que foram e não estão lá -->
 
+## Execução do Projeto
+<!-- @TODO: A execução do projeto (as fases/etapas do desenvolvidas no projeto). -->
+
 ## Técnicas Utilizadas
 
 <!-- @TODO: incluir uma tabela com as técnicas utilizadas ao longo do projeto, em quais artefatos foram usadas e quais são os autores/revisores desses artefatos  -->
