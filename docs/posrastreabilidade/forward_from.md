@@ -10,7 +10,7 @@ A metodologia utilizada para conectar os requisitos com os artefatos foi o "fowa
 
 ## Mapeamento
 
-Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as quais demostram a pós-rastrabilidade associando os requistos a sua implementação.
+Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as quais demostram a pós-rastrabilidade associando os requistos a sua implementação.
 
 | Legenda | Artefato                  |
 | ------- | ------------------------- |
@@ -44,10 +44,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 |             Comentários              |                                                    Implementação completa                                                     |
 |            Funcionalidade            |                                      ![Vídeo RF01-RF03](./assets/forward/RF01-RF03.mp4)                                       |
 
-<div style="text-align: center">
-<p> Tabela 2: RF01 (Fonte: autor, 2023).</p>
-</div>
-
 **RF02**
 |                 RF02                 |                                            Deve existir uma apresentação inicial do aplicativo para o usuário no primeiro acesso                                             |
 | :----------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -60,10 +56,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | Artefatos (elicitação de requisitos) |                                                                     [Q10](../elicitacao/questionario.md)                                                                     |
 |             Comentários              |                                                                          Implementação inexistente                                                                           |
 |            Funcionalidade            |                                                                                      -                                                                                       |
-
-<div style="text-align: center">
-<p> Tabela 3: RF02 (Fonte: autor, 2023).</p>
-</div>
 
 **RF03**
 |                 RF03                 |                     Deve existir uma apresentação inicial do aplicativo para o usuário no primeiro acesso                     |
@@ -78,10 +70,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 |             Comentários              |                                                    Implementação completa                                                     |
 |            Funcionalidade            |                                      ![Vídeo RF01-RF03](./assets/forward/RF01-RF03.mp4)                                       |
 
-<div style="text-align: center">
-<p> Tabela 4: RF03 (Fonte: autor, 2023).</p>
-</div>
-
 **RF04**
 |                 RF04                 |                                         Deve ser possível adicionar outros jogadores                                          |
 | :----------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
@@ -94,10 +82,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | Artefatos (elicitação de requisitos) |                                             [ST07](../elicitacao/storytelling.md)                                             |
 |             Comentários              |                                                    Implementação completa                                                     |
 |            Funcionalidade            |                                           ![Vídeo RF04](./assets/forward/RF04.mp4)                                            |
-
-<div style="text-align: center">
-<p> Tabela 5: RF04 (Fonte: autor, 2023).</p>
-</div>
 
 **RF05**
 |                 RF05                 |                                     Deve ser possível aprender movimentos de xadrez por meio de tutoriais                                     |
@@ -112,10 +96,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 |             Comentários              |                                                            Implementação completa                                                             |
 |            Funcionalidade            |                                              ![Vídeo RF05 RF23](./assets/forward/RF05-RF23.mp4)                                               |
 
-<div style="text-align: center">
-<p> Tabela 6: RF05 (Fonte: autor, 2023).</p>
-</div>
-
 **RF06**
 |                 RF06                 |                                        Deve ser possível assistir partidas de outras pessoas                                        |
 | :----------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
@@ -128,10 +108,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | Artefatos (elicitação de requisitos) |                                                [ST06](../elicitacao/storytelling.md)                                                |
 |             Comentários              |                                                       Implementação completa                                                        |
 |            Funcionalidade            |                                              ![Vídeo RF06](./assets/forward/RF06.mp4)                                               |
-
-<div style="text-align: center">
-<p> Tabela 7: RF06 (Fonte: autor, 2023).</p>
-</div>
 
 **RF07**
 |                 RF07                 |                                              Deve ser possível configurar a dificuldade da partida contra o computador                                              |
@@ -146,10 +122,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 |             Comentários              |                                                                       Implementação completa                                                                        |
 |            Funcionalidade            |                                                      ![Vídeo RF08, RF07M](./assets/forward/RF08-RF07-RF15.mp4)                                                      |
 
-<div style="text-align: center">
-<p> Tabela 8: RF07 (Fonte: autor, 2023).</p>
-</div>
-
 **RF08**
 |                 RF08                 |                                              Deve ser possível configurar a modalidade de jogo ao iniciar uma partida                                               |
 | :----------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -162,10 +134,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | Artefatos (elicitação de requisitos) |                     [GLO01](../elicitacao/glossario.md)<br/> [INT03](../elicitacao/introspeccao.md)<br/> [ST04](../elicitacao/storytelling.md)                      |
 |             Comentários              |                                                                       Implementação completa                                                                        |
 |            Funcionalidade            |                                                      ![Vídeo RF08, RF07M](./assets/forward/RF08-RF07-RF15.mp4)                                                      |
-
-<div style="text-align: center">
-<p> Tabela 9: RF08 (Fonte: autor, 2023).</p>
-</div>
 
 **RF09**
 |                 RF09                 |                                  Deve ser possível configurar o tempo de duração da partida e incremento ao iniciar uma partida                                  |
@@ -180,10 +148,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 |             Comentários              |                                                                      Implementação completa                                                                      |
 |            Funcionalidade            |                                                             ![Video RF09](./assets/forward/RF09.mp4)                                                             |
 
-<div style="text-align: center">
-<p> Tabela 10: RF09 (Fonte: autor, 2023).</p>
-</div>
-
 **RF10**
 |                 RF10                 |                             Deve ser possível configurar um estilo de jogo para o robô, baseado em jogadores famosos, nas partidas contra o computador                             |
 | :----------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -196,10 +160,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | Artefatos (elicitação de requisitos) |                                                  [ENT02](../elicitacao/entrevista.md)<br/> [ST04](../elicitacao/storytelling.md)                                                   |
 |             Comentários              |                                                                             Implementação Inexistente                                                                              |
 |            Funcionalidade            |                                                                                         -                                                                                          |
-
-<div style="text-align: center">
-<p> Tabela 11: RF10 (Fonte: autor, 2023).</p>
-</div>
 
 **RF11**
 |                 RF11                 |                                                           Deve ser possível consultar as estatísticas das partidas anteriores                                                            |
@@ -214,10 +174,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 |             Comentários              | Implementação incompleta, é possível consultar a partida e após isso utilizar o computador para observar melhores lances, porém não há estatisticas relacionadas as partidas diretamente |
 |            Funcionalidade            |                                                                         ![Vídeo RF11](./assets/forward/RF11.mp4)                                                                         |
 
-<div style="text-align: center">
-<p> Tabela 12: RF11 (Fonte: autor, 2023).</p>
-</div>
-
 **RF12**
 |                 RF12                 |                                                        Deve ser possível consultar as regras da modalidade de jogo em andamento                                                         |
 | :----------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -230,10 +186,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | Artefatos (elicitação de requisitos) |                                                                           [GLO03](../elicitacao/glossario.md)                                                                           |
 |             Comentários              | Implementação incompleta, o modo escolhido é uma breve introdução que aparece somente no início da partida e somente para usuários "logados", ou seja, utilizando a conta da plataforma |
 |            Funcionalidade            |                                                                                            -                                                                                            |
-
-<div style="text-align: center">
-<p> Tabela 13: RF12 (Fonte: autor, 2023).</p>
-</div>
 
 **RF13**
 |                 RF13                 |                                                  Deve ser possível consultar um tutorial de uso do aplicativo                                                  |
@@ -248,10 +200,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 |             Comentários              |                                                                   Implementação inexistente                                                                    |
 |            Funcionalidade            |                                                                               -                                                                                |
 
-<div style="text-align: center">
-<p> Tabela 14: RF13 (Fonte: autor, 2023).</p>
-</div>
-
 **RF14**
 |                 RF14                 |                                     Deve ser possível elaborar tutoriais para outros jogadores                                     |
 | :----------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
@@ -264,10 +212,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | Artefatos (elicitação de requisitos) |                                               [ST13](../elicitacao/storytelling.md)                                                |
 |             Comentários              |                               Implementação inexistente, somente pode ser criado no Lichess via web                                |
 |            Funcionalidade            |                                                                 -                                                                  |
-
-<div style="text-align: center">
-<p> Tabela 15: RF14 (Fonte: autor, 2023).</p>
-</div>
 
 **RF15**    
 |                 RF15                 |                                     Deve ser possível escolher o nível do oponente ao iniciar uma partida contra outro jogador                                      |
@@ -282,10 +226,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 |             Comentários              |                          Implementação incompleta, apenas usuarios com conta na plataforma conseguem selecionar o nível de seus oponentes                           |
 |            Funcionalidade            |                                                      ![Vídeo RF08, RF07M](./assets/forward/RF08-RF07-RF15.mp4)                                                      |
 
-<div style="text-align: center">
-<p> Tabela 16: RF15 (Fonte: autor, 2023).</p>
-</div>
-
 **RF16**    
 |                 RF16                 |                                                     Deve ser possível jogar partidas não ranqueadas                                                      |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -298,10 +238,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | Artefatos (elicitação de requisitos) |                                                          [ST03](../elicitacao/storytelling.md)                                                           |
 |             Comentários              |                                                                  Implementação completa                                                                  |
 |            Funcionalidade            |                                                         ![Vídeo RF16](./assets/forward/RF16.mp4)                                                         |
-
-<div style="text-align: center">
-<p> Tabela 17: RF16 (Fonte: autor, 2023).</p>
-</div>
 
 **RF17**
 |                 RF17                 |                                   Deve ser possível jogar partidas online sem criar uma conta                                    |
@@ -316,11 +252,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 |             Comentários              |                                                      Implementação completa                                                      |
 |            Funcionalidade            |                                    ![Vídeo RF08, RF07M](./assets/forward/RF08-RF07-RF15.mp4)                                     |
 
-<div style="text-align: center">
-<p> Tabela 18: RF17 (Fonte: autor, 2023).</p>
-</div>
-
-
 **RF18**
 |                 RF18                 |                                                  Deve ser possível jogar uma partida de xadrez contra o computador                                                  |
 | :----------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -333,10 +264,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | Artefatos (elicitação de requisitos) |                                                               [INT01](../elicitacao/introspeccao.md)                                                                |
 |             Comentários              |                                                                       Implementação completa                                                                        |
 |            Funcionalidade            |                                                              ![Vídeo RF18](./assets/forward/RF18.mp4)                                                               |
-
-<div style="text-align: center">
-<p> Tabela 19: RF18 (Fonte: autor, 2023).</p>
-</div>
 
 **RF19**
 |                 RF19                 |                                Deve ser possível jogar uma partida de xadrez contra outro jogador aleatório ou escolhido                                 |
@@ -351,10 +278,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 |             Comentários              |                                                                Implementação Inexistente                                                                 |
 |            Funcionalidade            |                                                                            -                                                                             |
 
-<div style="text-align: center">
-<p> Tabela 20: RF19 (Fonte: autor, 2023).</p>
-</div>
-
 **RF20**
 |                 RF20                 |                                      Deve ser possível pausar uma partida contra o computador                                       |
 | :----------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
@@ -367,10 +290,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | Artefatos (elicitação de requisitos) |                                               [INT05](../elicitacao/introspeccao.md)                                                |
 |             Comentários              |                                                      Implementação inexistente                                                      |
 |            Funcionalidade            |                                                                  -                                                                  |
-
-<div style="text-align: center">
-<p> Tabela 21: RF20 (Fonte: autor, 2023).</p>
-</div>
 
 **RF21**
 |                 RF21                 |                                                      Deve ser possível receber notificações sobre torneios ao vivo                                                      |
@@ -385,10 +304,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 |             Comentários              |                                                                        Implementação inexistente                                                                        |
 |            Funcionalidade            |                                                                                    -                                                                                    |
 
-<div style="text-align: center">
-<p> Tabela 22: RF21 (Fonte: autor, 2023).</p>
-</div>
-
 **RF22**
 |                 RF22                 |                                    Deve ser possível resolver quebra cabeças elaborados por outros jogadores                                    |
 | :----------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -401,10 +316,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | Artefatos (elicitação de requisitos) |           [GLO04](../elicitacao/glossario.md)<br/> [INT12](../elicitacao/introspeccao.md)<br/> [ST12](../elicitacao/storytelling.md)            |
 |             Comentários              |                                                             Implementação completa                                                              |
 |            Funcionalidade            |                                                    ![Vídeo RF22](./assets/forward/RF22.mp4)                                                     |
-
-<div style="text-align: center">
-<p> Tabela 23: RF22 (Fonte: autor, 2023).</p>
-</div>
 
 **RF23**
 |                 RF23                 |                                     Deve ser possível resolver tutoriais elaborados por outros jogadores                                      |
@@ -419,10 +330,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 |             Comentários              |                                                            Implementação completa                                                             |
 |            Funcionalidade            |                                              ![Vídeo RF05 RF23](./assets/forward/RF05-RF23.mp4)                                               |
 
-<div style="text-align: center">
-<p> Tabela 24: RF23 (Fonte: autor, 2023).</p>
-</div>
-
 **RF24**
 |                 RF24                 |                                      Deve ser possível trocar mensagens com outros jogadores                                       |
 | :----------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
@@ -435,10 +342,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | Artefatos (elicitação de requisitos) |                                               [ST08](../elicitacao/storytelling.md)                                                |
 |             Comentários              |                                                       Implementação completa                                                       |
 |            Funcionalidade            |                                              ![Vídeo RF24](./assets/forward/RF24.mp4)                                              |
-
-<div style="text-align: center">
-<p> Tabela 25: RF24 (Fonte: autor, 2023).</p>
-</div>
 
 **RF25**
 |                 RF25                 |                                    Deve ser possível visualizar dados sobre os quebra-cabeças concluídos                                     |
@@ -453,10 +356,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 |             Comentários              |                                                          Implementação inexistente                                                           |
 |            Funcionalidade            |                                                                      -                                                                       |
 
-<div style="text-align: center">
-<p> Tabela 26: RF25 (Fonte: autor, 2023).</p>
-</div>
-
 **RF26**
 |                 RF26                 |                                   Deve ser possível visualizar e filtrar o ranqueamento de jogadores                                   |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
@@ -469,10 +368,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | Artefatos (elicitação de requisitos) |                            [Q06](../elicitacao/questionario.md)<br/> [ST10](../elicitacao/storytelling.md)                             |
 |             Comentários              |                                                       Implementação inexistente                                                        |
 |            Funcionalidade            |                                                                   -                                                                    |
-
-<div style="text-align: center">
-<p> Tabela 27: RF26 (Fonte: autor, 2023).</p>
-</div>
 
 **RF27**
 |                 RF27                 |                                    Não deve ser possível pausar uma partida contra outro jogador                                    |
@@ -487,10 +382,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 |             Comentários              |                                                       Implementação completa                                                        |
 |            Funcionalidade            |                                              ![Vídeo RF16](./assets/forward/RF16.mp4)                                               |
 
-<div style="text-align: center">
-<p> Tabela 28: RF27 (Fonte: autor, 2023).</p>
-</div>
-
 **RF28**
 |                 RF28                 |                                     Deve ser possível criar quebra cabeça para outros jogadores resolverem                                     |
 | :----------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -503,10 +394,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | Artefatos (elicitação de requisitos) |                                [GLO04](../elicitacao/glossario.md)<br/> [INT15](../elicitacao/introspeccao.md)                                 |
 |             Comentários              |                                                           Implementação inexistente                                                            |
 |            Funcionalidade            |                                                                       -                                                                        |
-
-<div style="text-align: center">
-<p> Tabela 29: RF28 (Fonte: autor, 2023).</p>
-</div>
 
 ### Requisitos Não Funcionais
 
