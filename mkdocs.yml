@@ -115,4 +115,5 @@ nav:
   - Pós-rastreabilidade:
       - Forward-from: posrastreabilidade/forward_from.md
       - Backward-from: posrastreabilidade/backward.md
+  - Entrega Final: entrega_final.md
   - Apresentações: apresentacoes.md
