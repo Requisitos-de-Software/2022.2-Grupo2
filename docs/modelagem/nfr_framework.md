@@ -98,29 +98,29 @@ Na figura 5 temos o diagrama representando o NFR de performance.
 
 Abaixo temos uma tabela referente aos requisitos não funcionais levantados através do NFR.
 
-| ID | Requisito |
-| :-----: | :-------------------------------------------------------------------------------------------: | | |
-| RNF01 | Sistema deve ter barra de navegação que siga padrões de UI/UX bem estabelecidos no mercado |
-| RNF02 | Usuário deve conseguir padronizar sua interface de maneira única |
-| RNF03 | Sistema deve ter no máximo 5 interações por funcionalidade |
-| RNF04 | Sistema deve ter animações simples de no máximo 300 milésimos |
-| RNF05 | Sistema deve apresentar acesso a todas as funcionalidades logo no início do app |
-| RNF07 | Sistema deve permitir customização de tema (claro e escuro) |
-| RNF08 | Sistema deve permitir customização de linguagem (português, inglês e espanhol) |
-| RNF09 | Sistema deve permitir customização de som (habilitar e desabilitar efeitos sonoros) |
-| RNF10 | Sistema deve estar online todos os dias da semana, durante todo o dia |
-| RNF11 | Sistema deve informar sobre manutenções e possíveis tempos em que o servidor estará offline via notificação |
+|  ID   |                                                             Requisito                                                              |
+| :---: | :--------------------------------------------------------------------------------------------------------------------------------: |
+| RNF01 |                     Sistema deve ter barra de navegação que siga padrões de UI/UX bem estabelecidos no mercado                     |
+| RNF02 |                                  Usuário deve conseguir padronizar sua interface de maneira única                                  |
+| RNF03 |                                     Sistema deve ter no máximo 5 interações por funcionalidade                                     |
+| RNF04 |                                   Sistema deve ter animações simples de no máximo 300 milésimos                                    |
+| RNF05 |                          Sistema deve apresentar acesso a todas as funcionalidades logo no início do app                           |
+| RNF07 |                                    Sistema deve permitir customização de tema (claro e escuro)                                     |
+| RNF08 |                           Sistema deve permitir customização de linguagem (português, inglês e espanhol)                           |
+| RNF09 |                        Sistema deve permitir customização de som (habilitar e desabilitar efeitos sonoros)                         |
+| RNF10 |                               Sistema deve estar online todos os dias da semana, durante todo o dia                                |
+| RNF11 |            Sistema deve informar sobre manutenções e possíveis tempos em que o servidor estará offline via notificação             |
 | RNF12 | Sistema deve realizar backup automático dos dados do usuário todo dia em horário com menor acesso (a ser determinado pelo sistema) |
-| RNF13 | Sistema deve ser compatível com Android (de versão 9.0 até atual) |
-| RNF14 | Sistema deve ser compatível com iOS (de versão 12 até atual) |
-| RNF17 | Sistema deve ser disponível na Web |
-| RNF18 | Sistema deve ser responsivo |
-| RNF19 | Sistema deve escurecer a tela em caso de inatividade maior de X minutos definido pelo usuário |
-| RNF2O | Dispositivo deve bloquear tela em caso de inatividade prolongada |
-| RNF21 | Sistema deve guardar a última tela em que o usuário está |
-| RNF22 | Sistema deve permitir jogar partidas mesmo sem conexão de internet |
-| RNF23 | Sistema deve permitir acessar o aplicativo mesmo sem conexão de internet |
-| RNF24 | Sistema deve ter uma taxa de atraso abaixa de 100 milisSegundos |
+| RNF13 |                                 Sistema deve ser compatível com Android (de versão 9.0 até atual)                                  |
+| RNF14 |                                    Sistema deve ser compatível com iOS (de versão 12 até atual)                                    |
+| RNF17 |                                                 Sistema deve ser disponível na Web                                                 |
+| RNF18 |                                                    Sistema deve ser responsivo                                                     |
+| RNF19 |                   Sistema deve escurecer a tela em caso de inatividade maior de X minutos definido pelo usuário                    |
+| RNF2O |                                  Dispositivo deve bloquear tela em caso de inatividade prolongada                                  |
+| RNF21 |                                      Sistema deve guardar a última tela em que o usuário está                                      |
+| RNF22 |                                 Sistema deve permitir jogar partidas mesmo sem conexão de internet                                 |
+| RNF23 |                              Sistema deve permitir acessar o aplicativo mesmo sem conexão de internet                              |
+| RNF24 |                                  Sistema deve ter uma taxa de atraso abaixa de 100 milisSegundos                                   |
 
 <div style="text-align: center">
 <p> Tabela 1: Requisitos de NFR. (Fonte: autor, 2022).
