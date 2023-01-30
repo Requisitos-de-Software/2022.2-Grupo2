@@ -8,17 +8,20 @@ Na validação nesse caso é uma tarefa de leitura de descrições em linguagem 
 
 ## Email 
 
-A baixo é possível observar na Figura 1 o e-mail enviado pelo grupo 2 da disciplina de Requisitos de Software à comunidade de software livre do Lichess e na Figura 2 a resposta do mesmo.
+A baixo é possível observar na Figura 1 o e-mail enviado pelo grupo 2 da disciplina de Requisitos de Software à comunidade de software livre do Lichess. Até o momento da criação deste artefato, o grupo ainda nao obteve resposta da equipe de desenvolvedores.
 
-![imagem 1](LINK PARA A IMAGEM1)
+![imagem 1](./imgs/validacao.png)
 <div style="text-align: center">
 <p> Figura 1: E-mail enviado à comunidade de software livre do Lichess (Fonte: autor, 2023).</p>
 </div>
 
+<!--
 ![imagem 2](LINK PARA A IMAGEM2)
 <div style="text-align: center">
 <p> Figura 2: E-mail de resposta recebido pela equipe advindo da comunidade de software livre do Lichess (Fonte: autor, 2023).</p>
 </div>
+ -->
+
 
 ## Bibliografia
 
@@ -30,4 +33,4 @@ A baixo é possível observar na Figura 1 o e-mail enviado pelo grupo 2 da disci
 
 | Versão | Data       | Descrição            | Autor(es)     | Revisor(es) |
 | ------ | ---------- | -------------------- | ------------- | ----------- |
-| `1.0`  | 29/01/2023 | Criação do Documento | Lucas Gabriel |             |
+| `1.0`  | 29/01/2023 | Criação do Documento | Lucas Gabriel |  Lucas Macedo           |
