@@ -80,7 +80,7 @@ Tabela 1: Requisitos Funcionais (Fonte: autor, 2023).
 | RNF17 | Sistema deve ser disponível na Web | [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr) | [ENF17](#enf17)
 | RNF18 | Sistema deve ser responsivo | [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr) | [ENF18](#enf18)
 | RNF19 | Sistema deve escurecer a tela em caso de inatividade maior de X minutos definido pelo usuário | [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr) | [ENF19](#enf19)
-| RNF2O | Dispositivo deve bloquear tela em caso de inatividade prolongada | [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr) | [ENF2O](#enf2o)
+| RNF2O | Dispositivo deve bloquear tela em caso de inatividade prolongada | [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr) | [ENF2O](#enf20)
 | RNF21 | Sistema deve guardar a última tela em que o usuário está | [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr) | [ENF21](#enf21)
 | RNF22 | Sistema deve permitir jogar partidas mesmo sem conexão de internet | [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr) | [ENF22](#enf22)
 | RNF23 | Sistema deve permitir acessar o aplicativo mesmo sem conexão de internet | [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr) | [ENF23](#enf23)
@@ -361,7 +361,7 @@ ambiental, organizacional, gerencial e desenvolvimento.
 
 **Elos**: Agrega  [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr)
 
-### ENF2O
+### ENF20
 
 **Categoria:** Gerencial
 
