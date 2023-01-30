@@ -97,297 +97,299 @@ Tabela 2: Requisitos Não Funcionais (Fonte: autor, 2023).
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega [Q04](../../elicitacao/questionario.md#requisitos-elicitados)
+**Elos**: Agrega [Q04](../elicitacao/questionario.md#requisitos-elicitados)
 
 ### EF02
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega [Q10](../../elicitacao/questionario.md#requisitos-elicitados)
+**Elos**: Agrega [Q10](../elicitacao/questionario.md#requisitos-elicitados)
 
 ### EF03
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega [Q04](../../elicitacao/questionario.md#requisitos-elicitados) e [Q08](../../elicitacao/questionario.md#requisitos-elicitados)
+**Elos**: Agrega [Q04](../elicitacao/questionario.md#requisitos-elicitados) e [Q08](../elicitacao/questionario.md#requisitos-elicitados)
 
 ### EF04
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega [ST07](../../elicitacao/storytelling.md#requisitos-elicitados)
+**Elos**: Agrega [ST07](../elicitacao/storytelling.md#requisitos-elicitados)
 
 ### EF05
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega [INT07](../../elicitacao/introspeccao.md#elicitação-de-requisitos), [Q13](../..elicitacao/questionario.md#requisitos-elicitados) e [ST11](../../elicitacao/storytelling.md#requisitos-elicitados)
+**Elos**: Agrega [INT07](../elicitacao/introspeccao.md#elicitação-de-requisitos), [Q13](../elicitacao/questionario.md#requisitos-elicitados) e [ST11](../elicitacao/storytelling.md#requisitos-elicitados)
 
 ### EF06
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega [ST06](../../elicitacao/storytelling.md#requisitos-elicitados)
+**Elos**: Agrega [ST06](../elicitacao/storytelling.md#requisitos-elicitados)
 
 ### EF07
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega [INT04](../../elicitacao/introspeccao.md#elicitação-de-requisitos)
+**Elos**: Agrega [INT04](../elicitacao/introspeccao.md#elicitação-de-requisitos)
 
 ### EF08
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega  [GLO01](../../elicitacao/glossario.md#requisitos-elicitados), [INT03](../../elicitacao/introspeccao.md#elicitação-de-requisitos) e [ST04](../../elicitacao/storytelling.md#requisitos-elicitados)
+**Elos**: Agrega  [GLO01](../elicitacao/glossario.md#requisitos-elicitados), [INT03](../elicitacao/introspeccao.md#elicitação-de-requisitos) e [ST04](../elicitacao/storytelling.md#requisitos-elicitados)
 
 ### EF09
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega [ENT01](../../elicitacao/entrevista.md#resultados), [GLO02](../../elicitacao/glossario.md#requisitos-elicitados) e [ST04](../../elicitacao/storytelling.md#requisitos-elicitados)
+**Elos**: Agrega [ENT01](../elicitacao/entrevista.md#resultados), [GLO02](../elicitacao/glossario.md#requisitos-elicitados) e [ST04](../elicitacao/storytelling.md#requisitos-elicitados)
 
 ### EF10
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega [ENT02](../../elicitacao/entrevista.md#resultados) e [ST04](../../elicitacao/storytelling.md#requisitos-elicitados)
+**Elos**: Agrega [ENT02](../elicitacao/entrevista.md#resultados) e [ST04](../elicitacao/storytelling.md#requisitos-elicitados)
 
 ### EF11
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega [ST09](../../elicitacao/storytelling.md#requisitos-elicitados) e  [Q02](../../elicitacao/questionario.md#requisitos-elicitados)
+**Elos**: Agrega [ST09](../elicitacao/storytelling.md#requisitos-elicitados) e  [Q02](../elicitacao/questionario.md#requisitos-elicitados)
 
 ### EF12
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega  [GLO03](../../elicitacao/glossario.md#requisitos-elicitados)
+**Elos**: Agrega  [GLO03](../elicitacao/glossario.md#requisitos-elicitados)
 
 ### EF13
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega  [INT08](../../elicitacao/introspeccao.md#elicitação-de-requisitos)
+**Elos**: Agrega  [INT08](../elicitacao/introspeccao.md#elicitação-de-requisitos)
 
 ### EF14
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega [ST13](../../elicitacao/storytelling.md#requisitos-elicitados)
+**Elos**: Agrega [ST13](../elicitacao/storytelling.md#requisitos-elicitados)
 
 ### EF15
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega [Q08](../../elicitacao/questionario.md#requisitos-elicitados) e  [Q04](../../elicitacao/questionario.md#requisitos-elicitados)
+**Elos**: Agrega [Q08](../elicitacao/questionario.md#requisitos-elicitados) e  [Q04](../elicitacao/questionario.md#requisitos-elicitados)
 
 ### EF16
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega [ST03](../../elicitacao/storytelling.md#requisitos-elicitados)
+**Elos**: Agrega [ST03](../elicitacao/storytelling.md#requisitos-elicitados)
 
 ### EF17
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega [Q09](../../elicitacao/questionario.md#requisitos-elicitados)
+**Elos**: Agrega [Q09](../elicitacao/questionario.md#requisitos-elicitados)
 
 ### EF18
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega  [INT01](../../elicitacao/introspeccao.md#elicitação-de-requisitos)
+**Elos**: Agrega  [INT01](../elicitacao/introspeccao.md#elicitação-de-requisitos)
 
 ### EF19
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega  [INT02](../../elicitacao/introspeccao.md#elicitação-de-requisitos), [ST02](../../elicitacao/storytelling.md#requisitos-elicitados) e [ST05](../../elicitacao/storytelling.md#requisitos-elicitados)
+**Elos**: Agrega  [INT02](../elicitacao/introspeccao.md#elicitação-de-requisitos), [ST02](../elicitacao/storytelling.md#requisitos-elicitados) e [ST05](../elicitacao/storytelling.md#requisitos-elicitados)
 
 ### EF20
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega [INT05](../../elicitacao/introspeccao.md#elicitação-de-requisitos)
+**Elos**: Agrega [INT05](../elicitacao/introspeccao.md#elicitação-de-requisitos)
 
 ### EF21
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega [Q03](../../elicitacao/questionario.md#requisitos-elicitados)
+**Elos**: Agrega [Q03](../elicitacao/questionario.md#requisitos-elicitados)
 
 ### EF22
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega [GLO04](../../elicitacao/glossario.md#requisitos-elicitados), [INT12](../../elicitacao/introspeccao.md#elicitação-de-requisitos) e [ST12](../../elicitacao/storytelling.md#requisitos-elicitados)
+**Elos**: Agrega [GLO04](../elicitacao/glossario.md#requisitos-elicitados), [INT12](../elicitacao/introspeccao.md#elicitação-de-requisitos) e [ST12](../elicitacao/storytelling.md#requisitos-elicitados)
 
 ### EF23
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega [ST13](../../elicitacao/storytelling.md#requisitos-elicitados)
+**Elos**: Agrega [ST13](../elicitacao/storytelling.md#requisitos-elicitados)
 
 ### EF24
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega [ST08](../../elicitacao/storytelling.md#requisitos-elicitados)
+**Elos**: Agrega [ST08](../elicitacao/storytelling.md#requisitos-elicitados)
 
 ### EF25
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega [Q02](../../elicitacao/questionario.md#requisitos-elicitados)
+**Elos**: Agrega [Q02](../elicitacao/questionario.md#requisitos-elicitados)
 
 ### EF26
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega [Q06](../../elicitacao/questionario.md#requisitos-elicitados) e [ST10](../../elicitacao/storytelling.md#requisitos-elicitados)
+**Elos**: Agrega [Q06](../elicitacao/questionario.md#requisitos-elicitados) e [ST10](../elicitacao/storytelling.md#requisitos-elicitados)
 
 ### EF27
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega  [INT06](../../elicitacao/introspeccao.md#elicitação-de-requisitos)
+**Elos**: Agrega  [INT06](../elicitacao/introspeccao.md#elicitação-de-requisitos)
 
 ### EF28
 
 **Categoria:** Desenvolvimento
 
-**Elos**: Agrega  [GLO04](../../elicitacao/glossario.md#requisitos-elicitados) e [INT15](../../elicitacao/introspeccao.md#elicitação-de-requisitos)
+**Elos**: Agrega  [GLO04](../elicitacao/glossario.md##requisitos-elicitados) e [INT15](../elicitacao/introspeccao.md#elicitação-de-requisitos)
 
 ## Elos Não Funcionais
 
+ambiental, organizacional, gerencial e desenvolvimento.
+
 ### ENF01
 
-**Categoria:** Desenvolvimento
+**Categoria:** Organizacional
 
-**Elos**: --
+**Elos**: Agrega  [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr)
 
 ### ENF02
 
-**Categoria:** Desenvolvimento
+**Categoria:** Gerencial
 
-**Elos**: --
+**Elos**: Agrega  [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr)
 
 ### ENF03
 
-**Categoria:** Desenvolvimento
+**Categoria:** Organizacional
 
-**Elos**: --
+**Elos**: Agrega  [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr)
 
 ### ENF04
 
-**Categoria:** Desenvolvimento
+**Categoria:** Ambiental
 
-**Elos**: --
+**Elos**: Agrega  [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr)
 
 ### ENF05
 
-**Categoria:** Desenvolvimento
+**Categoria:** Gerencial
 
-**Elos**: --
+**Elos**: Agrega  [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr)
 
 ### ENF07
 
-**Categoria:** Desenvolvimento
+**Categoria:** Ambiental
 
-**Elos**: --
+**Elos**: Agrega  [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr)
 
 ### ENF08
 
-**Categoria:** Desenvolvimento
+**Categoria:** Ambiental
 
-**Elos**: --
+**Elos**: Agrega  [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr)
 
 ### ENF09
 
-**Categoria:** Desenvolvimento
+**Categoria:** Ambiental
 
-**Elos**: --
+**Elos**: Agrega  [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr)
 
 ### ENF10
 
-**Categoria:** Desenvolvimento
+**Categoria:** Gerencial
 
-**Elos**: --
+**Elos**: Agrega  [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr)
 
 ### ENF11
 
-**Categoria:** Desenvolvimento
+**Categoria:** Organizacional
 
-**Elos**: --
+**Elos**: Agrega  [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr)
 
 ### ENF12
 
-**Categoria:** Desenvolvimento
+**Categoria:** Gerencial
 
-**Elos**: --
+**Elos**: Agrega  [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr)
 
 ### ENF13
 
-**Categoria:** Desenvolvimento
+**Categoria:** Ambiental
 
-**Elos**: --
+**Elos**: Agrega  [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr)
 
 ### ENF14
 
-**Categoria:** Desenvolvimento
+**Categoria:** Ambiental
 
-**Elos**: --
+**Elos**: Agrega  [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr)
 
 ### ENF17
 
-**Categoria:** Desenvolvimento
+**Categoria:** Ambiental
 
-**Elos**: --
+**Elos**: Agrega  [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr)
 
 ### ENF18
 
-**Categoria:** Desenvolvimento
+**Categoria:** Ambiental
 
-**Elos**: --
+**Elos**: Agrega  [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr)
 
 ### ENF19
 
-**Categoria:** Desenvolvimento
+**Categoria:** Organizacional
 
-**Elos**: --
+**Elos**: Agrega  [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr)
 
 ### ENF2O
 
-**Categoria:** Desenvolvimento
+**Categoria:** Gerencial
 
-**Elos**: --
+**Elos**: Agrega  [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr)
 
 ### ENF21
 
-**Categoria:** Desenvolvimento
+**Categoria:** Organizacional
 
-**Elos**: --
+**Elos**: Agrega  [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr)
 
 ### ENF22
 
-**Categoria:** Desenvolvimento
+**Categoria:** Organizacional
 
-**Elos**: --
+**Elos**: Agrega  [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr)
 
 ### ENF23
 
-**Categoria:** Desenvolvimento
+**Categoria:** Organizacional
 
-**Elos**: --
+**Elos**: Agrega  [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr)
 
 ### ENF24
 
-**Categoria:** Desenvolvimento
+**Categoria:** Organizacional
 
-**Elos**: --
+**Elos**: Agrega  [NFR](../modelagem/nfr_framework.md#requisitos-elicitados-através-do-nfr)
 
 ## Bibliografia
 
@@ -400,5 +402,6 @@ Tabela 2: Requisitos Não Funcionais (Fonte: autor, 2023).
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 22/01/2023    | Criação da introdução             |    Renan      | Nicolas Souza        |
-| `1.1`  | 26/01/2023    | Inclusão dos requisitos e estrutura para preenchimento dos elos | Nicolas Souza |
-| `1.2`  | 28/01/2023    | Documentação dos elos entre os requisitos funcionais. | Nicolas Souza |
+| `1.1`  | 26/01/2023    | Inclusão dos requisitos e estrutura para preenchimento dos elos | Nicolas Souza | Lucas Macedo |
+| `1.2`  | 28/01/2023    | Documentação dos elos entre os requisitos funcionais. | Nicolas Souza | Lucas Macedo |
+| `1.3`  | 30/01/2023    | Documentação dos elos entre os requisitos não funcionais. | Lucas Macedo | Nicolas Souza |
