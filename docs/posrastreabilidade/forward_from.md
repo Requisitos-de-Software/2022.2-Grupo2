@@ -515,7 +515,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | :-----------------------: | :----------------------------------------------------------------------------------------: |
 |            NFR            |                                                                                            |
 | Especificação Suplementar |                                                                                            |
-|      Funcionalidade       |                                             -                                              |
 |        Comentários        |                                   Implementação completa                                   |
 
 **RNF02**  
@@ -523,7 +522,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | :-----------------------: | :--------------------------------------------------------------: |
 |            NFR            |                                                                  |
 | Especificação Suplementar |                                                                  |
-|      Funcionalidade       |                                -                                 |
 |        Comentários        |                      Implementação completa                      |
 
 **RNF03**  
@@ -531,7 +529,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | :-----------------------: | :--------------------------------------------------------: |
 |            NFR            |                                                            |
 | Especificação Suplementar |                                                            |
-|      Funcionalidade       |                             -                              |
 |        Comentários        |                   Implementação completa                   |
 
 **RNF04**  
@@ -539,7 +536,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | :-----------------------: | :-----------------------------------------------------------: |
 |            NFR            |                                                               |
 | Especificação Suplementar |                                                               |
-|      Funcionalidade       |                               -                               |
 |        Comentários        |                    Implementação completa                     |
 
 **RNF05**  
@@ -547,7 +543,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | :-----------------------: | :-----------------------------------------------------------------------------: |
 |            NFR            |                                                                                 |
 | Especificação Suplementar |                                                                                 |
-|      Funcionalidade       |                                        -                                        |
 |        Comentários        |                             Implementação completa                              |
 
 **RNF06**  
@@ -555,7 +550,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | :-----------------------: | :---------------------------------------------------------: |
 |            NFR            |                                                             |
 | Especificação Suplementar |                                                             |
-|      Funcionalidade       |                              -                              |
 |        Comentários        |                   Implementação completa                    |
 
 **RNF07**  
@@ -563,7 +557,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | :-----------------------: | :----------------------------------------------------------------------------: |
 |            NFR            |                                                                                |
 | Especificação Suplementar |                                                                                |
-|      Funcionalidade       |                                       -                                        |
 |        Comentários        |                             Implementação completa                             |
 
 **RNF08**  
@@ -571,7 +564,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | :-----------------------: | :---------------------------------------------------------------------------------: |
 |            NFR            |                                                                                     |
 | Especificação Suplementar |                                                                                     |
-|      Funcionalidade       |                                          -                                          |
 |        Comentários        |                               Implementação completa                                |
 
 **RNF09**  
@@ -579,7 +571,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | :-----------------------: | :-------------------------------------------------------------------: |
 |            NFR            |                                                                       |
 | Especificação Suplementar |                                                                       |
-|      Funcionalidade       |                                   -                                   |
 |        Comentários        |                        Implementação completa                         |
 
 **RNF10**  
@@ -587,14 +578,12 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | :-----------------------: | :---------------------------------------------------------------------------------------------------------: |
 |            NFR            |                                                                                                             |
 | Especificação Suplementar |                                                                                                             |
-|      Funcionalidade       |                                                      -                                                      |
 |        Comentários        |                                          Implementação inexistente                                          |
 **RNF11**  
 |           RNF11           | Sistema deve realizar backup automático dos dados do usuário todo dia em horário com menor acesso (a ser determinado pelo sistema) |
 | :-----------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
 |            NFR            |                                                                                                                                    |
 | Especificação Suplementar |                                                                                                                                    |
-|      Funcionalidade       |                                                                 -                                                                  |
 |        Comentários        |                                                     Implementação inexistente                                                      |
 
 **RNF12**  
@@ -602,7 +591,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | :-----------------------: | :---------------------------------------------------------------: |
 |            NFR            |                                                                   |
 | Especificação Suplementar |                                                                   |
-|      Funcionalidade       |                                 -                                 |
 |        Comentários        |                      Implementação completa                       |
 
 **RNF13**  
@@ -610,7 +598,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | :-----------------------: | :----------------------------------------------------------: |
 |            NFR            |                                                              |
 | Especificação Suplementar |                                                              |
-|      Funcionalidade       |                              -                               |
 |        Comentários        |                    Implementação completa                    |
 
 **RNF14**  
@@ -618,7 +605,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | :-----------------------: | :--------------------------------: |
 |            NFR            |                                    |
 | Especificação Suplementar |                                    |
-|      Funcionalidade       |                 -                  |
 |        Comentários        |       Implementação completa       |
 
 **RNF15**  
@@ -626,7 +612,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | :-----------------------: | :-------------------------: |
 |            NFR            |                             |
 | Especificação Suplementar |                             |
-|      Funcionalidade       |              -              |
 |        Comentários        |   Implementação completa    |
 
 **RNF16**  
@@ -634,7 +619,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | :-----------------------: | :-------------------------------------------------------------------------------------------: |
 |            NFR            |                                                                                               |
 | Especificação Suplementar |                                                                                               |
-|      Funcionalidade       |                                               -                                               |
 |        Comentários        |                                   Implementação inexistente                                   |
 
 **RNF17**  
@@ -642,7 +626,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | :-----------------------: | :--------------------------------------------------------------: |
 |            NFR            |                                                                  |
 | Especificação Suplementar |                                                                  |
-|      Funcionalidade       |                                -                                 |
 |        Comentários        |                    Implementação inexistente                     |
 
 **RNF18**  
@@ -650,7 +633,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | :-----------------------: | :------------------------------------------------------: |
 |            NFR            |                                                          |
 | Especificação Suplementar |                                                          |
-|      Funcionalidade       |                            -                             |
 |        Comentários        |                  Implementação completa                  |
 
 **RNF19**  
@@ -658,7 +640,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | :-----------------------: | :----------------------------------------------------------------: |
 |            NFR            |                                                                    |
 | Especificação Suplementar |                                                                    |
-|      Funcionalidade       |                                 -                                  |
 |        Comentários        |                       Implementação completa                       |
 
 **RNF20**  
@@ -666,7 +647,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | :-----------------------: | :----------------------------------------------------------------------: |
 |            NFR            |                                                                          |
 | Especificação Suplementar |                                                                          |
-|      Funcionalidade       |                                    -                                     |
 |        Comentários        |                          Implementação completa                          |
 
 **RNF21**  
@@ -674,7 +654,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas 2 a 53, as quais as 
 | :-----------------------: | :-------------------------------------------------------------: |
 |            NFR            |                                                                 |
 | Especificação Suplementar |                                                                 |
-|      Funcionalidade       |                                -                                |
 |        Comentários        |                     Implementação completa                      |
 
 
