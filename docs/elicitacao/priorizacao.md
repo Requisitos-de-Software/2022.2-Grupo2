@@ -4,12 +4,20 @@
 
 O principal objetivo das técnicas de priorização de requisitos é auxiliar na escolha das funções ou funcionalidade mais essenciais em um sistema em desenvolvimento, definindo estratégias e parâmetros capazes de fornecer um resultado mais apropriado para cada tipo de problema. Essa prática é de relevante importância em um cenário em que as expectativas do cliente são altas, os prazos são curtos e os recursos são limitados. Para definir as prioridades de cada requisito foram utilizadas duas técnicas: MoSCow, escala de três níveis, _first things first_(FTF).
 
+### Técnicas Utilizadas
+
+A priorização dos requisitos foi feita por meio das seguintes técnicas:
+
+- [MosCoW](./#moscow)
+- [First Things First (FTF)](./#first-things-first-ftf)
+- [Escala de Três Níveis](./#escala-de-tres-niveis)
+
 ## MoSCoW
 
 O método MoSCoW é uma técnica priorização de requisitos que pode ajudar o time de desenvolvimento no processo de tomada de decisão. Alguns dos objetivos dessa estrutura são:
 
-> 1.  Identificar o grau de prioridade das tarefas em um projeto.
-> 2.  Alinhar stakeholders sobre o que deve ser feito, de acordo com a ordem de importância dos elementos considerados.
+> 1. Identificar o grau de prioridade das tarefas em um projeto.
+> 2. Alinhar stakeholders sobre o que deve ser feito, de acordo com a ordem de importância dos elementos considerados.
 
 ### Metodologia - MoSCoW
 
@@ -118,14 +126,14 @@ Para a respectiva técnica de priorização é apresentada, em forma de tabela, 
 
 Segue o esquema:
 
-> 1.  Listar todos os requisitos em uma tabela, retirando aqueles dependentes de outro requisito.
-> 2.  Estimar o benefício relativo que cada recurso fornece ao cliente ou ao negócio de 1 a 9, em que 1 é o menos significativo e 9 o mais significativo.
-> 3.  Estimar a penalidade que o negócio sofreria, se o recurso não fosse incluído, de 1 a 9, em que 1 é o com menor penalidade e 9 maior penalidade.
-> 4.  A Coluna valor total é a soma do (Benefício Relativo _Peso Relativo + Penalidade Relativa_ \* _Peso Relativo_), o peso relativo utilizado nesse caso foi de 1.
-> 5.  Estimar o custo relativo de implementação de cada requisito, de 1 a 9.
-> 6.  Estimar o grau relativo ao risco a cada requisito de uma escala de 1 a 9.
-> 7.  Calcular a prioridade para cada requisito usando: valor % / (custo % _Peso custo + risco %_ Peso Risco). O Peso custo e risco aqui utilizados foram iguais a 1.
-> 8.  Ordenar a lista em ordem decrescente de prioridade.
+> 1. Listar todos os requisitos em uma tabela, retirando aqueles dependentes de outro requisito.
+> 2. Estimar o benefício relativo que cada recurso fornece ao cliente ou ao negócio de 1 a 9, em que 1 é o menos significativo e 9 o mais significativo.
+> 3. Estimar a penalidade que o negócio sofreria, se o recurso não fosse incluído, de 1 a 9, em que 1 é o com menor penalidade e 9 maior penalidade.
+> 4. A Coluna valor total é a soma do (Benefício Relativo _Peso Relativo + Penalidade Relativa_ \* _Peso Relativo_), o peso relativo utilizado nesse caso foi de 1.
+> 5. Estimar o custo relativo de implementação de cada requisito, de 1 a 9.
+> 6. Estimar o grau relativo ao risco a cada requisito de uma escala de 1 a 9.
+> 7. Calcular a prioridade para cada requisito usando: valor % / (custo % _Peso custo + risco %_ Peso Risco). O Peso custo e risco aqui utilizados foram iguais a 1.
+> 8. Ordenar a lista em ordem decrescente de prioridade.
 
 Na _tabela 2_ é possível validar o esquema construído pelo grupo:
 
