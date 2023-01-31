@@ -8,7 +8,7 @@ Durante o segundo semestre de 2022, o grupo 2 da disciplina Requisitos de Softwa
 
 Antes do início do projeto, a equipe de trabalho reuniu-se presencialmente, durante a aula de Requisitos de Software, para definir as ferramentas de comunicação e horários das reuniões semanais. Então, durante as primeiras reuniões, foram definidas a [metodologia de trabalho](planejamento/metodologias.md), o [cronograma](planejamento/cronograma.md#cronograma) e as [ferramentas](planejamento/ferramentas.md#ferramentas) utilizadas durante o projeto. Além disso, cada integrante fez o [Rich Picture](planejamento/aplicativo_selecionado.md#aplicativos-analisados), que serviu de base para a definição do [aplicativo escolhido](planejamento/aplicativo_selecionado.md#aplicativo-definido-pela-equipe).
 
-A Tabela 1 sintetiza os artefatos referentes ao planejamento da equipe, que elaborados ao longo do semestre.
+A Tabela 1 sintetiza os artefatos referentes ao planejamento da equipe, que elaborados ao longo do semestre. Na tabela 2 sintetiza as ferramentas utlizadas durante o projeto.
 
 <center>
 
@@ -42,7 +42,24 @@ A Tabela 1 sintetiza os artefatos referentes ao planejamento da equipe, que elab
 
 ## Ferramentas
 
-<!-- @TODO: incluir quais ferramentas foram utilizadas em quais artefatos, aproveitar pra refatorar o arquivo de ferramentas pra remover as que não foram usadas e incluir as que foram e não estão lá -->
+<center>
+|        Ferramentas        |    Em qual etapa foi utilizado    |                                        Motivo pelo qual foi utilizado                                         |
+| :-----------------------: | :-------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+|          GitHub           |      Durante todo o projeto       |                   Repositório utilizado, versionamento do projeto, criação da documentação.                   |
+|         Telegram          |      Durante todo o projeto       |                                     Principal meio de comunicação do time                                     |
+|     Google planilhas      | Ficou em desuso depois da etapa 3 |                  Onde foi desenvolvido a primeira versão do cronograma planejado e realizado                  |
+|      Microsoft Teams      |      Durante todo o projeto       | Local onde foram salvados os vídeos de reunião, apresentações de ponto de controle e entrevistas com usuários |
+|          Youtube          |      Durante todo o projeto       |                 Local armazenado os vídeos gravados das reuniões, apresentações e entrevistas                 |
+|    Visual Studio Code     |      Durante todo o projeto       |                        Editor de texto gratuito usado para a construção dos artefatos                         |
+|           Miro            |         Usado na etapa 1          |                                 Criação das imagens do artefato rich picture                                  |
+|        Lucid Chart        |         Usado na etapa 3          |                                      Criação da artefato de Casos de Uso                                      |
+| This Person Doesn't Exist |         Usado na etapa 2          |                                    Coletado as fotos das personas criadas                                     |
+| Google forms | Usado na etapa 2 | Usado para criar o formulário responsável para  caracterizar o perfil de usuário  |
+
+<div style="text-align: center">
+<p> Tabela 2: Síntese do artefato de Ferramentas (Fonte: autor, 2023).</p>
+</div>
+</center>
 
 ## Execução do Projeto
 
@@ -109,41 +126,41 @@ A verificação foi feita por meio da inspeção, com base na proposta de Fagan 
 
 <center>
 
-| Artefato | Autor(es) | Revisor(es) |
-| :-: | :-: | :-: |
-[Verificação (Grupo 2) - Planejamento da verificação](analise-grupo2/planejamento.md)  | Nicolas Souza | Maurício      |
-[Verificação (Grupo 2) - Backlog](analise-grupo2/backlog.md)  | Nicolas Souza | Maurício      |
-[Verificação (Grupo 2) - Brainstorming](analise-grupo2/brainstorming.md)  | Nicolas Souza | Maurício      |
-[Verificação (Grupo 2) - Casos de uso](analise-grupo2/casos-de-uso.md)  | Nicolas Souza | Maurício      |
-[Verificação (Grupo 2) - Cenários](analise-grupo2/cenarios.md)  | Nicolas Souza | Maurício      |
-[Verificação (Grupo 2) - Entrevista](analise-grupo2/entrevista.md)  | Nicolas Souza | Maurício      |
-[Verificação (Grupo 2) - Especificação Suplementar](analise-grupo2/especificacao-suplementar.md)  | Nicolas Souza | Maurício      |
-[Verificação (Grupo 2) - Glossário](analise-grupo2/glossario.md)  | Nicolas Souza | Maurício      |
-[Verificação (Grupo 2) - Histórias de usuário](analise-grupo2/historias-de-usuario.md)  | Nicolas Souza | Maurício      |
-[Verificação (Grupo 2) - Introspecção](analise-grupo2/introspeccao.md)  | Nicolas Souza | Maurício      |
-[Verificação (Grupo 2) - Léxicos](analise-grupo2/lexicos.md)  | Nicolas Souza | Maurício      |
-[Verificação (Grupo 2) - NFR Framework](analise-grupo2/nfr.md)  | Nicolas Souza | Maurício      |
-[Verificação (Grupo 2) - Personas](analise-grupo2/personas.md)  | Nicolas Souza | Maurício      |
-[Verificação (Grupo 2) - Priorizacao](analise-grupo2/priorizacao.md)  | Nicolas Souza | Maurício      |
-[Verificação (Grupo 2) - Questionário](analise-grupo2/questionario.md)  | Nicolas Souza | Maurício      |
-[Verificação (Grupo 2) - Richpicture](analise-grupo2/richpicture.md)  | Nicolas Souza | Maurício      |
-[Verificação (Grupo 2) - Storytelling](analise-grupo2/storytelling.md)  | Nicolas Souza | Maurício      |
-[Validacao (Grupo 2)](analise-grupo2/validacao/comprovacao_informal.md) | Lucas Gabriel |  Lucas Macedo           |
-[Verificação (Grupo 3) - backlog](analise-grupo3/verificacao/backlog.md) | Davi Silva | Lucas Macedo |
-[Verificação (Grupo 3) - brainstorm](analise-grupo3/verificacao/brainstorm.md) | Davi Silva | Lucas Macedo |
-[Verificação (Grupo 3) - casos-de-uso](analise-grupo3/verificacao/casos-de-uso.md) | Davi Silva | Lucas Macedo |
-[Verificação (Grupo 3) - cenarios](analise-grupo3/verificacao/cenarios.md) | Lucas Gabriel |     Davi        |
-[Verificação (Grupo 3) - entrevista](analise-grupo3/verificacao/entrevista.md) | Lucas Gabriel |    Davi         |
-[Verificação (Grupo 3) - especificacao_sup](analise-grupo3/verificacao/especificacao_sup.md)       | Lucas Macedo | Davi        |
-[Verificação (Grupo 3) - historias-de-usuario](analise-grupo3/verificacao/historias-de-usuario.md) | Lucas Macedo | Davi        |
-[Verificação (Grupo 3) - introspeccao](analise-grupo3/verificacao/introspeccao.md) | Lucas Gabriel | Nicolas Souza   |
-[Verificação (Grupo 3) - lexico](analise-grupo3/verificacao/lexico.md) | Davi Silva | Lucas Macedo |
-[Verificação (Grupo 3) - nfr-framework](analise-grupo3/verificacao/nfr-framework.md) | Davi Silva | Lucas Macedo |
-[Verificação (Grupo 3) - perfil-usuario](analise-grupo3/verificacao/perfil-usuario.md) | Lucas Gabriel |   Davi          |
-[Verificação (Grupo 3) - persona](analise-grupo3/verificacao/persona.md) | Lucas Gabriel |    Davi         |
-[Verificação (Grupo 3) - priorizacao](analise-grupo3/verificacao/priorizacao.md)       | Lucas Macedo | Davi        |
-[Verificação (Grupo 3) - tecnicas-de-elicitacao](analise-grupo3/verificacao/tecnicas-de-elicitacao.md)       | Lucas Macedo | Davi        |
-[Validação (Grupo 3)](analise-grupo3/validacao/comunicacao.md) | Davi e Lucas Macedo | Lucas Gabriel |
+|                                                Artefato                                                |      Autor(es)      |  Revisor(es)  |
+| :----------------------------------------------------------------------------------------------------: | :-----------------: | :-----------: |
+|         [Verificação (Grupo 2) - Planejamento da verificação](analise-grupo2/planejamento.md)          |    Nicolas Souza    |   Maurício    |
+|                      [Verificação (Grupo 2) - Backlog](analise-grupo2/backlog.md)                      |    Nicolas Souza    |   Maurício    |
+|                [Verificação (Grupo 2) - Brainstorming](analise-grupo2/brainstorming.md)                |    Nicolas Souza    |   Maurício    |
+|                 [Verificação (Grupo 2) - Casos de uso](analise-grupo2/casos-de-uso.md)                 |    Nicolas Souza    |   Maurício    |
+|                     [Verificação (Grupo 2) - Cenários](analise-grupo2/cenarios.md)                     |    Nicolas Souza    |   Maurício    |
+|                   [Verificação (Grupo 2) - Entrevista](analise-grupo2/entrevista.md)                   |    Nicolas Souza    |   Maurício    |
+|    [Verificação (Grupo 2) - Especificação Suplementar](analise-grupo2/especificacao-suplementar.md)    |    Nicolas Souza    |   Maurício    |
+|                    [Verificação (Grupo 2) - Glossário](analise-grupo2/glossario.md)                    |    Nicolas Souza    |   Maurício    |
+|         [Verificação (Grupo 2) - Histórias de usuário](analise-grupo2/historias-de-usuario.md)         |    Nicolas Souza    |   Maurício    |
+|                 [Verificação (Grupo 2) - Introspecção](analise-grupo2/introspeccao.md)                 |    Nicolas Souza    |   Maurício    |
+|                      [Verificação (Grupo 2) - Léxicos](analise-grupo2/lexicos.md)                      |    Nicolas Souza    |   Maurício    |
+|                     [Verificação (Grupo 2) - NFR Framework](analise-grupo2/nfr.md)                     |    Nicolas Souza    |   Maurício    |
+|                     [Verificação (Grupo 2) - Personas](analise-grupo2/personas.md)                     |    Nicolas Souza    |   Maurício    |
+|                  [Verificação (Grupo 2) - Priorizacao](analise-grupo2/priorizacao.md)                  |    Nicolas Souza    |   Maurício    |
+|                 [Verificação (Grupo 2) - Questionário](analise-grupo2/questionario.md)                 |    Nicolas Souza    |   Maurício    |
+|                  [Verificação (Grupo 2) - Richpicture](analise-grupo2/richpicture.md)                  |    Nicolas Souza    |   Maurício    |
+|                 [Verificação (Grupo 2) - Storytelling](analise-grupo2/storytelling.md)                 |    Nicolas Souza    |   Maurício    |
+|                [Validacao (Grupo 2)](analise-grupo2/validacao/comprovacao_informal.md)                 |    Lucas Gabriel    | Lucas Macedo  |
+|                [Verificação (Grupo 3) - backlog](analise-grupo3/verificacao/backlog.md)                |     Davi Silva      | Lucas Macedo  |
+|             [Verificação (Grupo 3) - brainstorm](analise-grupo3/verificacao/brainstorm.md)             |     Davi Silva      | Lucas Macedo  |
+|           [Verificação (Grupo 3) - casos-de-uso](analise-grupo3/verificacao/casos-de-uso.md)           |     Davi Silva      | Lucas Macedo  |
+|               [Verificação (Grupo 3) - cenarios](analise-grupo3/verificacao/cenarios.md)               |    Lucas Gabriel    |     Davi      |
+|             [Verificação (Grupo 3) - entrevista](analise-grupo3/verificacao/entrevista.md)             |    Lucas Gabriel    |     Davi      |
+|      [Verificação (Grupo 3) - especificacao_sup](analise-grupo3/verificacao/especificacao_sup.md)      |    Lucas Macedo     |     Davi      |
+|   [Verificação (Grupo 3) - historias-de-usuario](analise-grupo3/verificacao/historias-de-usuario.md)   |    Lucas Macedo     |     Davi      |
+|           [Verificação (Grupo 3) - introspeccao](analise-grupo3/verificacao/introspeccao.md)           |    Lucas Gabriel    | Nicolas Souza |
+|                 [Verificação (Grupo 3) - lexico](analise-grupo3/verificacao/lexico.md)                 |     Davi Silva      | Lucas Macedo  |
+|          [Verificação (Grupo 3) - nfr-framework](analise-grupo3/verificacao/nfr-framework.md)          |     Davi Silva      | Lucas Macedo  |
+|         [Verificação (Grupo 3) - perfil-usuario](analise-grupo3/verificacao/perfil-usuario.md)         |    Lucas Gabriel    |     Davi      |
+|                [Verificação (Grupo 3) - persona](analise-grupo3/verificacao/persona.md)                |    Lucas Gabriel    |     Davi      |
+|            [Verificação (Grupo 3) - priorizacao](analise-grupo3/verificacao/priorizacao.md)            |    Lucas Macedo     |     Davi      |
+| [Verificação (Grupo 3) - tecnicas-de-elicitacao](analise-grupo3/verificacao/tecnicas-de-elicitacao.md) |    Lucas Macedo     |     Davi      |
+|                     [Validação (Grupo 3)](analise-grupo3/validacao/comunicacao.md)                     | Davi e Lucas Macedo | Lucas Gabriel |
 
 <div style="text-align: center">
 <p>
@@ -158,14 +175,14 @@ Tabela 7: Síntese dos artefatos de Verificação (Fonte: autor, 2023).
 Durante a execução do projeto o grupo fez seis entregas parciais, cujas informações estão sintetizadas na Tabela 8.
 <center>
 
-| Apresentação | Participantes |
-| :-: | :- |
-[Apresentação <br/> Ponto de Controle 1](https://youtu.be/kKjhGvfKOa8) | Davi, Lucas Gabriel, Lucas Macedo, <br/> Maurício, Nicolas e Renan
-[Apresentação <br/> Ponto de Controle 2](https://youtu.be/EC1_G0WkAuQ) | Davi, Lucas Gabriel, Lucas Macedo, <br/>Nicolas e Renan
-[Apresentação <br/> Ponto de Controle 3](https://youtu.be/QE5hB1XCDKk) | Davi, Lucas Gabriel, Lucas Macedo, <br/>Maurício e Nicolas
-[Apresentação <br/> Ponto de Controle 4](https://youtu.be/sQir_kGXXD0) | Davi, Lucas Gabriel, Lucas Macedo, <br/>Maurício e Nicolas
-[Apresentação <br/> Ponto de Controle 5](https://youtu.be/jOMvNtkMdbk) | Davi, Lucas Macedo e Lucas Gabriel
-[Apresentação <br/> Ponto de Controle 6](https://youtu.be/FUAAh6tfyfA) | Nicolas
+|                              Apresentação                              | Participantes                                                      |
+| :--------------------------------------------------------------------: | :----------------------------------------------------------------- |
+| [Apresentação <br/> Ponto de Controle 1](https://youtu.be/kKjhGvfKOa8) | Davi, Lucas Gabriel, Lucas Macedo, <br/> Maurício, Nicolas e Renan |
+| [Apresentação <br/> Ponto de Controle 2](https://youtu.be/EC1_G0WkAuQ) | Davi, Lucas Gabriel, Lucas Macedo, <br/>Nicolas e Renan            |
+| [Apresentação <br/> Ponto de Controle 3](https://youtu.be/QE5hB1XCDKk) | Davi, Lucas Gabriel, Lucas Macedo, <br/>Maurício e Nicolas         |
+| [Apresentação <br/> Ponto de Controle 4](https://youtu.be/sQir_kGXXD0) | Davi, Lucas Gabriel, Lucas Macedo, <br/>Maurício e Nicolas         |
+| [Apresentação <br/> Ponto de Controle 5](https://youtu.be/jOMvNtkMdbk) | Davi, Lucas Macedo e Lucas Gabriel                                 |
+| [Apresentação <br/> Ponto de Controle 6](https://youtu.be/FUAAh6tfyfA) | Nicolas                                                            |
 <div style="text-align: center">
 <p>
 Tabela 8: Síntese das apresentações (Fonte: autor, 2023)
@@ -189,3 +206,5 @@ Tabela 8: Síntese das apresentações (Fonte: autor, 2023)
 | Versão | Data  | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ----- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 30/01/2023 | Criação da versão inicial do documento contendo introdução, execução do projeto, sínteses do planejamento, da verificação e validação e das gravações, e estrutura para inserção das demais seções.  | Nicolas Souza   |               |
+| `1.1`  | 30/01/2023 | Adição da sintese de ferramentas | Lucas Macedo | Nicolas Souza
+
