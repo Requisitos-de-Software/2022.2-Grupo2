@@ -8,6 +8,7 @@ Durante o segundo semestre de 2022, o grupo 2 da disciplina Requisitos de Softwa
 
 Antes do início do projeto, a equipe de trabalho reuniu-se presencialmente, durante a aula de Requisitos de Software, para definir as ferramentas de comunicação e horários das reuniões semanais. Então, durante as primeiras reuniões, foram definidas a [metodologia de trabalho](planejamento/metodologias.md), o [cronograma](planejamento/cronograma.md#cronograma) e as [ferramentas](planejamento/ferramentas.md#ferramentas) utilizadas durante o projeto. Além disso, cada integrante fez o [Rich Picture](planejamento/aplicativo_selecionado.md#aplicativos-analisados), que serviu de base para a definição do [aplicativo escolhido](planejamento/aplicativo_selecionado.md#aplicativo-definido-pela-equipe).
 
+
 A Tabela 1 sintetiza os artefatos referentes ao planejamento da equipe, que elaborados ao longo do semestre. Na tabela 2 sintetiza as ferramentas utlizadas durante o projeto.
 
 <center>
@@ -41,6 +42,7 @@ A Tabela 1 sintetiza os artefatos referentes ao planejamento da equipe, que elab
 <!-- @TODO: cronograma planejado e executado, em uma mesma tabela -->
 
 ## Ferramentas
+
 
 <center>
 |        Ferramentas        |    Em qual etapa foi utilizado    |                                        Motivo pelo qual foi utilizado                                         |
@@ -126,6 +128,7 @@ A verificação foi feita por meio da inspeção, com base na proposta de Fagan 
 
 <center>
 
+
 |                                                Artefato                                                |      Autor(es)      |  Revisor(es)  |
 | :----------------------------------------------------------------------------------------------------: | :-----------------: | :-----------: |
 |         [Verificação (Grupo 2) - Planejamento da verificação](analise-grupo2/planejamento.md)          |    Nicolas Souza    |   Maurício    |
@@ -175,6 +178,7 @@ Tabela 7: Síntese dos artefatos de Verificação (Fonte: autor, 2023).
 Durante a execução do projeto o grupo fez seis entregas parciais, cujas informações estão sintetizadas na Tabela 8.
 <center>
 
+
 |                              Apresentação                              | Participantes                                                      |
 | :--------------------------------------------------------------------: | :----------------------------------------------------------------- |
 | [Apresentação <br/> Ponto de Controle 1](https://youtu.be/kKjhGvfKOa8) | Davi, Lucas Gabriel, Lucas Macedo, <br/> Maurício, Nicolas e Renan |
@@ -183,6 +187,7 @@ Durante a execução do projeto o grupo fez seis entregas parciais, cujas inform
 | [Apresentação <br/> Ponto de Controle 4](https://youtu.be/sQir_kGXXD0) | Davi, Lucas Gabriel, Lucas Macedo, <br/>Maurício e Nicolas         |
 | [Apresentação <br/> Ponto de Controle 5](https://youtu.be/jOMvNtkMdbk) | Davi, Lucas Macedo e Lucas Gabriel                                 |
 | [Apresentação <br/> Ponto de Controle 6](https://youtu.be/FUAAh6tfyfA) | Nicolas                                                            |
+
 <div style="text-align: center">
 <p>
 Tabela 8: Síntese das apresentações (Fonte: autor, 2023)
