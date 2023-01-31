@@ -121,6 +121,8 @@ Tabela 3: Síntese dos artefatos produzidos durante a etapa de modelagem. (Fonte
 
 ### Tabela dos Artefatos com seus respectivos autores, revisores e técnicas utilizadas
 
+<center>
+
 |          Etapa           |                                       Artefato                                        |        Técnica         |                          Autor(es)                          |                     Revisor(es)                      |
 | :----------------------: | :-----------------------------------------------------------------------------------: | :--------------------: | :---------------------------------------------------------: | :--------------------------------------------------: |
 |       Planejamento       |                       [Cronograma](planejamento/cronograma.md)                        |         SCRUM          |                      Mauricio Machado                       |                    Nicolas Souza                     |
@@ -165,6 +167,13 @@ Tabela 3: Síntese dos artefatos produzidos durante a etapa de modelagem. (Fonte
 |   Pós-rastreabilidade    |                  [Forward From](posrastreabilidade/forward_from.md)                   |      Forward From      |         Lucas Macedo, Davi, Mauricio, Lucas Gabriel         |                       Nicolas                        |
 |          Todas           |                           [Apresentações](apresentacoes.md)                           |        Gravação        | Nicolas, Davi, Mauricio, Lucas Gabriel, Lucas Macedo, Renan | Nicolas, Davi, Mauricio, Lucas Gabriel, Lucas Macedo |
 
+<div style="text-align: center">
+<p>
+Tabela 5: Síntese das técnicas utilizadas (Fonte: autor, 2023).
+</p>
+</div>
+
+</center>
 
 ## Verificação e Validação dos Artefatos
 
@@ -213,7 +222,7 @@ A verificação foi feita por meio da inspeção, com base na proposta de Fagan 
 
 <div style="text-align: center">
 <p>
-Tabela 7: Síntese dos artefatos de Verificação (Fonte: autor, 2023).
+Tabela 6: Síntese dos artefatos de Verificação (Fonte: autor, 2023).
 </p>
 </div>
 
@@ -236,7 +245,7 @@ Durante a execução do projeto o grupo fez seis entregas parciais, cujas inform
 
 <div style="text-align: center">
 <p>
-Tabela 8: Síntese das apresentações (Fonte: autor, 2023)
+Tabela 7: Síntese das apresentações (Fonte: autor, 2023)
 </p>
 </div>
 </center>
