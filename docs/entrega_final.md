@@ -8,8 +8,7 @@ Durante o segundo semestre de 2022, o grupo 2 da disciplina Requisitos de Softwa
 
 Antes do início do projeto, a equipe de trabalho reuniu-se presencialmente, durante a aula de Requisitos de Software, para definir as ferramentas de comunicação e horários das reuniões semanais. Então, durante as primeiras reuniões, foram definidas a [metodologia de trabalho](planejamento/metodologias.md), o [cronograma](planejamento/cronograma.md#cronograma) e as [ferramentas](planejamento/ferramentas.md#ferramentas) utilizadas durante o projeto. Além disso, cada integrante fez o [Rich Picture](planejamento/aplicativo_selecionado.md#aplicativos-analisados), que serviu de base para a definição do [aplicativo escolhido](planejamento/aplicativo_selecionado.md#aplicativo-definido-pela-equipe).
 
-
-A Tabela 1 sintetiza os artefatos referentes ao planejamento da equipe, que elaborados ao longo do semestre. Na tabela 2 sintetiza as ferramentas utlizadas durante o projeto.
+A Tabela 1 sintetiza os artefatos referentes ao planejamento da equipe, que elaborados ao longo do semestre. Na tabela 2 sintetiza as ferramentas utilizadas durante o projeto.
 
 <center>
 
@@ -42,7 +41,6 @@ A Tabela 1 sintetiza os artefatos referentes ao planejamento da equipe, que elab
 <!-- @TODO: cronograma planejado e executado, em uma mesma tabela -->
 
 ## Ferramentas
-
 
 <center>
   
@@ -183,7 +181,6 @@ A verificação foi feita por meio da inspeção, com base na proposta de Fagan 
 
 <center>
 
-
 |                                                Artefato                                                |      Autor(es)      |  Revisor(es)  |
 | :----------------------------------------------------------------------------------------------------: | :-----------------: | :-----------: |
 |         [Verificação (Grupo 2) - Planejamento da verificação](analise-grupo2/planejamento.md)          |    Nicolas Souza    |   Maurício    |
@@ -233,7 +230,6 @@ Tabela 6: Síntese dos artefatos de Verificação (Fonte: autor, 2023).
 Durante a execução do projeto o grupo fez seis entregas parciais, cujas informações estão sintetizadas na Tabela 8.
 <center>
 
-
 |                              Apresentação                              | Participantes                                                      |
 | :--------------------------------------------------------------------: | :----------------------------------------------------------------- |
 | [Apresentação <br/> Ponto de Controle 1](https://youtu.be/kKjhGvfKOa8) | Davi, Lucas Gabriel, Lucas Macedo, <br/> Maurício, Nicolas e Renan |
@@ -263,9 +259,8 @@ Tabela 7: Síntese das apresentações (Fonte: autor, 2023)
 <!-- @TODO: antes da versão final, numerar as tabelas corretamente -->
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                                                                                                                                                                                           | Autor(es)     | Revisor(es)   |
+| Versão | Data       | Descrição                                                                | Autor(es)     | Revisor(es)   |
 | ------ | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- |
 | `1.0`  | 30/01/2023 | Criação da versão inicial do documento contendo introdução, execução do projeto, sínteses do planejamento, da verificação e validação e das gravações, e estrutura para inserção das demais seções. | Nicolas Souza | Lucas Macedo  |
-| `1.1`  | 30/01/2023 | Adição da sintese de ferramentas                                                                                                                                                                    | Lucas Macedo  | Nicolas Souza |
-| `1.2`  | 31/01/2023 | Adição da sintese das técnicas utilizadas                                                                                                                                                           | Davi Silva    |               |
-
+| `1.1`  | 30/01/2023 | Adição da síntese de ferramentas                                         | Lucas Macedo  | Nicolas Souza |
+| `1.2`  | 31/01/2023 | Adição da síntese das técnicas utilizadas                                | Davi Silva    | Nicolas Souza              |
