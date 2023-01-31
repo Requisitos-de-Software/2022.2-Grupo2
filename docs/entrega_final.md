@@ -119,7 +119,32 @@ Tabela 3: Síntese dos artefatos produzidos durante a etapa de modelagem. (Fonte
 
 ## Técnicas Utilizadas
 
-<!-- @TODO: incluir uma tabela com as técnicas utilizadas ao longo do projeto, em quais artefatos foram usadas e quais são os autores/revisores desses artefatos  -->
+### Tabela dos Artefatos com seus respectivos autores, revisores e técnicas utilizadas
+
+|          Etapa           |                              Artefato                               |        Técnica        |          Autor(es)          |      Revisor(es)      |
+| :----------------------: | :-----------------------------------------------------------------: | :-------------------: | :-------------------------: | :-------------------: |
+|       Planejamento       |              [Cronograma](planejamento/cronograma.md)               |         SCRUM         |      Mauricio Machado       |     Nicolas Souza     |
+|       Planejamento       |             [Ferramentas](planejamento/ferramentas.md)              |      Não Listada      | Lucas Macedo, Nicolas Souza |     Lucas Gabriel     |
+|       Planejamento       |            [Metodologias](planejamento/metodologias.md)             |         SCRUM         | Davi Silva e Nicolas Souza  |   Maurício Machado    |
+|   Pré-Rastreabilidade    |           [Rich Pictures](analise-grupo2/richpicture.md)            |     Rich Picture      |        Renan Lacerda        |      Davi Silva       |
+| Elicitação e Priorização |      [Técnicas Planejadas](elicitacao/tecnicas_planejadas.md)       |         SCRUM         |        Nicolas Souza        |   Maurício Machado    |
+| Elicitação e Priorização |             [StoryTelling](elicitacao/storytelling.md)              |     Role-Playing      |        Lucas Macedo         |        Nicolas        |
+| Elicitação e Priorização |                 [Personas](elicitacao/personas.md)                  |     Questionário      |          Mauricio           |     Lucas Macedo      |
+| Elicitação e Priorização |             [Questionário](elicitacao/questionario.md)              |     Questionário      |          Mauricio           |     Lucas Macedo      |
+| Elicitação e Priorização |             [Introspecção](elicitacao/introspeccao.md)              |     Introspecção      |           Nicolas           |         Davi          |
+| Elicitação e Priorização |                [Glossário](elicitacao/glossario.md)                 |     Introspecção      |           Nicolas           |     Lucas Gabriel     |
+| Elicitação e Priorização |               [Entrevista](elicitacao/entrevista.md)                |      Entrevista       |        Lucas Gabriel        |       Mauricio        |
+| Elicitação e Priorização |            [Brainstorming](elicitacao/brainstorming.md)             |      Brainstorm       |         Davi Silva          |     Lucas Gabriel     |
+| Elicitação e Priorização |                 [Moscow](elicitacao/priorizacao.md)                 |        MoSCoW         |       Renan, Maurício       |     Lucas Macedo      |
+| Elicitação e Priorização |           [First Things First](elicitacao/priorizacao.md)           |          FtF          |       Renan, Maurício       |     Lucas Macedo      |
+| Elicitação e Priorização |         [Escala de Três Níveis](elicitacao/priorizacao.md)          | Escala de Três Níveis |       Renan, Maurício       |     Lucas Macedo      |
+|        Modelagem         |                    [Léxico](modelagem/lexico.md)                    |        Léxico         |          Maurício           |        Nicolas        |
+|        Modelagem         |                  [NFR](modelagem/nfr_framework.md)                  |     NFR Framework     |          Mauricio           |        Nicolas        |
+|        Modelagem         |              [Casos de Uso](modelagem/casos_de_uso.md)              |     Diagrama UML      |    Nicolas, Lucas Macedo    | Lucas Macedo, Nicolas |
+|        Modelagem         | [Especificação Suplementar](modelagem/especificacao_suplementar.md) |        FURPS+         |         Davi Silva          |        Nicolas        |
+|      Modelagem Ágil      |                        Histórias de Usuário                         | Histórias de Usuário  |           Nicolas           |     Lucas Macedo      |
+|      Modelagem Ágil      |                               Backlog                               |    Product Backlog    |           Nicolas           |     Lucas Macedo      |
+|                          |                                                                     |                       |                             |                       |
 
 ## Verificação e Validação dos Artefatos
 
