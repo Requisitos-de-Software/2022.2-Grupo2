@@ -3,7 +3,7 @@
 ## Lichess
 
 <div style="text-align: center">
-<img src="img/logo.png" style="width:15vw"/>
+<img src="https://images.prismic.io/lichess/5cfd2630-2a8f-4fa9-8f78-04c2d9f0e5fe_lichess-box-1024.png?auto=compress,format" style="width:15vw"/>
 
 <p> Figura 1: Logo do Lichess. Fonte: <a href="https://lichess.org/blog/XeRN0BAAACAA7HJu/a-new-logo-for-lichess"> lichess.org </a></p>
 
