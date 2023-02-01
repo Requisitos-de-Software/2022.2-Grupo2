@@ -52,8 +52,7 @@ nav:
       - Cronograma: planejamento/cronograma.md
       - Cronograma Realizado: planejamento/cronograma_realizado.md
       - Metodologias: planejamento/metodologias.md
-  - Pré-Rastreabilidade:
-      - Rich-Picture: prerastreabilidade/richpicture.md
+      - Rich-Picture: prerastreabilidade/richpicture.md  
   - Elicitacão:
       - Técnicas Planejadas: elicitacao/tecnicas_planejadas.md
       - Brainstorming: elicitacao/brainstorming.md
@@ -112,9 +111,10 @@ nav:
               - Introspecção: analise-grupo3/verificacao/introspeccao.md
           - Validação:
               - Comunicação Informal: analise-grupo3/validacao/comunicacao.md
-  - Pós-rastreabilidade:
-      - Forward-from: posrastreabilidade/forward_from.md
-      - Backward-from: posrastreabilidade/backward.md
+  - Rastreabilidade:
+      - Forward-From: posrastreabilidade/forward_from.md
+      - Backward-From: posrastreabilidade/backward.md
       - Matriz de Rastreabilidade: posrastreabilidade/matriz.md
+      
   - Entrega Final: entrega_final.md
   - Apresentações: apresentacoes.md

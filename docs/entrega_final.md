@@ -115,11 +115,24 @@ Tabela 3: Síntese dos artefatos produzidos durante a etapa de modelagem. <br/>(
 
 ### Rastreabilidade
 
-Durante a gerência de requisitos é essencial assegurar a rastreabilidade dos requisitos, que é a habilidade de traçar os requisitos durante o ciclo de vida do sistema. A rastreabilidade de requisitos pode ser separada em três categorias: pré rastreabilidade, pós rastreabilidade e rastreabilidade inter-requisitos. [4]
+Durante a gerência de requisitos é essencial assegurar a rastreabilidade dos requisitos, que é a habilidade de traçar os requisitos durante o ciclo de vida do sistema. A rastreabilidade de requisitos pode ser separada em três categorias: pré rastreabilidade, pós rastreabilidade e rastreabilidade inter-requisitos. A **pré-rastreabilidade** consiste na relação entre os requisitos e os artefatos que são bases para esses requisitos, ou seja, uma ligação entre os requisitos e suas origens. A **pós-rastreabilidade** documenta a relação entre os requisitos e artefatos posteriores à sua elicitação, que podem ser componentes, implementação ou casos de testes pertencentes a um requisito. A **rastreabilidade** inter-requisitos consiste em um mapeamento das dependências entre requisitos. [4]
 
-#### Pré-Rastreabilidade
+Durante o projeto foram utilizadas diferentes fontes para a elicitação de requisitos, que, após priorizados, foram modelados por meio de técnicas distintas. Para documentar o rastro entre os requisitos, suas origens, e os artefatos subsequentes ao processo de elicitação, foram elaborados os artefatos sintetizados na Tabela 4.
 
-A pré-rastreabilidade consiste na relação entre os requisitos e os artefatos que são bases para esses requisitos, ou seja, uma ligação entre os requisitos e suas origens. Durante o projeto houveram diferentes fontes de requisitos, e a documentação da origem dos [requisitos funcionais](posrastreabilidade/backward.md#requisitos-funcionais) e [não funcionais](posrastreabilidade/backward.md#requisitos-nao-funcionais) foi feita por meio da técnica [backward-from](posrastreabilidade/backward.md#backward-from).
+<center>
+
+| Artefato | Autor(es) | Revisor(es) |
+| :-: | :-: | :-: |
+[Backward-From](posrastreabilidade/backward.md) | Nicolas Souza e Lucas Macedo |
+[Forward-From](posrastreabilidade/forward_from.md) | Davi Silva, Lucas Macedo e Maurício | Lucas Gabriel |
+[Matriz de Rastreabilidade](posrastreabilidade/matriz.md) | Davi Silva | Lucas Gabriel |
+
+<div style="text-align: center">
+<p>
+Tabela 4: Síntese dos artefatos de Rastreabilidade. (Fonte: autor, 2023).
+</p>
+</div>
+</center>
 
 ## Técnicas Utilizadas
 
@@ -132,7 +145,7 @@ A pré-rastreabilidade consiste na relação entre os requisitos e os artefatos 
 | Planejamento | [Cronograma](planejamento/cronograma.md)| SCRUM | Mauricio Machado |Nicolas Souza |
 | Planejamento | [Ferramentas](planejamento/ferramentas.md) | Não Listada | Lucas Macedo, Nicolas Souza |Lucas Gabriel |
 | Planejamento | [Metodologias](planejamento/metodologias.md) | SCRUM | Davi Silva e Nicolas Souza | Maurício Machado |
-| Pré-Rastreabilidade|[Rich Pictures](analise-grupo2/richpicture.md) | Rich Picture |Renan Lacerda| Davi Silva |
+| Planejamento |[Rich Pictures](analise-grupo2/richpicture.md) | Rich Picture |Renan Lacerda| Davi Silva |
 | Elicitação e Priorização | [Técnicas Planejadas](elicitacao/tecnicas_planejadas.md)| SCRUM |Nicolas Souza| Maurício Machado |
 | Elicitação e Priorização | [StoryTelling](elicitacao/storytelling.md) | Role-Playing |Lucas Macedo | Nicolas|
 | Elicitação e Priorização | [Personas](elicitacao/personas.md) | Questionário | Mauricio | Lucas Macedo |
