@@ -52,7 +52,7 @@ nav:
       - Cronograma: planejamento/cronograma.md
       - Cronograma Realizado: planejamento/cronograma_realizado.md
       - Metodologias: planejamento/metodologias.md
-      - Rich-Picture: prerastreabilidade/richpicture.md  
+      - Rich-Picture: prerastreabilidade/richpicture.md
   - Elicitacão:
       - Técnicas Planejadas: elicitacao/tecnicas_planejadas.md
       - Brainstorming: elicitacao/brainstorming.md
@@ -115,7 +115,7 @@ nav:
       - Forward-From: posrastreabilidade/forward_from.md
       - Backward-From: posrastreabilidade/backward.md
       - Matriz de Rastreabilidade: posrastreabilidade/matriz.md
-      
+
   - Entrega Final: entrega_final.md
-      - Resultados alcançados: resultados_alcancados.md
+
   - Apresentações: apresentacoes.md

@@ -28,7 +28,6 @@ O checklist utilizado e a inspeção realizada podem ser observados na Tabela 1.
 | 08            | O artefato possui os dados da entrevista ?                                                       | Sim                               |                                                                      |
 | 09            | O artefato possui a gravação da entrevista ?                                                     | Não                               | Apesar de possuir a Seção "Áudio da entrevista" o áudio não funciona |
 | 10            | O artefato possui os requisitos elicitados  a partir da entrevista ?                             | Sim                               |                                                                      |
-| 11            | Os requisitos elicitados são verificáveis ?                                                      | Sim                               |                                                                      |
 
 <div style="text-align: center">
 <p> Tabela 1: Checklist do artefato Entrevista (Fonte: autor, 2023).</p>
