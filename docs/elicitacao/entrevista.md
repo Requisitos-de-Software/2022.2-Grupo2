@@ -31,6 +31,13 @@ Foi utilizada a técnica da entrevista com intuito de verificar as funcionalidad
 - Duração: 10 minutos
 - Local: Microsoft Teams
 
+## Gravação da entrevista 1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3k-1Mbqi7q8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="text-align: center">
+<p> Vídeo 1: Entrevista 1. Fonte: autor (2023).</p>
+</div>
+
 ### Perguntas e respostas
 
 - **Quantas horas por dia você costuma utilizar o aplicativo?**
@@ -75,12 +82,12 @@ Como resultado da técnica de Entrevista, foram levantados os seguintes requisit
 - RF: Requisito funcional
 - RNF: REquisito não funcional
 
-| Identificador | Requisito                                                                                                                                           | Tipo  |
-| :-----------: | --------------------------------------------------------------------------------------------------------------------------------------------------- | :---: |
-|     ENT01     | Ao clicar em "Criar partida" deverá apresentar para o usuário de forma simples e detalhada a duração das partida                                    | RF  |
-|     ENT02     | Deve ser possível jogar contra um bot que represente um jogador famoso (tenha em sua configuração movimentos similares aos utilizados pelo jogador) | RF  |
-|     ENT03     | O software deve ter uma interface simples e intuitiva                                                                                               | RNF |
-|     ENT04     | O software deve possuir ícones condensando neles as principais funcionalidades                                                                      | RNF |
+| Identificador | Requisito                                                                                                                                           | Tipo |
+| :-----------: | --------------------------------------------------------------------------------------------------------------------------------------------------- | :--: |
+|     ENT01     | Ao clicar em "Criar partida" deverá apresentar para o usuário de forma simples e detalhada a duração das partida                                    |  RF  |
+|     ENT02     | Deve ser possível jogar contra um bot que represente um jogador famoso (tenha em sua configuração movimentos similares aos utilizados pelo jogador) |  RF  |
+|     ENT03     | O software deve ter uma interface simples e intuitiva                                                                                               | RNF  |
+|     ENT04     | O software deve possuir ícones condensando neles as principais funcionalidades                                                                      | RNF  |
 
 <div style="text-align: center">
 <p> Tabela 1: Requisitos elicitados por meio da entrevista (Fonte: autor, 2022).</p>
@@ -92,7 +99,8 @@ Como resultado da técnica de Entrevista, foram levantados os seguintes requisit
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor(es)         | Revisor(es)          |
-| ------ | ---------- | -------------------- | ------------- | ---------------- |
-| `1.0`  | 25/11/2022 | Criação do documento | Lucas Gabriel | Mauricio Machado |
-| `1.1`  | 03/01/2023 | Verificação dos requisitos. | Nicolas Souza | Lucas Macedo |
+| Versão | Data       | Descrição                   | Autor(es)     | Revisor(es)      |
+| ------ | ---------- | --------------------------- | ------------- | ---------------- |
+| `1.0`  | 25/11/2022 | Criação do documento        | Lucas Gabriel | Mauricio Machado |
+| `1.1`  | 03/01/2023 | Verificação dos requisitos. | Nicolas Souza | Lucas Macedo     |
+| `2.0`  | 01/02/2023 | Adição da gravação          | Lucas Gabriel | Lucas Macedo     |

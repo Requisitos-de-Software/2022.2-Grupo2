@@ -16,18 +16,26 @@ O artefato de Introspecção pode ser consultado nesse [link](https://requisitos
 
 O checklist utilizado e a inspeção realizada podem ser observados na Tabela 1.
 
-| Identificador | Questão                                                                         | Resposta (Sim / Não / Incompleto) |
-| ------------- | ------------------------------------------------------------------------------- | --------------------------------- |
-| 01            | O artefato possui uma introdução ?                                              | Sim                               |
-| 02            | As tabelas do artefato possuem legenda e fonte e são chamadas no texto ?        | Não                               |
-| 03            | O artefato apresenta referências bibliográficas ?                               | Não                               |
-| 04            | O artefato possui histórico de versão padronizado com autor(es) e revisor(es) ? | Sim                               |
-| 05            | O artefato possui explicação do método de introspecção ?                        | Sim                               |
-| 06            | O artefato possui os cenários de uso identificados pelo avaliador ?             | Sim                               |
-| 07            | O artefato possui os requisitos elicitados a partir da introspecção ?             | Sim                               |
+| Identificador | Questão                                                                         | Resposta (Sim / Não / Incompleto) | Comentário |
+| ------------- | ------------------------------------------------------------------------------- | --------------------------------- | ---------- |
+| 01            | O artefato possui uma introdução ?                                              | Sim                               |            |
+| 02            | As tabelas do artefato possuem legenda e fonte e são chamadas no texto ?        | Não                               |            |
+| 03            | O artefato apresenta referências bibliográficas ?                               | Não                               |            |
+| 04            | O artefato possui histórico de versão padronizado com autor(es) e revisor(es) ? | Sim                               |            |
+| 05            | O artefato possui explicação do método de introspecção ?                        | Sim                               |            |
+| 06            | O artefato possui os cenários de uso identificados pelo avaliador ?             | Sim                               |            |
+| 07            | O artefato possui os requisitos elicitados a partir da introspecção ?           | Sim                               |            |
 
 <div style="text-align: center">
 <p> Tabela 1: Checklist do artefato Introspecção (Fonte: autor, 2023).</p>
+</div>
+
+
+O gráfico a seguir presente na Figura 1 demonstra a quantidade de itens atingidos, não atingidos e incompletos identificados durante a verificação da Introspecão.
+
+![image](images/grafico_introspeccao.png)
+<div style="text-align: center">
+<p> Figura 1: Quantidade de itens atingidos, não atingidos e incompletos do artefato Introspecão (Fonte: autor, 2023).</p>
 </div>
 
 ## Bibliografia
@@ -38,6 +46,7 @@ O checklist utilizado e a inspeção realizada podem ser observados na Tabela 1.
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor(es)     | Revisor(es) |
-| ------ | ---------- | -------------------- | ------------- | ----------- |
-| `1.0`  | 09/01/2023 | Criação do documento | Lucas Gabriel | Nicolas Souza   |
+| Versão | Data       | Descrição            | Autor(es)     | Revisor(es)   |
+| ------ | ---------- | -------------------- | ------------- | ------------- |
+| `1.0`  | 09/01/2023 | Criação do documento | Lucas Gabriel | Nicolas Souza |
+| `2.0`  | 01/02/2023 | Ajustes              | Lucas Gabriel | Lucas Macedo  |

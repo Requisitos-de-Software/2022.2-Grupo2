@@ -18,6 +18,8 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | ST      | Storytelling              |
 | UC      | Casos de Uso              |
 | C       | Cenários                  |
+| L       | Léxico                    |
+| ES      | Especificação Suplementar |
 | INT     | Introspecção              |
 | Q       | Questionário              |
 | GLO     | Glossário                 |
@@ -44,6 +46,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |             Comentários              |                                                    Implementação completa                                                     |
 |            Funcionalidade            |                                      ![Vídeo RF01-RF03](./assets/forward/RF01-RF03.mp4)                                       |
 
+
 **RF02**
 |                 RF02                 |                                            Deve existir uma apresentação inicial do aplicativo para o usuário no primeiro acesso                                             |
 | :----------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -56,6 +59,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | Artefatos (elicitação de requisitos) |                                                                     [Q10](../elicitacao/questionario.md)                                                                     |
 |             Comentários              |                                                                          Implementação inexistente                                                                           |
 |            Funcionalidade            |                                                                                      -                                                                                       |
+
 
 **RF03**
 |                 RF03                 |                     Deve existir uma apresentação inicial do aplicativo para o usuário no primeiro acesso                     |
@@ -70,6 +74,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |             Comentários              |                                                    Implementação completa                                                     |
 |            Funcionalidade            |                                      ![Vídeo RF01-RF03](./assets/forward/RF01-RF03.mp4)                                       |
 
+
 **RF04**
 |                 RF04                 |                                         Deve ser possível adicionar outros jogadores                                          |
 | :----------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
@@ -82,6 +87,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | Artefatos (elicitação de requisitos) |                                             [ST07](../elicitacao/storytelling.md)                                             |
 |             Comentários              |                                                    Implementação completa                                                     |
 |            Funcionalidade            |                                           ![Vídeo RF04](./assets/forward/RF04.mp4)                                            |
+
 
 **RF05**
 |                 RF05                 |                                     Deve ser possível aprender movimentos de xadrez por meio de tutoriais                                     |
@@ -96,6 +102,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |             Comentários              |                                                            Implementação completa                                                             |
 |            Funcionalidade            |                                              ![Vídeo RF05 RF23](./assets/forward/RF05-RF23.mp4)                                               |
 
+
 **RF06**
 |                 RF06                 |                                        Deve ser possível assistir partidas de outras pessoas                                        |
 | :----------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
@@ -108,6 +115,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | Artefatos (elicitação de requisitos) |                                                [ST06](../elicitacao/storytelling.md)                                                |
 |             Comentários              |                                                       Implementação completa                                                        |
 |            Funcionalidade            |                                              ![Vídeo RF06](./assets/forward/RF06.mp4)                                               |
+
 
 **RF07**
 |                 RF07                 |                                              Deve ser possível configurar a dificuldade da partida contra o computador                                              |
@@ -122,6 +130,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |             Comentários              |                                                                       Implementação completa                                                                        |
 |            Funcionalidade            |                                                      ![Vídeo RF08, RF07M](./assets/forward/RF08-RF07-RF15.mp4)                                                      |
 
+
 **RF08**
 |                 RF08                 |                                              Deve ser possível configurar a modalidade de jogo ao iniciar uma partida                                               |
 | :----------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -134,6 +143,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | Artefatos (elicitação de requisitos) |                     [GLO01](../elicitacao/glossario.md)<br/> [INT03](../elicitacao/introspeccao.md)<br/> [ST04](../elicitacao/storytelling.md)                      |
 |             Comentários              |                                                                       Implementação completa                                                                        |
 |            Funcionalidade            |                                                      ![Vídeo RF08, RF07M](./assets/forward/RF08-RF07-RF15.mp4)                                                      |
+
 
 **RF09**
 |                 RF09                 |                                  Deve ser possível configurar o tempo de duração da partida e incremento ao iniciar uma partida                                  |
@@ -148,6 +158,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |             Comentários              |                                                                      Implementação completa                                                                      |
 |            Funcionalidade            |                                                             ![Video RF09](./assets/forward/RF09.mp4)                                                             |
 
+
 **RF10**
 |                 RF10                 |                             Deve ser possível configurar um estilo de jogo para o robô, baseado em jogadores famosos, nas partidas contra o computador                             |
 | :----------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -160,6 +171,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | Artefatos (elicitação de requisitos) |                                                  [ENT02](../elicitacao/entrevista.md)<br/> [ST04](../elicitacao/storytelling.md)                                                   |
 |             Comentários              |                                                                             Implementação Inexistente                                                                              |
 |            Funcionalidade            |                                                                                         -                                                                                          |
+
 
 **RF11**
 |                 RF11                 |                                                           Deve ser possível consultar as estatísticas das partidas anteriores                                                            |
@@ -174,6 +186,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |             Comentários              | Implementação incompleta, é possível consultar a partida e após isso utilizar o computador para observar melhores lances, porém não há estatisticas relacionadas as partidas diretamente |
 |            Funcionalidade            |                                                                         ![Vídeo RF11](./assets/forward/RF11.mp4)                                                                         |
 
+
 **RF12**
 |                 RF12                 |                                                        Deve ser possível consultar as regras da modalidade de jogo em andamento                                                         |
 | :----------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -186,6 +199,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | Artefatos (elicitação de requisitos) |                                                                           [GLO03](../elicitacao/glossario.md)                                                                           |
 |             Comentários              | Implementação incompleta, o modo escolhido é uma breve introdução que aparece somente no início da partida e somente para usuários "logados", ou seja, utilizando a conta da plataforma |
 |            Funcionalidade            |                                                                                            -                                                                                            |
+
 
 **RF13**
 |                 RF13                 |                                                  Deve ser possível consultar um tutorial de uso do aplicativo                                                  |
@@ -200,6 +214,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |             Comentários              |                                                                   Implementação inexistente                                                                    |
 |            Funcionalidade            |                                                                               -                                                                                |
 
+
 **RF14**
 |                 RF14                 |                                     Deve ser possível elaborar tutoriais para outros jogadores                                     |
 | :----------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
@@ -212,6 +227,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | Artefatos (elicitação de requisitos) |                                               [ST13](../elicitacao/storytelling.md)                                                |
 |             Comentários              |                               Implementação inexistente, somente pode ser criado no Lichess via web                                |
 |            Funcionalidade            |                                                                 -                                                                  |
+
 
 **RF15**    
 |                 RF15                 |                                     Deve ser possível escolher o nível do oponente ao iniciar uma partida contra outro jogador                                      |
@@ -226,6 +242,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |             Comentários              |                          Implementação incompleta, apenas usuarios com conta na plataforma conseguem selecionar o nível de seus oponentes                           |
 |            Funcionalidade            |                                                      ![Vídeo RF08, RF07M](./assets/forward/RF08-RF07-RF15.mp4)                                                      |
 
+
 **RF16**    
 |                 RF16                 |                                                     Deve ser possível jogar partidas não ranqueadas                                                      |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -238,6 +255,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | Artefatos (elicitação de requisitos) |                                                          [ST03](../elicitacao/storytelling.md)                                                           |
 |             Comentários              |                                                                  Implementação completa                                                                  |
 |            Funcionalidade            |                                                         ![Vídeo RF16](./assets/forward/RF16.mp4)                                                         |
+
 
 **RF17**
 |                 RF17                 |                                   Deve ser possível jogar partidas online sem criar uma conta                                    |
@@ -252,6 +270,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |             Comentários              |                                                      Implementação completa                                                      |
 |            Funcionalidade            |                                    ![Vídeo RF08, RF07M](./assets/forward/RF08-RF07-RF15.mp4)                                     |
 
+
 **RF18**
 |                 RF18                 |                                                  Deve ser possível jogar uma partida de xadrez contra o computador                                                  |
 | :----------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -264,6 +283,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | Artefatos (elicitação de requisitos) |                                                               [INT01](../elicitacao/introspeccao.md)                                                                |
 |             Comentários              |                                                                       Implementação completa                                                                        |
 |            Funcionalidade            |                                                              ![Vídeo RF18](./assets/forward/RF18.mp4)                                                               |
+
 
 **RF19**
 |                 RF19                 |                                Deve ser possível jogar uma partida de xadrez contra outro jogador aleatório ou escolhido                                 |
@@ -278,6 +298,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |             Comentários              |                                                                Implementação Inexistente                                                                 |
 |            Funcionalidade            |                                                                            -                                                                             |
 
+
 **RF20**
 |                 RF20                 |                                      Deve ser possível pausar uma partida contra o computador                                       |
 | :----------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
@@ -290,6 +311,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | Artefatos (elicitação de requisitos) |                                               [INT05](../elicitacao/introspeccao.md)                                                |
 |             Comentários              |                                                      Implementação inexistente                                                      |
 |            Funcionalidade            |                                                                  -                                                                  |
+
 
 **RF21**
 |                 RF21                 |                                                      Deve ser possível receber notificações sobre torneios ao vivo                                                      |
@@ -304,6 +326,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |             Comentários              |                                                                        Implementação inexistente                                                                        |
 |            Funcionalidade            |                                                                                    -                                                                                    |
 
+
 **RF22**
 |                 RF22                 |                                    Deve ser possível resolver quebra cabeças elaborados por outros jogadores                                    |
 | :----------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -316,6 +339,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | Artefatos (elicitação de requisitos) |           [GLO04](../elicitacao/glossario.md)<br/> [INT12](../elicitacao/introspeccao.md)<br/> [ST12](../elicitacao/storytelling.md)            |
 |             Comentários              |                                                             Implementação completa                                                              |
 |            Funcionalidade            |                                                    ![Vídeo RF22](./assets/forward/RF22.mp4)                                                     |
+
 
 **RF23**
 |                 RF23                 |                                     Deve ser possível resolver tutoriais elaborados por outros jogadores                                      |
@@ -330,6 +354,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |             Comentários              |                                                            Implementação completa                                                             |
 |            Funcionalidade            |                                              ![Vídeo RF05 RF23](./assets/forward/RF05-RF23.mp4)                                               |
 
+
 **RF24**
 |                 RF24                 |                                      Deve ser possível trocar mensagens com outros jogadores                                       |
 | :----------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
@@ -342,6 +367,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | Artefatos (elicitação de requisitos) |                                               [ST08](../elicitacao/storytelling.md)                                                |
 |             Comentários              |                                                       Implementação completa                                                       |
 |            Funcionalidade            |                                              ![Vídeo RF24](./assets/forward/RF24.mp4)                                              |
+
 
 **RF25**
 |                 RF25                 |                                    Deve ser possível visualizar dados sobre os quebra-cabeças concluídos                                     |
@@ -356,6 +382,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |             Comentários              |                                                          Implementação inexistente                                                           |
 |            Funcionalidade            |                                                                      -                                                                       |
 
+
 **RF26**
 |                 RF26                 |                                   Deve ser possível visualizar e filtrar o ranqueamento de jogadores                                   |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
@@ -369,6 +396,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |             Comentários              |                                                       Implementação inexistente                                                        |
 |            Funcionalidade            |                                                                   -                                                                    |
 
+
 **RF27**
 |                 RF27                 |                                    Não deve ser possível pausar uma partida contra outro jogador                                    |
 | :----------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
@@ -381,6 +409,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | Artefatos (elicitação de requisitos) |                                               [INT06](../elicitacao/introspeccao.md)                                                |
 |             Comentários              |                                                       Implementação completa                                                        |
 |            Funcionalidade            |                                              ![Vídeo RF16](./assets/forward/RF16.mp4)                                               |
+
 
 **RF28**
 |                 RF28                 |                                     Deve ser possível criar quebra cabeça para outros jogadores resolverem                                     |
@@ -404,12 +433,14 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | Especificação Suplementar |                                                                                            |
 |        Comentários        |                                   Implementação completa                                   |
 
+
 **RNF02**  
 |           RNF02           | Usuário deve conseguir padronizar sua interface de maneira única |
 | :-----------------------: | :--------------------------------------------------------------: |
 |            NFR            |                                                                  |
 | Especificação Suplementar |                                                                  |
 |        Comentários        |                      Implementação completa                      |
+
 
 **RNF03**  
 |           RNF03           | Sistema deve ter no máximo 5 interações por funcionalidade |
@@ -418,12 +449,14 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | Especificação Suplementar |                                                            |
 |        Comentários        |                   Implementação completa                   |
 
+
 **RNF04**  
 |           RNF04           | Sistema deve ter animações simples de no máximo 300 milésimos |
 | :-----------------------: | :-----------------------------------------------------------: |
 |            NFR            |                                                               |
 | Especificação Suplementar |                                                               |
 |        Comentários        |                    Implementação completa                     |
+
 
 **RNF05**  
 |           RNF05           | Sistema deve apresentar acesso a todas as funcionalidades logo no início do app |
@@ -432,12 +465,14 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | Especificação Suplementar |                                                                                 |
 |        Comentários        |                             Implementação completa                              |
 
+
 **RNF06**  
 |           RNF06           | Sistema deve permitir customização de tema (claro e escuro) |
 | :-----------------------: | :---------------------------------------------------------: |
 |            NFR            |                                                             |
 | Especificação Suplementar |                                                             |
 |        Comentários        |                   Implementação completa                    |
+
 
 **RNF07**  
 |           RNF07           | Sistema deve permitir customização de linguagem (português, inglês e espanhol) |
@@ -446,12 +481,14 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | Especificação Suplementar |                                                                                |
 |        Comentários        |                             Implementação completa                             |
 
+
 **RNF08**  
 |           RNF08           | Sistema deve permitir customização de som (habilitar e desabilitar efeitos sonoros) |
 | :-----------------------: | :---------------------------------------------------------------------------------: |
 |            NFR            |                                                                                     |
 | Especificação Suplementar |                                                                                     |
 |        Comentários        |                               Implementação completa                                |
+
 
 **RNF09**  
 |           RNF09           | Sistema deve estar online todos os dias da semana, durante todo o dia |
@@ -460,12 +497,14 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | Especificação Suplementar |                                                                       |
 |        Comentários        |                        Implementação completa                         |
 
+
 **RNF10**  
 |           RNF10           | Sistema deve informar sobre manutenções e possíveis tempos em que o servidor estará offline via notificação |
 | :-----------------------: | :---------------------------------------------------------------------------------------------------------: |
 |            NFR            |                                                                                                             |
 | Especificação Suplementar |                                                                                                             |
 |        Comentários        |                                          Implementação inexistente                                          |
+
 
 **RNF11**  
 |           RNF11           | Sistema deve realizar backup automático dos dados do usuário todo dia em horário com menor acesso (a ser determinado pelo sistema) |
@@ -474,12 +513,14 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | Especificação Suplementar |                                                                                                                                    |
 |        Comentários        |                                                     Implementação inexistente                                                      |
 
+
 **RNF12**  
 |           RNF12           | Sistema deve ser compatível com Android (de versão 9.0 até atual) |
 | :-----------------------: | :---------------------------------------------------------------: |
 |            NFR            |                                                                   |
 | Especificação Suplementar |                                                                   |
 |        Comentários        |                      Implementação completa                       |
+
 
 **RNF13**  
 |           RNF13           | Sistema deve ser compatível com iOS (de versão 12 até atual) |
@@ -488,12 +529,14 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | Especificação Suplementar |                                                              |
 |        Comentários        |                    Implementação completa                    |
 
+
 **RNF14**  
 |           RNF14           | Sistema deve ser disponível na Web |
 | :-----------------------: | :--------------------------------: |
 |            NFR            |                                    |
 | Especificação Suplementar |                                    |
 |        Comentários        |       Implementação completa       |
+
 
 **RNF15**  
 |           RNF15           | Sistema deve ser responsivo |
@@ -502,12 +545,14 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | Especificação Suplementar |                             |
 |        Comentários        |   Implementação completa    |
 
+
 **RNF16**  
 |           RNF16           | Sistema deve escurecer a tela em caso de inatividade maior de X minutos definido pelo usuário |
 | :-----------------------: | :-------------------------------------------------------------------------------------------: |
 |            NFR            |                                                                                               |
 | Especificação Suplementar |                                                                                               |
 |        Comentários        |                                   Implementação inexistente                                   |
+
 
 **RNF17**  
 |           RNF17           | Dispositivo deve bloquear tela em caso de inatividade prolongada |
@@ -516,12 +561,14 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | Especificação Suplementar |                                                                  |
 |        Comentários        |                    Implementação inexistente                     |
 
+
 **RNF18**  
 |           RNF18           | Sistema deve guardar a última tela em que o usuário está |
 | :-----------------------: | :------------------------------------------------------: |
 |            NFR            |                                                          |
 | Especificação Suplementar |                                                          |
 |        Comentários        |                  Implementação completa                  |
+
 
 **RNF19**  
 |           RNF19           | Sistema deve permitir jogar partidas mesmo sem conexão de internet |
@@ -530,12 +577,14 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | Especificação Suplementar |                                                                    |
 |        Comentários        |                       Implementação completa                       |
 
+
 **RNF20**  
 |           RNF20           | Sistema deve permitir acessar o aplicativo mesmo sem conexão de internet |
 | :-----------------------: | :----------------------------------------------------------------------: |
 |            NFR            |                                                                          |
 | Especificação Suplementar |                                                                          |
 |        Comentários        |                          Implementação completa                          |
+
 
 **RNF21**  
 |           RNF21           | Sistema deve ter uma taxa de atraso abaixa de 100 milisSegundos |

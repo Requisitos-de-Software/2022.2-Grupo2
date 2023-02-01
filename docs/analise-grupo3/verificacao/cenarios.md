@@ -16,23 +16,30 @@ O artefato de Cenários pode ser consultado nesse [link](https://requisitos-de-s
 
 O checklist utilizado e a inspeção realizada podem ser observados na Tabela 1.
 
-| Identificador | Questão                                                                         | Resposta (Sim / Não / Incompleto) |
-| ------------- | ------------------------------------------------------------------------------- | --------------------------------- |
-| 01            | O artefato possui uma introdução ?                                              | Sim                               |
-| 02            | As tabelas do artefato possuem legenda e fonte e são chamadas no texto ?        | Sim                               |
-| 03            | O artefato apresenta referências bibliográficas ?                               | Sim                               |
-| 04            | O artefato possui histórico de versão padronizado com autor(es) e revisor(es) ? | Sim                               |
-| 05            | Os cenários possuem Título                                                      | Sim                               |
-| 06            | Os cenários possuem Objetivo                                                    | Sim                               |
-| 07            | Os cenários possuem Contexto                                                    | Sim                               |
-| 09            | Os cenários possuem Recursos                                                    | Sim                               |
-| 10            | Os cenários possuem Ator                                                        | Sim                               |
-| 11            | Os cenários possuem Episódios                                                   | Sim                               |
-| 12            | Os cenários possuem Restrições                                                  | Sim                               |
-| 13            | Os cenários possuem Exceção                                                     | Sim                               |
+| Identificador | Questão                                                                         | Resposta (Sim / Não / Incompleto) | Comentários |
+| ------------- | ------------------------------------------------------------------------------- | --------------------------------- | ----------- |
+| 01            | O artefato possui uma introdução ?                                              | Sim                               |             |
+| 02            | As tabelas do artefato possuem legenda e fonte e são chamadas no texto ?        | Sim                               |             |
+| 03            | O artefato apresenta referências bibliográficas ?                               | Sim                               |             |
+| 04            | O artefato possui histórico de versão padronizado com autor(es) e revisor(es) ? | Sim                               |             |
+| 05            | Os cenários possuem Título                                                      | Sim                               |             |
+| 06            | Os cenários possuem Objetivo                                                    | Sim                               |             |
+| 07            | Os cenários possuem Contexto                                                    | Sim                               |             |
+| 09            | Os cenários possuem Recursos                                                    | Sim                               |             |
+| 10            | Os cenários possuem Ator                                                        | Sim                               |             |
+| 11            | Os cenários possuem Episódios                                                   | Sim                               |             |
+| 12            | Os cenários possuem Restrições                                                  | Sim                               |             |
+| 13            | Os cenários possuem Exceção                                                     | Sim                               |             |
 
-<div style="text-align: center">
+ <div style="text-align: center">
 <p> Tabela 1: Checklist do artefato Cenários (Fonte: autor, 2023).</p>
+</div>
+
+O gráfico a seguir presente na Figura 1 demonstra a quantidade de itens atingidos, não atingidos e incompletos identificados durante a verificação dos Cenários.
+
+![image](images/grafico_cenarios.png)
+<div style="text-align: center">
+<p> Figura 1: Quantidade de itens atingidos, não atingidos e incompletos do artefato Cenários (Fonte: autor, 2023).</p>
 </div>
 
 ## Bibliografia
@@ -43,6 +50,7 @@ O checklist utilizado e a inspeção realizada podem ser observados na Tabela 1.
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor(es)     | Revisor(es) |
-| ------ | ---------- | -------------------- | ------------- | ----------- |
-| `1.0`  | 09/01/2023 | Criação do documento | Lucas Gabriel |     Davi        |
+| Versão | Data       | Descrição            | Autor(es)     | Revisor(es)  |
+| ------ | ---------- | -------------------- | ------------- | ------------ |
+| `1.0`  | 09/01/2023 | Criação do documento | Lucas Gabriel | Davi         |
+| `2.0`  | 01/02/2023 | Ajustes              | Lucas Gabriel | Lucas Macedo |
