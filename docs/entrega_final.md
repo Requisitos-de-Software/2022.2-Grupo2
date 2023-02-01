@@ -13,7 +13,7 @@ As Tabelas 1 e 2 sintetizam, respectivamente, os artefatos referentes ao planeja
 <center>
 
 | Artefato | Autor(es) | Revisor(es) |
-| :-: | :-: | :-: |
+| -: | :- | :- |
 [Rich Picture](prerastreabilidade/richpicture.md) | Renan Lacerda | Davi Silva |
 [Aplicativo Selecionado](planejamento/aplicativo_selecionado.md) | Lucas Gabriel | Maurício |
 [Cronograma](planejamento/cronograma.md) | Mauricio Machado | Nicolas Souza |
@@ -38,14 +38,12 @@ As Tabelas 1 e 2 sintetizam, respectivamente, os artefatos referentes ao planeja
 
 </center>
 
-<!--- @TODO: cronograma planejado e executado, em uma mesma tabela --->
-
-## Ferramentas
+### Ferramentas
 
 <center>
 
 | Ferramenta | Em qual etapa foi utilizada | Motivo pelo qual foi utilizada |
-| :-: | :-: | :- |
+| :- | :- | :- |
 | [GitHub](https://github.com) | Durante todo o projeto | Repositório utilizado, versionamento do projeto, criação da documentação. |
 | [Telegram](https://telegram.org) | Durante todo o projeto | Principal meio de comunicação do time |
 | [Google planilhas](https://docs.google.com/sheets) | Ficou em desuso depois da etapa 3 | Onde foi desenvolvido a primeira versão do cronograma planejado e realizado |
@@ -62,18 +60,31 @@ As Tabelas 1 e 2 sintetizam, respectivamente, os artefatos referentes ao planeja
 </div>
 </center>
 
+### Cronograma
+
+<center>
+
+<!--- @TODO: cronograma planejado e executado, em uma mesma tabela --->
+
+<div style="text-align: center">
+<p>
+Tabela 3: Cronograma planejado vs realizado (Fonte: autor, 2023).
+</p>
+</div>
+</center>
+
 ## Execução do Projeto
 
 De acordo com o SWEBOK [3], a área de conhecimento de Requisitos de Software é responsável pela gerência dos requisitos, por meio das atividades de **elicitação, análise, especificação** e **validação** destes. Requisitos de Software expressam necessidades e restrições presentes em um produto de software, por meio de combinações complexas de dados proveniente de diversas fontes, dentre elas recursos humanos e o contexto do sistema. Requisitos também possuem atributos, como a [prioridade](elicitacao/priorizacao.md) e identificação única, representada no projeto pelos IDs dos requisitos.
 
 ### Elicitação e Priorização
 
-A elicitação de requisitos diz respeito à da etapa de concepção dos requisitos de um software e à forma como o engenheiro de software pode coletá-los. Essa atividade envolve a identificação dos _stakeholders_ e a criação de relacionamentos entre a equipe de desenvolvimento e o cliente, atividade que foi feita por meio de uma [entrevista](elicitacao/entrevista.md) e um [questionário](elicitacao/questionario.md), elementos essenciais para a elaboração do [perfil do usuário](elicitacao/personas.md#perfil-do-usuario) e, em seguida, a elaboração das [personas](elicitacao/personas.md) do projeto. Os requisitos podem vir de diversas fontes, como por exemplo os objetivos do software, domínio de conhecimento, stakeholders, regras de negócio e o ambiente em que o sistema está inserido. A etapa de [elicitação](elicitacao/tecnicas_planejadas.md) utilizou diferentes [técnicas de elicitação](elicitacao/tecnicas_planejadas.md#tecnicas-de-elicitacao) para explorar as fontes citadas anteriormente. Após a elicitação, os requisitos foram [priorizados](elicitacao/priorizacao.md) por meio de três [técnicas](elicitacao/priorizacao.md#tecnicas-utilizadas) diferentes. A Tabela 2 sintetiza os artefatos elaborados durante a etapa de elicitação e priorização.
+A elicitação de requisitos diz respeito à da etapa de concepção dos requisitos de um software e à forma como o engenheiro de software pode coletá-los. Essa atividade envolve a identificação dos _stakeholders_ e a criação de relacionamentos entre a equipe de desenvolvimento e o cliente, atividade que foi feita por meio de uma [entrevista](elicitacao/entrevista.md) e um [questionário](elicitacao/questionario.md), elementos essenciais para a elaboração do [perfil do usuário](elicitacao/personas.md#perfil-do-usuario) e, em seguida, a elaboração das [personas](elicitacao/personas.md) do projeto. Os requisitos podem vir de diversas fontes, como por exemplo os objetivos do software, domínio de conhecimento, stakeholders, regras de negócio e o ambiente em que o sistema está inserido. A etapa de [elicitação](elicitacao/tecnicas_planejadas.md) utilizou diferentes [técnicas de elicitação](elicitacao/tecnicas_planejadas.md#tecnicas-de-elicitacao) para explorar as fontes citadas anteriormente. Após a elicitação, os requisitos foram [priorizados](elicitacao/priorizacao.md) por meio de três [técnicas](elicitacao/priorizacao.md#tecnicas-utilizadas) diferentes. A Tabela 4 sintetiza os artefatos elaborados durante a etapa de elicitação e priorização.
 
 <center>
 
 | Artefato | Autor(es) | Revisor(es) |
-| :-: | :-: | :-: |
+| -: | :- | :- |
 [Planejamento - Elicitação](elicitacao/tecnicas_planejadas.md) | Nicolas Souza | Maurício Machado |
 [Brainstorming](elicitacao/brainstorming.md) | Davi Silva | Lucas Macedo, Maurício e Nicolas |
 [Entrevista](elicitacao/entrevista.md) | Lucas Gabriel | Mauricio Machado |
@@ -83,7 +94,7 @@ A elicitação de requisitos diz respeito à da etapa de concepção dos requisi
 [Priorização](elicitacao/priorizacao.md) | Renan | Lucas Macedo |
 <div style="text-align: center">
 <p>
-Tabela 2: Síntese dos artefatos produzidos durante a etapa de elicitação <br/>(Fonte: autor, 2023).
+Tabela 4: Síntese dos artefatos produzidos durante a etapa de elicitação <br/>(Fonte: autor, 2023).
 </p>
 </div>
 </center>
@@ -92,12 +103,12 @@ Tabela 2: Síntese dos artefatos produzidos durante a etapa de elicitação <br/
 
 A etapa de modelagem do projeto englobou as atividades de **análise** e **especificação** dos requisitos. A análise de requisitos foi essencial para resolver os conflitos entre requisitos, haja vista que foram utilizadas várias fontes e técnicas durante a elicitação. Além disso, durante a análise, os requisitos de sistema foram transformados em requisitos de software [funcionais](modelagem/agil/backlog.md#requisitos-elicitados) e [não funcionais](modelagem/nfr_framework.md#requisitos-elicitados-atraves-do-nfr) verificáveis.
 
-A especificação dos requisitos contou com a produção de documentos revisáveis, avaliáveis e aprováveis, que posteriormente foram [validados](./#validacao) com a equipe de desenvolvimento do [Lichess](https://lichess.org). A Tabela 3 sintetiza os artefatos produzidos durante a etapa de modelagem.
+A especificação dos requisitos contou com a produção de documentos revisáveis, avaliáveis e aprováveis, que posteriormente foram [validados](./#validacao) com a equipe de desenvolvimento do [Lichess](https://lichess.org). A Tabela 5 sintetiza os artefatos produzidos durante a etapa de modelagem.
 
 <center>
 
 | Artefato | Autor(es) | Revisor(es) |
-| :-: | :-: | :-: |
+| -: | :- | :- |
 [Casos de uso](modelagem/casos_de_uso.md) | Lucas Macedo | Nicolas Souza |
 [Cenários](modelagem/cenarios.md)| Lucas Gabriel | Nicolas Souza |
 [Especificação Suplementar](modelagem/especificacao_suplementar.md)| Davi Silva| Nicolas Souza |
@@ -108,7 +119,7 @@ A especificação dos requisitos contou com a produção de documentos revisáve
 
 <div style="text-align: center">
 <p>
-Tabela 3: Síntese dos artefatos produzidos durante a etapa de modelagem. <br/>(Fonte: autor, 2023).
+Tabela 5: Síntese dos artefatos produzidos durante a etapa de modelagem. <br/>(Fonte: autor, 2023).
 </p>
 </div>
 </center>
@@ -117,31 +128,31 @@ Tabela 3: Síntese dos artefatos produzidos durante a etapa de modelagem. <br/>(
 
 Durante a gerência de requisitos é essencial assegurar a rastreabilidade dos requisitos, que é a habilidade de traçar os requisitos durante o ciclo de vida do sistema. A rastreabilidade de requisitos pode ser separada em três categorias: pré rastreabilidade, pós rastreabilidade e rastreabilidade inter-requisitos. A **pré-rastreabilidade** consiste na relação entre os requisitos e os artefatos que são bases para esses requisitos, ou seja, uma ligação entre os requisitos e suas origens. A **pós-rastreabilidade** documenta a relação entre os requisitos e artefatos posteriores à sua elicitação, que podem ser componentes, implementação ou casos de testes pertencentes a um requisito. A **rastreabilidade** inter-requisitos consiste em um mapeamento das dependências entre requisitos. [4]
 
-Durante o projeto foram utilizadas diferentes fontes para a elicitação de requisitos, que, após priorizados, foram modelados por meio de técnicas distintas. Para documentar o rastro entre os requisitos, suas origens, e os artefatos subsequentes ao processo de elicitação, foram elaborados os artefatos sintetizados na Tabela 4.
+Durante o projeto foram utilizadas diferentes fontes para a elicitação de requisitos, que, após priorizados, foram modelados por meio de técnicas distintas. Para documentar o rastro entre os requisitos, suas origens, e os artefatos subsequentes ao processo de elicitação, foram elaborados os artefatos sintetizados na Tabela 6.
 
 <center>
 
 | Artefato | Autor(es) | Revisor(es) |
-| :-: | :-: | :-: |
-[Backward-From](posrastreabilidade/backward.md) | Nicolas Souza e Lucas Macedo |
+| -: | :- | :- |
+[Backward-From](posrastreabilidade/backward.md) | Nicolas Souza e Lucas Macedo | Lucas Macedo e Nicolas Souza
 [Forward-From](posrastreabilidade/forward_from.md) | Davi Silva, Lucas Macedo e Maurício | Lucas Gabriel |
 [Matriz de Rastreabilidade](posrastreabilidade/matriz.md) | Davi Silva | Lucas Gabriel |
 
 <div style="text-align: center">
 <p>
-Tabela 4: Síntese dos artefatos de Rastreabilidade. (Fonte: autor, 2023).
+Tabela 6: Síntese dos artefatos de Rastreabilidade. (Fonte: autor, 2023).
 </p>
 </div>
 </center>
 
-## Técnicas Utilizadas
+### Técnicas Utilizadas
 
-### Tabela dos Artefatos com seus respectivos autores, revisores e técnicas utilizadas
+A Tabela 7 contem os artefatos com seus respectivos autores, revisores e técnicas utilizadas.
 
 <center>
 
 | Etapa | Artefato | Técnica | Autor(es) | Revisor(es) |
-| :-: | :-: | :-: | :-: | :-: |
+| -: | :- | :- | :- | :- |
 | Planejamento | [Cronograma](planejamento/cronograma.md)| SCRUM | Mauricio Machado |Nicolas Souza |
 | Planejamento | [Ferramentas](planejamento/ferramentas.md) | Não Listada | Lucas Macedo, Nicolas Souza |Lucas Gabriel |
 | Planejamento | [Metodologias](planejamento/metodologias.md) | SCRUM | Davi Silva e Nicolas Souza | Maurício Machado |
@@ -186,22 +197,22 @@ Tabela 4: Síntese dos artefatos de Rastreabilidade. (Fonte: autor, 2023).
 
 <div style="text-align: center">
 <p>
-Tabela 5: Síntese das técnicas utilizadas <br/>(Fonte: autor, 2023).
+Tabela 7: Síntese das técnicas utilizadas <br/>(Fonte: autor, 2023).
 </p>
 </div>
 
 </center>
 
-## Verificação e Validação dos Artefatos
+### Verificação e Validação dos Artefatos
 
 A etapa de validação de requisitos contempla o processo de **análise** do documento de requisitos para garantir que ele defina o software esperado pelos usuários. Os documentos elaborados na etapa de especificação passam por uma etapa de verificação e validação, para garantir que o engenheiro de software tenha entendido os requisitos. Além disso, é importante verificar se o documento elaborado está de acordo com os padrões exigidos pelos _stakeholders_, como por exemplo uma padronização de documentos em uma empresa, é consistente, completo e de fácil entendimento. [3]
 
-A verificação foi feita por meio da inspeção, com base na proposta de Fagan [2], utilizando um checklist de erros mais comuns que podem ser identificados em projetos, tomando como base os projetos anteriores da disciplina de [Requisitos de Software](https://github.com/Requisitos-de-Software), os critérios do Plano de Ensino [1], a bibliografia da disciplina e os feedbacks dos monitores. A Tabela 7 sintetiza os responsáveis pela elaboração dos checklists para cada artefato, nos artefatos de planejamento, e execução das verificações, nos artefatos de resultados. A validação foi feita por meio da comunicação informal, via email, com as equipes de desenvolvimento dos aplicativos a serem validados.
+A verificação foi feita por meio da inspeção, com base na proposta de Fagan [2], utilizando um checklist de erros mais comuns que podem ser identificados em projetos, tomando como base os projetos anteriores da disciplina de [Requisitos de Software](https://github.com/Requisitos-de-Software), os critérios do Plano de Ensino [1], a bibliografia da disciplina e os feedbacks dos monitores. A Tabela 8 sintetiza os responsáveis pela elaboração dos checklists para cada artefato, nos artefatos de planejamento, e execução das verificações, nos artefatos de resultados. A validação foi feita por meio da comunicação informal, via email, com as equipes de desenvolvimento dos aplicativos a serem validados.
 
 <center>
 
 | Artefato | Autor(es) | Revisor(es) |
-| :-: | :-: | :-: |
+| -: | :- | :- |
 | [Verificação (Grupo 2) - Planejamento da verificação](analise-grupo2/planejamento.md) | Nicolas Souza | Maurício |
 | [Verificação (Grupo 2) - Backlog](analise-grupo2/backlog.md) | Nicolas Souza | Maurício |
 | [Verificação (Grupo 2) - Brainstorming](analise-grupo2/brainstorming.md) | Nicolas Souza | Maurício |
@@ -220,37 +231,37 @@ A verificação foi feita por meio da inspeção, com base na proposta de Fagan 
 | [Verificação (Grupo 2) - Richpicture](analise-grupo2/richpicture.md) | Nicolas Souza | Maurício |
 | [Verificação (Grupo 2) - Storytelling](analise-grupo2/storytelling.md) | Nicolas Souza | Maurício |
 | [Validacao (Grupo 2)](analise-grupo2/validacao/comprovacao_informal.md) | Lucas Gabriel | Lucas Macedo |
-| [Verificação (Grupo 3) - backlog](analise-grupo3/verificacao/backlog.md) | Davi Silva | Lucas Macedo |
-| [Verificação (Grupo 3) - brainstorm](analise-grupo3/verificacao/brainstorm.md) | Davi Silva | Lucas Macedo |
-| [Verificação (Grupo 3) - casos-de-uso](analise-grupo3/verificacao/casos-de-uso.md) | Davi Silva | Lucas Macedo |
-| [Verificação (Grupo 3) - cenarios](analise-grupo3/verificacao/cenarios.md) | Lucas Gabriel | Davi |
-| [Verificação (Grupo 3) - entrevista](analise-grupo3/verificacao/entrevista.md) | Lucas Gabriel | Davi |
-| [Verificação (Grupo 3) - especificacao_sup](analise-grupo3/verificacao/especificacao_sup.md) | Lucas Macedo | Davi |
-| [Verificação (Grupo 3) - historias-de-usuario](analise-grupo3/verificacao/historias-de-usuario.md) | Lucas Macedo | Davi |
-| [Verificação (Grupo 3) - introspeccao](analise-grupo3/verificacao/introspeccao.md) | Lucas Gabriel | Nicolas Souza |
-| [Verificação (Grupo 3) - lexico](analise-grupo3/verificacao/lexico.md) | Davi Silva | Lucas Macedo |
-| [Verificação (Grupo 3) - nfr-framework](analise-grupo3/verificacao/nfr-framework.md) | Davi Silva | Lucas Macedo |
-| [Verificação (Grupo 3) - perfil-usuario](analise-grupo3/verificacao/perfil-usuario.md) | Lucas Gabriel | Davi |
-| [Verificação (Grupo 3) - persona](analise-grupo3/verificacao/persona.md) | Lucas Gabriel | Davi |
-| [Verificação (Grupo 3) - priorizacao](analise-grupo3/verificacao/priorizacao.md) | Lucas Macedo | Davi |
-| [Verificação (Grupo 3) - tecnicas-de-elicitacao](analise-grupo3/verificacao/tecnicas-de-elicitacao.md) | Lucas Macedo | Davi |
+| [Verificação (Grupo 3) - Backlog](analise-grupo3/verificacao/backlog.md) | Davi Silva | Lucas Macedo |
+| [Verificação (Grupo 3) - Brainstorm](analise-grupo3/verificacao/brainstorm.md) | Davi Silva | Lucas Macedo |
+| [Verificação (Grupo 3) - Casos de uso](analise-grupo3/verificacao/casos-de-uso.md) | Davi Silva | Lucas Macedo |
+| [Verificação (Grupo 3) - Cenários](analise-grupo3/verificacao/cenarios.md) | Lucas Gabriel | Davi |
+| [Verificação (Grupo 3) - Entrevista](analise-grupo3/verificacao/entrevista.md) | Lucas Gabriel | Davi |
+| [Verificação (Grupo 3) - Especificação Suplementar](analise-grupo3/verificacao/especificacao_sup.md) | Lucas Macedo | Davi |
+| [Verificação (Grupo 3) - Histórias de Usuário](analise-grupo3/verificacao/historias-de-usuario.md) | Lucas Macedo | Davi |
+| [Verificação (Grupo 3) - Introspecção](analise-grupo3/verificacao/introspeccao.md) | Lucas Gabriel | Nicolas Souza |
+| [Verificação (Grupo 3) - Léxico](analise-grupo3/verificacao/lexico.md) | Davi Silva | Lucas Macedo |
+| [Verificação (Grupo 3) - NFR Framework](analise-grupo3/verificacao/nfr-framework.md) | Davi Silva | Lucas Macedo |
+| [Verificação (Grupo 3) - Perfil do Usuário](analise-grupo3/verificacao/perfil-usuario.md) | Lucas Gabriel | Davi |
+| [Verificação (Grupo 3) - Personas](analise-grupo3/verificacao/persona.md) | Lucas Gabriel | Davi |
+| [Verificação (Grupo 3) - Priorização](analise-grupo3/verificacao/priorizacao.md) | Lucas Macedo | Davi |
+| [Verificação (Grupo 3) - Técnicas de Elicitação](analise-grupo3/verificacao/tecnicas-de-elicitacao.md) | Lucas Macedo | Davi |
 | [Validação (Grupo 3)](analise-grupo3/validacao/comunicacao.md) | Davi e Lucas Macedo | Lucas Gabriel |
 
 <div style="text-align: center">
 <p>
-Tabela 6: Síntese dos artefatos de Verificação <br/>(Fonte: autor, 2023).
+Tabela 8: Síntese dos artefatos de Verificação <br/>(Fonte: autor, 2023).
 </p>
 </div>
 
 </center>
 
-## Apresentações
+### Apresentações
 
-Durante a execução do projeto o grupo fez seis entregas parciais, cujas informações estão sintetizadas na Tabela 8.
+Durante a execução do projeto o grupo fez seis entregas parciais, cujas informações estão sintetizadas na Tabela 9.
 <center>
 
 | Apresentação | Participantes |
-| :-: | :- |
+| :- | :- |
 | [Apresentação <br/> Ponto de Controle 1](https://youtu.be/kKjhGvfKOa8) | Davi, Lucas Gabriel, Lucas Macedo, <br/> Maurício, Nicolas e Renan |
 | [Apresentação <br/> Ponto de Controle 2](https://youtu.be/EC1_G0WkAuQ) | Davi, Lucas Gabriel, Lucas Macedo, <br/>Nicolas e Renan |
 | [Apresentação <br/> Ponto de Controle 3](https://youtu.be/QE5hB1XCDKk) | Davi, Lucas Gabriel, Lucas Macedo, <br/>Maurício e Nicolas |
@@ -260,7 +271,7 @@ Durante a execução do projeto o grupo fez seis entregas parciais, cujas inform
 
 <div style="text-align: center">
 <p>
-Tabela 7: Síntese das apresentações <br/>(Fonte: autor, 2023)
+Tabela 9: Síntese das apresentações <br/>(Fonte: autor, 2023)
 </p>
 </div>
 </center>
@@ -281,7 +292,7 @@ Tabela 7: Síntese das apresentações <br/>(Fonte: autor, 2023)
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| :-: | :-: | :-: | :-: | :-: |
+| :- | :- | :- | :- | :- |
 | `1.0` | 30/01/2023 | Criação da versão inicial do documento contendo introdução, execução do projeto, sínteses do planejamento, da verificação e validação e das gravações, e estrutura para inserção das demais seções. | Nicolas Souza | Lucas Macedo |
 | `1.1` | 30/01/2023 | Adição da síntese de ferramentas | Lucas Macedo | Nicolas Souza
 | `1.2` | 31/01/2023 | Adição da síntese das técnicas utilizadas| Davi Silva | Nicolas Souza |
