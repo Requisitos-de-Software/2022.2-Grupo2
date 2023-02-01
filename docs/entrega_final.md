@@ -62,7 +62,7 @@ As Tabelas 1 e 2 sintetizam, respectivamente, os artefatos referentes ao planeja
 
 <!-- ### Cronograma -->
 
-<center>
+<!-- <center> -->
 
 <!--- @TODO: cronograma planejado e executado, em uma mesma tabela --->
 
