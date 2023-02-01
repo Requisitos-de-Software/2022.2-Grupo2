@@ -16,21 +16,28 @@ O artefato Persona pode ser consultado nesse [link](https://requisitos-de-softwa
 
 O checklist utilizado e a inspeção realizada podem ser observados na Tabela 1.
 
-| Identificador | Questão                                                                                                                                  | Resposta (Sim / Não / Incompleto)                                                          |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| 01            | O artefato possui uma introdução ?                                                                                                       | Sim                                                                                        |
-| 02            | As tabelas e imagens do artefato possuem legenda e fonte e são chamadas no texto ?                                                       | Incompleto, as imagens não são chamadas no texto                                           |
-| 03            | O artefato apresenta referências bibliográficas ?                                                                                        | Sim                                                                                        |
-| 04            | O artefato possui histórico de versão padronizado com autor(es) e revisor(es) ?                                                          | Sim                                                                                        |
-| 05            | O artefato possui justificativa para o número de personas ?                                                                              | Incompleto, a justificativa deve ser baseada em uma fonte de referência no assunto         |
-| 06            | O artefato possui justificativa bibliográfica para a decisão de como elaborar as personas ?                                                | Incompleto, falta associar a bibliografia no texto de forma explícita                       |
-| 07            | O artefato possui informações de como foi a elaboração das personas ?                                                                   | Sim                                                                                        |
-| 08            | As personas foram criadas de acordo com o perfil do usuário ?                                                                            | Sim                                                                                        |
-| 09            | As personas possuem nome e sobrenome, idade, foto, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas ? | Incompleto, objetivos, habilidades, tarefas e requisitos precisam ser melhor especificados |
-| 10            | O artefato possui ao menos uma anti-persona ?                                                                                            | Sim                                                                                        |
+| Identificador | Questão                                                                                                                                  | Resposta (Sim / Não / Incompleto) |                                                                                |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | ------------------------------------------------------------------------------ |
+| 01            | O artefato possui uma introdução ?                                                                                                       | Sim                               |                                                                                |
+| 02            | As tabelas e imagens do artefato possuem legenda e fonte e são chamadas no texto ?                                                       | Incompleto                        | As imagens não são chamadas no texto                                           |
+| 03            | O artefato apresenta referências bibliográficas ?                                                                                        | Sim                               |                                                                                |
+| 04            | O artefato possui histórico de versão padronizado com autor(es) e revisor(es) ?                                                          | Sim                               |                                                                                |
+| 05            | O artefato possui justificativa para o número de personas ?                                                                              | Incompleto                        | A justificativa deve ser baseada em uma fonte de referência no assunto         |
+| 06            | O artefato possui justificativa bibliográfica para a decisão de como elaborar as personas ?                                              | Incompleto                        | Falta associar a bibliografia no texto de forma explícita                      |
+| 07            | O artefato possui informações de como foi a elaboração das personas ?                                                                    | Sim                               |                                                                                |
+| 08            | As personas foram criadas de acordo com o perfil do usuário ?                                                                            | Sim                               |                                                                                |
+| 09            | As personas possuem nome e sobrenome, idade, foto, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas ? | Incompleto                        | Objetivos, habilidades, tarefas e requisitos precisam ser melhor especificados |
+| 10            | O artefato possui ao menos uma anti-persona ?                                                                                            | Sim                               |                                                                                |
 
 <div style="text-align: center">
 <p> Tabela 1: Checklist do artefato Persona (Fonte: autor, 2023).</p>
+</div>
+
+O gráfico a seguir presente na Figura 1 demonstra a quantidade de itens atingidos, não atingidos e incompletos identificados durante a verificação do Personas.
+
+![image](images/grafico_personas.png)
+<div style="text-align: center">
+<p> Figura 1: Quantidade de itens atingidos, não atingidos e incompletos do artefato Personas (Fonte: autor, 2023).</p>
 </div>
 
 ## Bibliografia
@@ -41,6 +48,7 @@ O checklist utilizado e a inspeção realizada podem ser observados na Tabela 1.
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor(es)     | Revisor(es) |
-| ------ | ---------- | -------------------- | ------------- | ----------- |
-| `1.0`  | 09/01/2023 | Criação do documento | Lucas Gabriel |    Davi         |
+| Versão | Data       | Descrição            | Autor(es)     | Revisor(es)  |
+| ------ | ---------- | -------------------- | ------------- | ------------ |
+| `1.0`  | 09/01/2023 | Criação do documento | Lucas Gabriel | Davi         |
+| `2.0`  | 01/02/2023 | Ajustes              | Lucas Gabriel | Lucas Macedo |
