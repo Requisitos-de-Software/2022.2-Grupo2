@@ -16,16 +16,16 @@ O artefato de Introspecção pode ser consultado nesse [link](https://requisitos
 
 O checklist utilizado e a inspeção realizada podem ser observados na Tabela 1.
 
-| Identificador | Questão                                                                         | Resposta (Sim / Não / Incompleto) | Comentário                         | 
-| ------------- | ------------------------------------------------------------------------------- | --------------------------------- | ---------------------------------- | 
-| 01            | O artefato possui uma introdução ?                                              | Sim                               |                                    |            |
-| 02            | As tabelas do artefato possuem legenda e fonte e são chamadas no texto ?        | Não                               |                                    |            |
-| 03            | O artefato apresenta referências bibliográficas ?                               | Não                               |                                    |            |
-| 04            | O artefato possui histórico de versão padronizado com autor(es) e revisor(es) ? | Sim                               |                                    |            |
-| 05            | O artefato possui explicação do método de introspecção ?                        | Sim                               |                                    |            |
-| 06            | O artefato possui os cenários de uso identificados pelo avaliador ?             | Sim                               |                                    |            |
-| 07            | O artefato possui os requisitos elicitados a partir da introspecção ?         | Sim                               |                                    |
-| 08            | Os requisitos elicitados são verificáveis ?                                     | Incompleto                        | O requisito IS06 não é verificável |            |
+| Identificador | Questão                                                                         | Resposta (Sim / Não / Incompleto) | Comentário                         |
+| ------------- | ------------------------------------------------------------------------------- | --------------------------------- | ---------------------------------- |
+| 01            | O artefato possui uma introdução ?                                              | Sim                               |                                    |
+| 02            | As tabelas do artefato possuem legenda e fonte e são chamadas no texto ?        | Não                               |                                    |
+| 03            | O artefato apresenta referências bibliográficas ?                               | Não                               |                                    |
+| 04            | O artefato possui histórico de versão padronizado com autor(es) e revisor(es) ? | Sim                               |                                    |
+| 05            | O artefato possui explicação do método de introspecção ?                        | Sim                               |                                    |
+| 06            | O artefato possui os cenários de uso identificados pelo avaliador ?             | Sim                               |                                    |
+| 07            | O artefato possui os requisitos elicitados a partir da introspecção ?           | Sim                               |                                    |
+| 08            | Os requisitos elicitados são verificáveis ?                                     | Incompleto                        | O requisito IS06 não é verificável |
 
 <div style="text-align: center">
 <p> Tabela 1: Checklist do artefato Introspecção (Fonte: autor, 2023).</p>
