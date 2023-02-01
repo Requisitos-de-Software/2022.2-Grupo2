@@ -60,18 +60,18 @@ As Tabelas 1 e 2 sintetizam, respectivamente, os artefatos referentes ao planeja
 </div>
 </center>
 
-### Cronograma
+<!-- ### Cronograma -->
 
-<center>
+<!-- <center> -->
 
 <!--- @TODO: cronograma planejado e executado, em uma mesma tabela --->
 
-<div style="text-align: center">
+<!-- <div style="text-align: center">
 <p>
 Tabela 3: Cronograma planejado vs realizado (Fonte: autor, 2023).
 </p>
 </div>
-</center>
+</center> -->
 
 ## Execução do Projeto
 
@@ -278,7 +278,45 @@ Tabela 9: Síntese das apresentações <br/>(Fonte: autor, 2023)
 
 ## Resultados Alcançados
 
-<!--- @TODO: incluir os resultados alcançados com a execução do projeto, as facilidades e dificuldades --->
+Esta seção apresenta os resultados alcançados durante o trabalho realizado na disciplina de Requisitos de Software e lista os pontos positivos e negativos identificados pelo Grupo 2, responsável pelo repositório de análise do sítio eletrônico Lichess. O documento tem como objetivo apresentar uma dissertação a respeito dos resultados do grupo ao longo do projeto e se o objetivo inicial do grupo foi atingido, além de identificar as razões do sucesso ou insucesso de tal projeto.
+
+### Objetivo do projeto
+
+Esse trabalho teve como objetivo principal contribuir de forma prática na aquisição de conhecimento dos integrantes do Grupo 2, com a realização de atividades práticas, para isso foi escolhido um Sistema mobile no qual o grupo pode exercer os conhecimentos adquiridos ao longo do semestre na disciplina de Requisitos de Software de forma prática.
+
+### Resultados
+
+Os resultados obtidos foram:
+
+- Cerca de 70 artefatos;
+- 8 técnicas de elicitação;
+- 7 técnicas de modelagem de requisitos;
+- 3 técnicas de priorização;
+- 64 requisitos elicitados;
+
+Ao decorrer do projeto os membros puderam praticar seus conhecimentos através da elaboração de artefatos de Planejamento, Elicitação, Modelagem, Análise(verificação e validação) e Rastreabilidade, assim passando por algumas etapas nas quais foi necessário o contato com usuários reais. Ante o exposto, foi possível que todos os membros do grupo aprendessem o conteúdo unindo teoria e prática, assim facilitando o entendimento do conteúdo e realizando todas as atividades propostas para o grupo durante a disciplina.
+
+### Facilidades
+
+As facilidades do grupo ao longo do projeto foram:
+
+- Facilidade de pesquisa devido à grande quantidade de materiais pertinentes disponibilizados pelo professor.
+- Conhecimento adquirido ao longo do Curso de Engenharia de Software, com relação a ferramentas como o GitHub.
+- Trabalho colaborativo entre os membros do grupo que foi essencial para a conclusão do projeto da disciplina.
+
+### Dificuldades
+
+As dificuldades do grupo ao longo do projeto foram:
+
+- Dificuldade de horários em comum para realização de gravações de entregas.
+- Dificuldade de encontrar usuários do aplicativo escolhido dispostos a participar de atividades para melhoria do projeto.
+- Curto espaço de tempo entre entregas, dificultando a entregas de pontos de controles, apesar do planejamento, devido à grande quantidade de atividades que os membros possuíam com relação à universidade e/ou trabalho.
+
+## Agradecimentos
+
+- Agradecimento ao professor, André Barros pelas aulas, extremamente didáticas e por sua disponibilidade para ajudar os alunos a entender melhor o conteúdo ministrado.
+- Agradecimento ao monitor Gustavo Ribeiro pelas avaliações das entregas feitas pelo grupo e disponibilidade para ajuda com dúvidas.
+- Agradecimento aos membros do Grupo 2 que tornaram esse projeto possível.
 
 ## Bibliografia
 
@@ -286,8 +324,7 @@ Tabela 9: Síntese das apresentações <br/>(Fonte: autor, 2023)
 [2] Gerência e Qualidade de Software - Aula 06 - Técnica de revisão – UNIVESP<br/>
 [3] Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.
 [4] POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamental.
-
-<!-- @TODO: antes da versão final, numerar as tabelas corretamente -->
+[5] RESULTADOS alcançados. [S. l.], 9 nov. 2022. Disponível em: <https://interacao-humano-computador.github.io/2022.1-Dominio-Publico/#/faseFinal/resultadosAlcancados>. Acesso em: 1 fev. 2023.
 
 ## Histórico de Versão
 
@@ -296,3 +333,4 @@ Tabela 9: Síntese das apresentações <br/>(Fonte: autor, 2023)
 | `1.0` | 30/01/2023 | Criação da versão inicial do documento contendo introdução, execução do projeto, sínteses do planejamento, da verificação e validação e das gravações, e estrutura para inserção das demais seções. | Nicolas Souza | Lucas Macedo |
 | `1.1` | 30/01/2023 | Adição da síntese de ferramentas | Lucas Macedo | Nicolas Souza
 | `1.2` | 31/01/2023 | Adição da síntese das técnicas utilizadas| Davi Silva | Nicolas Souza |
+| `1.3` | 01/02/2023 | Inclusão da seção de resultados alcançados e agradecimentos | Lucas Gabriel | Nicolas Souza

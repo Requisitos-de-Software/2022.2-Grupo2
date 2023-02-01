@@ -31,7 +31,6 @@ O checklist utilizado e a inspeção realizada podem ser observados na Tabela 1.
 <p> Tabela 1: Checklist do artefato Introspecção (Fonte: autor, 2023).</p>
 </div>
 
-
 O gráfico a seguir presente na Figura 1 demonstra a quantidade de itens atingidos, não atingidos e incompletos identificados durante a verificação da Introspecão.
 
 ![image](images/grafico_introspeccao.png)

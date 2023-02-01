@@ -198,6 +198,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |            Funcionalidade            |                                                                         [Vídeo RF11](./assets/forward/RF11.mp4)                                                                          |
 
 
+
 **RF12**
 
 |                 RF12                 |                                                        Deve ser possível consultar as regras da modalidade de jogo em andamento                                                         |
@@ -407,7 +408,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | Artefatos (elicitação de requisitos) |                                                   [Q02](../elicitacao/questionario.md)                                                    |
 |             Comentários              |                                                         Implementação inexistente                                                         |
 |            Funcionalidade            |                                                                     -                                                                     |
-
 
 **RF26**
 
@@ -658,4 +658,4 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | `1.1`  | 23/01/2023 | Adicionando partes do artefato                                                                                        | Lucas Macedo e Davi | Lucas Gabriel |
 | `1.2`  | 23/01/2023 | Adição gravação requisitos                                                                                            | Mauricio Machado    | Davi          |
 | `2.0`  | 29/01/2023 | Ajustes na metodologia, modificação de todas tabelas dos requisitos funcionais e adição dos requisitos não funcionais | Lucas Gabriel       | Nicolas       |
-| `2.1`  | 29/01/2023 | Links entre NFR, Especificação suplementar, Cenários, Léxicos e Casos de uso com casa requisito                       | Lucas Gabriel       |               |
+| `2.1`  | 29/01/2023 | Links entre NFR, Especificação suplementar, Cenários, Léxicos e Casos de uso com casa requisito                       | Lucas Gabriel       |  Lucas Macedo |
