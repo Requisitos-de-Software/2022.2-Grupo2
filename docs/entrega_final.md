@@ -33,12 +33,12 @@ As Tabelas 1 e 2 sintetizam, respectivamente, os artefatos referentes ao planeja
 [Ata da Reunião (25/01/2023)](atas/ata_25_01.md) | Davi Silva | Lucas Gabriel |
 
 <div style="text-align: center">
-<p> Tabela 1: Síntese dos artefatos de Planejamento (Fonte: autor, 2023).</p>
+<p> Tabela 1: Síntese dos artefatos de Planejamento <br/>(Fonte: autor, 2023).</p>
 </div>
 
 </center>
 
-<!-- @TODO: cronograma planejado e executado, em uma mesma tabela -->
+<!--- @TODO: cronograma planejado e executado, em uma mesma tabela --->
 
 ## Ferramentas
 
@@ -58,7 +58,7 @@ As Tabelas 1 e 2 sintetizam, respectivamente, os artefatos referentes ao planeja
 | [Google forms](https://docs.google/forms) | Usado na etapa 2 | Usado para criar o formulário responsável para caracterizar o perfil de usuário |
 
 <div style="text-align: center">
-<p> Tabela 2: Síntese do artefato de Ferramentas (Fonte: autor, 2023).</p>
+<p> Tabela 2: Síntese do artefato de Ferramentas <br/>(Fonte: autor, 2023).</p>
 </div>
 </center>
 
@@ -83,7 +83,7 @@ A elicitação de requisitos diz respeito à da etapa de concepção dos requisi
 [Priorização](elicitacao/priorizacao.md) | Renan | Lucas Macedo |
 <div style="text-align: center">
 <p>
-Tabela 2: Síntese dos artefatos produzidos durante a etapa de elicitação (Fonte: autor, 2023).
+Tabela 2: Síntese dos artefatos produzidos durante a etapa de elicitação <br/>(Fonte: autor, 2023).
 </p>
 </div>
 </center>
@@ -108,7 +108,7 @@ A especificação dos requisitos contou com a produção de documentos revisáve
 
 <div style="text-align: center">
 <p>
-Tabela 3: Síntese dos artefatos produzidos durante a etapa de modelagem. (Fonte: autor, 2023).
+Tabela 3: Síntese dos artefatos produzidos durante a etapa de modelagem. <br/>(Fonte: autor, 2023).
 </p>
 </div>
 </center>
@@ -123,7 +123,61 @@ A pré-rastreabilidade consiste na relação entre os requisitos e os artefatos 
 
 ## Técnicas Utilizadas
 
-<!-- @TODO: incluir uma tabela com as técnicas utilizadas ao longo do projeto, em quais artefatos foram usadas e quais são os autores/revisores desses artefatos -->
+### Tabela dos Artefatos com seus respectivos autores, revisores e técnicas utilizadas
+
+<center>
+
+| Etapa | Artefato | Técnica | Autor(es) | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: |
+| Planejamento | [Cronograma](planejamento/cronograma.md)| SCRUM | Mauricio Machado |Nicolas Souza |
+| Planejamento | [Ferramentas](planejamento/ferramentas.md) | Não Listada | Lucas Macedo, Nicolas Souza |Lucas Gabriel |
+| Planejamento | [Metodologias](planejamento/metodologias.md) | SCRUM | Davi Silva e Nicolas Souza | Maurício Machado |
+| Pré-Rastreabilidade|[Rich Pictures](analise-grupo2/richpicture.md) | Rich Picture |Renan Lacerda| Davi Silva |
+| Elicitação e Priorização | [Técnicas Planejadas](elicitacao/tecnicas_planejadas.md)| SCRUM |Nicolas Souza| Maurício Machado |
+| Elicitação e Priorização | [StoryTelling](elicitacao/storytelling.md) | Role-Playing |Lucas Macedo | Nicolas|
+| Elicitação e Priorização | [Personas](elicitacao/personas.md) | Questionário | Mauricio | Lucas Macedo |
+| Elicitação e Priorização | [Questionário](elicitacao/questionario.md) | Questionário | Mauricio | Lucas Macedo |
+| Elicitação e Priorização | [Introspecção](elicitacao/introspeccao.md) | Introspecção | Nicolas | Davi |
+| Elicitação e Priorização | [Glossário](elicitacao/glossario.md) | Introspecção | Nicolas |Lucas Gabriel |
+| Elicitação e Priorização |[Entrevista](elicitacao/entrevista.md) | Entrevista |Lucas Gabriel| Mauricio |
+| Elicitação e Priorização | [Brainstorming](elicitacao/brainstorming.md) | Brainstorm | Davi Silva |Lucas Gabriel |
+| Elicitação e Priorização | [Moscow](elicitacao/priorizacao.md) | MoSCoW | Renan, Maurício | Lucas Macedo |
+| Elicitação e Priorização |[First Things First](elicitacao/priorizacao.md)| FtF | Renan, Maurício | Lucas Macedo |
+| Elicitação e Priorização | [Escala de Três Níveis](elicitacao/priorizacao.md) | Escala de Três Níveis | Renan, Maurício | Lucas Macedo |
+| Modelagem | [Léxico](modelagem/lexico.md) | Léxico | Maurício | Nicolas|
+| Modelagem | [NFR](modelagem/nfr_framework.md) | NFR Framework | Mauricio | Nicolas|
+| Modelagem | [Casos de Uso](modelagem/casos_de_uso.md) | Diagrama UML |Nicolas, Lucas Macedo|Lucas Macedo, Nicolas |
+| Modelagem | [Especificação Suplementar](modelagem/especificacao_suplementar.md) | FURPS+ | Davi Silva | Nicolas|
+| Modelagem Ágil | [Histórias de Usuário](modelagem/agil/us.md) | Histórias de Usuário | Nicolas | Lucas Macedo |
+| Modelagem Ágil | [Backlog](modelagem/agil/backlog.md) |Product Backlog | Nicolas | Lucas Macedo |
+| Análise | [Verificação: BackLog](analise-grupo3/verificacao/backlog.md) |Inspeção| Nicolas | Mauricio |
+| Análise | [Verificação: Brainstorm](analise-grupo3/verificacao/brainstorm.md) |Inspeção| Nicolas | Mauricio |
+| Análise | [Verificação: Rich Picture](verificacao/../analise-grupo2/richpicture.md) |Inspeção| Nicolas | Mauricio |
+| Análise | [Verificação: Léxicos](analise-grupo2/lexicos.md) |Inspeção| Nicolas | Mauricio |
+| Análise | [Verificação: Glossário](analise-grupo2/glossario.md) |Inspeção| Nicolas | Mauricio |
+| Análise | [Verificação: Introspecção](analise-grupo2/introspeccao.md) |Inspeção| Nicolas | Mauricio |
+| Análise | [Verificação: Questionário](analise-grupo2/questionario.md) |Inspeção| Nicolas | Mauricio |
+| Análise | [Verificação: Personas](analise-grupo2/personas.md) |Inspeção| Nicolas | Mauricio |
+| Análise | [Verificação: StoryTelling](analise-grupo2/storytelling.md) |Inspeção| Nicolas | Mauricio |
+| Análise |[Verificação: Entrevista](analise-grupo2/entrevista.md)|Inspeção| Nicolas | Mauricio |
+| Análise | [Verificação: Priorização](analise-grupo2/priorizacao.md) |Inspeção| Nicolas | Mauricio |
+| Análise | [Verificação: NFR Framework](analise-grupo2/nfr.md) |Inspeção| Nicolas | Mauricio |
+| Análise | [Verificação: Casos de Uso](analise-grupo2/casos-de-uso.md) |Inspeção| Nicolas | Mauricio |
+| Análise |[Verificação: NFR Cenário](analise-grupo2/cenarios.md) |Inspeção| Nicolas | Mauricio |
+| Análise | [Verificação: Especificação Suplementar](analise-grupo2/especificacao-suplementar.md) |Inspeção| Nicolas | Mauricio |
+| Análise | [Verificação: Histórias de Usuário](analise-grupo2/historias-de-usuario.md) |Inspeção| Nicolas | Mauricio |
+| Análise | [Validação: Comprovação Informal](analise-grupo2/validacao/comprovacao_informal.md) | Envio de Email |Lucas Gabriel| Lucas Macedo |
+| Pós-rastreabilidade|[Backward From](posrastreabilidade/backward.md)| Meta-modelo de Toranzo | Renan, Nicolas| Davi Silva |
+| Pós-rastreabilidade| [Forward From](posrastreabilidade/forward_from.md) | Forward From | Lucas Macedo, Davi, Mauricio, Lucas Gabriel | Nicolas|
+| Todas | [Apresentações](apresentacoes.md) |Gravação| Nicolas, Davi, Mauricio, Lucas Gabriel, Lucas Macedo, Renan | Nicolas, Davi, Mauricio, Lucas Gabriel, Lucas Macedo |
+
+<div style="text-align: center">
+<p>
+Tabela 5: Síntese das técnicas utilizadas <br/>(Fonte: autor, 2023).
+</p>
+</div>
+
+</center>
 
 ## Verificação e Validação dos Artefatos
 
@@ -171,7 +225,7 @@ A verificação foi feita por meio da inspeção, com base na proposta de Fagan 
 
 <div style="text-align: center">
 <p>
-Tabela 7: Síntese dos artefatos de Verificação (Fonte: autor, 2023).
+Tabela 6: Síntese dos artefatos de Verificação <br/>(Fonte: autor, 2023).
 </p>
 </div>
 
@@ -193,14 +247,14 @@ Durante a execução do projeto o grupo fez seis entregas parciais, cujas inform
 
 <div style="text-align: center">
 <p>
-Tabela 8: Síntese das apresentações (Fonte: autor, 2023)
+Tabela 7: Síntese das apresentações <br/>(Fonte: autor, 2023)
 </p>
 </div>
 </center>
 
 ## Resultados Alcançados
 
-<!-- @TODO: incluir os resultados alcançados com a execução do projeto, as facilidades e dificuldades -->
+<!--- @TODO: incluir os resultados alcançados com a execução do projeto, as facilidades e dificuldades --->
 
 ## Bibliografia
 
@@ -209,11 +263,12 @@ Tabela 8: Síntese das apresentações (Fonte: autor, 2023)
 [3] Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.
 [4] POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamental.
 
-<!--- @TODO: antes da versão final, numerar as tabelas corretamente --->
+<!-- @TODO: antes da versão final, numerar as tabelas corretamente -->
 
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 30/01/2023 | Criação da versão inicial do documento contendo introdução, execução do projeto, sínteses do planejamento, da verificação e validação e das gravações, e estrutura para inserção das demais seções. | Nicolas Souza | |
+| `1.0` | 30/01/2023 | Criação da versão inicial do documento contendo introdução, execução do projeto, sínteses do planejamento, da verificação e validação e das gravações, e estrutura para inserção das demais seções. | Nicolas Souza | Lucas Macedo |
 | `1.1` | 30/01/2023 | Adição da síntese de ferramentas | Lucas Macedo | Nicolas Souza
+| `1.2` | 31/01/2023 | Adição da síntese das técnicas utilizadas| Davi Silva | Nicolas Souza |

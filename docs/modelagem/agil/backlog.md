@@ -14,34 +14,34 @@ Na Tabela 1 estão registrados todos os requisitos elicitados durante o processo
 
 | Identificador | Requisito | Rastreabilidade |
 | :-: | :-: | :-: |
-| RF01 | Deve existir um sistema de recompensas para incentivar os jogadores | [Q04](../../elicitacao/questionario.md) |
-| RF02 | Deve existir uma apresentação inicial do aplicativo para o usuário no primeiro acesso | [Q10](../../elicitacao/questionario.md) |
-| RF03 | Deve haver uma classificação, em termos de nível, dos jogadores. | [Q04](../../elicitacao/questionario.md)<br/> [Q08](../../elicitacao/questionario.md) |
-| RF04 | Deve ser possível adicionar outros jogadores | [ST07](../../elicitacao/storytelling.md) |
-| RF05 | Deve ser possível aprender movimentos de xadrez por meio de tutoriais | [INT07](../../elicitacao/introspeccao.md)<br/> [Q13](../../elicitacao/questionario.md)<br/> [ST11](../../elicitacao/storytelling.md) |
-| RF06 | Deve ser possível assistir partidas de outras pessoas | [ST06](../../elicitacao/storytelling.md) |
-| RF07 | Deve ser possível configurar a dificuldade da partida contra o computador | [INT04](../../elicitacao/introspeccao.md) |
-| RF08 | Deve ser possível configurar a modalidade de jogo ao iniciar uma partida. | [GLO01](../../elicitacao/glossario.md)<br/> [INT03](../../elicitacao/introspeccao.md)<br/> [ST04](../../elicitacao/storytelling.md) |
-| RF09 | Deve ser possível configurar o tempo de duração da partida e incremento ao iniciar uma partida. | [ENT01](../../elicitacao/entrevista.md)<br/> [GLO02](../../elicitacao/glossario.md)<br/> [ST04](../../elicitacao/storytelling.md) |
-| RF10 | Deve ser possível configurar um estilo de jogo para o robô, baseado em jogadores famosos, nas partidas contra o computador. | [ENT02](../../elicitacao/entrevista.md)<br/> [ST04](../../elicitacao/storytelling.md) |
-| RF11 | Deve ser possível consultar as estatísticas das partidas anteriores | [ST09](../../elicitacao/storytelling.md)<br/> [Q02](../../elicitacao/questionario.md) |
-| RF12 | Deve ser possível consultar as regras da modalidade de jogo em andamento. | [GLO03](../../elicitacao/glossario.md) |
-| RF13 | Deve ser possível consultar um tutorial de uso do aplicativo | [INT08](../../elicitacao/introspeccao.md) |
-| RF14 | Deve ser possível elaborar tutoriais para outros jogadores | [ST13](../../elicitacao/storytelling.md) |
-| RF15 | Deve ser possível escolher o nível do oponente ao iniciar uma partida contra outro jogador | [Q08](../../elicitacao/questionario.md)<br/> [Q04](../../elicitacao/questionario.md) |
-| RF16 | Deve ser possível jogar partidas não ranqueadas | [ST03](../../elicitacao/storytelling.md) |
-| RF17 | Deve ser possível jogar partidas online sem criar uma conta | [Q09](../../elicitacao/questionario.md) |
-| RF18 | Deve ser possível jogar uma partida de xadrez contra o computador | [INT01](../../elicitacao/introspeccao.md) |
-| RF19 | Deve ser possível jogar uma partida de xadrez contra outro jogador aleatório ou escolhido. | [INT02](../../elicitacao/introspeccao.md)<br/> [ST02](../../elicitacao/storytelling.md)<br/> [ST05](../../elicitacao/storytelling.md) |
-| RF20 | Deve ser possível pausar uma partida contra o computador | [INT05](../../elicitacao/introspeccao.md) |
-| RF21 | Deve ser possível receber notificações sobre torneios ao vivo | [Q03](../../elicitacao/questionario.md) |
-| RF22 | Deve ser possível resolver quebra cabeças elaborados por outros jogadores. | [GLO04](../../elicitacao/glossario.md)<br/> [INT12](../../elicitacao/introspeccao.md)<br/> [ST12](../../elicitacao/storytelling.md) |
-| RF23 | Deve ser possível resolver tutoriais elaborados por outros jogadores | [ST13](../../elicitacao/storytelling.md) |
-| RF24 | Deve ser possível trocar mensagens com outros jogadores | [ST08](../../elicitacao/storytelling.md) |
-| RF25 | Deve ser possível visualizar dados sobre os quebra-cabeças concluídos | [Q02](../../elicitacao/questionario.md) |
-| RF26 | Deve ser possível visualizar e filtrar o ranqueamento de jogadores | [Q06](../../elicitacao/questionario.md)<br/> [ST10](../../elicitacao/storytelling.md) |
-| RF27 | Não deve ser possível pausar uma partida contra outro jogador | [INT06](../../elicitacao/introspeccao.md) |
-| RF28 | Deve ser possível criar quebra cabeça para outros jogadores resolverem. | [GLO04](../../elicitacao/glossario.md)<br/> [INT15](../../elicitacao/introspeccao.md) |
+| RF01 | Deve existir um sistema de recompensas para incentivar os jogadores | [Q04](../../elicitacao/questionario.md#requisitos-elicitados) |
+| RF02 | Deve existir uma apresentação inicial do aplicativo para o usuário no primeiro acesso | [Q10](../../elicitacao/questionario.md#requisitos-elicitados) |
+| RF03 | Deve haver uma classificação, em termos de nível, dos jogadores. | [Q04](../../elicitacao/questionario.md#requisitos-elicitados)<br/> [Q08](../../elicitacao/questionario.md#requisitos-elicitados) |
+| RF04 | Deve ser possível adicionar outros jogadores | [ST07](../../elicitacao/storytelling.md#requisitos-elicitados) |
+| RF05 | Deve ser possível aprender movimentos de xadrez por meio de tutoriais | [INT07](../../elicitacao/introspeccao.md#elicitação-de-requisitos)<br/> [Q13](../../elicitacao/questionario.md#requisitos-elicitados)<br/> [ST11](../../elicitacao/storytelling.md#requisitos-elicitados) |
+| RF06 | Deve ser possível assistir partidas de outras pessoas | [ST06](../../elicitacao/storytelling.md#requisitos-elicitados) |
+| RF07 | Deve ser possível configurar a dificuldade da partida contra o computador | [INT04](../../elicitacao/introspeccao.md#elicitação-de-requisitos) |
+| RF08 | Deve ser possível configurar a modalidade de jogo ao iniciar uma partida. | [GLO01](../../elicitacao/glossario.md#requisitos-elicitados)<br/> [INT03](../../elicitacao/introspeccao.md#elicitação-de-requisitos)<br/> [ST04](../../elicitacao/storytelling.md#requisitos-elicitados) |
+| RF09 | Deve ser possível configurar o tempo de duração da partida e incremento ao iniciar uma partida. | [ENT01](../../elicitacao/entrevista.md#resultados)<br/> [GLO02](../../elicitacao/glossario.md#requisitos-elicitados)<br/> [ST04](../../elicitacao/storytelling.md#requisitos-elicitados) |
+| RF10 | Deve ser possível configurar um estilo de jogo para o robô, baseado em jogadores famosos, nas partidas contra o computador. | [ENT02](../../elicitacao/entrevista.md#resultados)<br/> [ST04](../../elicitacao/storytelling.md#requisitos-elicitados) |
+| RF11 | Deve ser possível consultar as estatísticas das partidas anteriores | [ST09](../../elicitacao/storytelling.md#requisitos-elicitados)<br/> [Q02](../../elicitacao/questionario.md#requisitos-elicitados) |
+| RF12 | Deve ser possível consultar as regras da modalidade de jogo em andamento. | [GLO03](../../elicitacao/glossario.md#requisitos-elicitados) |
+| RF13 | Deve ser possível consultar um tutorial de uso do aplicativo | [INT08](../../elicitacao/introspeccao.md#elicitação-de-requisitos) |
+| RF14 | Deve ser possível elaborar tutoriais para outros jogadores | [ST13](../../elicitacao/storytelling.md#requisitos-elicitados) |
+| RF15 | Deve ser possível escolher o nível do oponente ao iniciar uma partida contra outro jogador | [Q08](../../elicitacao/questionario.md#requisitos-elicitados)<br/> [Q04](../../elicitacao/questionario.md#requisitos-elicitados) |
+| RF16 | Deve ser possível jogar partidas não ranqueadas | [ST03](../../elicitacao/storytelling.md#requisitos-elicitados) |
+| RF17 | Deve ser possível jogar partidas online sem criar uma conta | [Q09](../../elicitacao/questionario.md#requisitos-elicitados) |
+| RF18 | Deve ser possível jogar uma partida de xadrez contra o computador | [INT01](../../elicitacao/introspeccao.md#elicitação-de-requisitos) |
+| RF19 | Deve ser possível jogar uma partida de xadrez contra outro jogador aleatório ou escolhido. | [INT02](../../elicitacao/introspeccao.md#elicitação-de-requisitos)<br/> [ST02](../../elicitacao/storytelling.md#requisitos-elicitados)<br/> [ST05](../../elicitacao/storytelling.md#requisitos-elicitados) |
+| RF20 | Deve ser possível pausar uma partida contra o computador | [INT05](../../elicitacao/introspeccao.md#elicitação-de-requisitos) |
+| RF21 | Deve ser possível receber notificações sobre torneios ao vivo | [Q03](../../elicitacao/questionario.md#requisitos-elicitados) |
+| RF22 | Deve ser possível resolver quebra cabeças elaborados por outros jogadores. | [GLO04](../../elicitacao/glossario.md#requisitos-elicitados)<br/> [INT12](../../elicitacao/introspeccao.md#elicitação-de-requisitos)<br/> [ST12](../../elicitacao/storytelling.md#requisitos-elicitados) |
+| RF23 | Deve ser possível resolver tutoriais elaborados por outros jogadores | [ST13](../../elicitacao/storytelling.md#requisitos-elicitados) |
+| RF24 | Deve ser possível trocar mensagens com outros jogadores | [ST08](../../elicitacao/storytelling.md#requisitos-elicitados) |
+| RF25 | Deve ser possível visualizar dados sobre os quebra-cabeças concluídos | [Q02](../../elicitacao/questionario.md#requisitos-elicitados) |
+| RF26 | Deve ser possível visualizar e filtrar o ranqueamento de jogadores | [Q06](../../elicitacao/questionario.md#requisitos-elicitados)<br/> [ST10](../../elicitacao/storytelling.md#requisitos-elicitados) |
+| RF27 | Não deve ser possível pausar uma partida contra outro jogador | [INT06](../../elicitacao/introspeccao.md#elicitação-de-requisitos) |
+| RF28 | Deve ser possível criar quebra cabeça para outros jogadores resolverem. | [GLO04](../../elicitacao/glossario.md#requisitos-elicitados)<br/> [INT15](../../elicitacao/introspeccao.md#elicitação-de-requisitos) |
 
 <div style="text-align: center">
 <p> Tabela 1: Requisitos funcionais elicitados (Fonte: autor, 2023).</p>
