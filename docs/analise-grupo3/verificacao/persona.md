@@ -10,7 +10,7 @@ A metodologia utilizada foi a inspeção validando-se de uma lista de requisitos
 
 ## Rastreabilidade
 
-O artefato Persona pode ser consultado nesse [link](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/personas/).
+O artefato Persona pode ser consultado nesse [link](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/personas/). Avaliação realizada na versão 1.0.
 
 ## Checklist
 
