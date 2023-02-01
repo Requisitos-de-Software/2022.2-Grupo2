@@ -45,7 +45,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |               Cenários               |                                              [C10](../modelagem/cenarios.md)                                               |
 | Artefatos (elicitação de requisitos) |                                            [Q04](../elicitacao/questionario.md)                                            |
 |             Comentários              |                                                   Implementação completa                                                   |
-|            Funcionalidade            |                                     ![Vídeo RF01-RF03](./assets/forward/RF01-RF03.mp4)                                     |
+|            Funcionalidade            |                                     [Vídeo RF01-RF03](./assets/forward/RF01-RF03.mp4)                                      |
 
 
 **RF02**
@@ -75,7 +75,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |               Cenários               |                                                             -                                                              |
 | Artefatos (elicitação de requisitos) |                       [Q04](../elicitacao/questionario.md)<br/> [Q08](../elicitacao/questionario.md)                       |
 |             Comentários              |                                                   Implementação completa                                                   |
-|            Funcionalidade            |                                     ![Vídeo RF01-RF03](./assets/forward/RF01-RF03.mp4)                                     |
+|            Funcionalidade            |                                     [Vídeo RF01-RF03](./assets/forward/RF01-RF03.mp4)                                      |
 
 
 **RF04**
@@ -90,7 +90,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |               Cenários               |                                                             -                                                              |
 | Artefatos (elicitação de requisitos) |                                           [ST07](../elicitacao/storytelling.md)                                            |
 |             Comentários              |                                                   Implementação completa                                                   |
-|            Funcionalidade            |                                          ![Vídeo RF04](./assets/forward/RF04.mp4)                                          |
+|            Funcionalidade            |                                          [Vídeo RF04](./assets/forward/RF04.mp4)                                           |
 
 
 **RF05**
@@ -105,7 +105,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |               Cenários               |                                                      [C03](../modelagem/cenarios.md)                                                       |
 | Artefatos (elicitação de requisitos) |        [INT07](../elicitacao/introspeccao.md)<br/> [Q13](../elicitacao/questionario.md)<br/> [ST11](../elicitacao/storytelling.md)         |
 |             Comentários              |                                                           Implementação completa                                                           |
-|            Funcionalidade            |                                             ![Vídeo RF05 RF23](./assets/forward/RF05-RF23.mp4)                                             |
+|            Funcionalidade            |                                             [Vídeo RF05 RF23](./assets/forward/RF05-RF23.mp4)                                              |
 
 
 **RF06**
@@ -120,7 +120,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |               Cenários               |                                                                -                                                                 |
 | Artefatos (elicitação de requisitos) |                                              [ST06](../elicitacao/storytelling.md)                                               |
 |             Comentários              |                                                      Implementação completa                                                      |
-|            Funcionalidade            |                                             ![Vídeo RF06](./assets/forward/RF06.mp4)                                             |
+|            Funcionalidade            |                                             [Vídeo RF06](./assets/forward/RF06.mp4)                                              |
 
 
 **RF07**
@@ -135,7 +135,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |               Cenários               |                                                                 [C01](../modelagem/cenarios.md)                                                                  |
 | Artefatos (elicitação de requisitos) |                                                              [INT04](../elicitacao/introspeccao.md)                                                              |
 |             Comentários              |                                                                      Implementação completa                                                                      |
-|            Funcionalidade            |                                                    ![Vídeo RF08, RF07M](./assets/forward/RF08-RF07-RF15.mp4)                                                     |
+|            Funcionalidade            |                                                     [Vídeo RF08, RF07M](./assets/forward/RF08-RF07-RF15.mp4)                                                     |
 
 
 **RF08**
@@ -145,12 +145,12 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |                Épico                 |                                                               [E01](../modelagem/agil/backlog.md)                                                                |
 |                 Tema                 |                                                                             Partidas                                                                             |
 |         História de Usuário          | [US02](../modelagem/agil/us.md) Eu, como usuário, desejo configurar a modalidade e dificuldade do jogo ao iniciar uma partida para não me frustrar com a partida |
-|                Léxico                |                                          [L04](../modelagem/lexico.md)   <br> [L05] <br> [L06](../modelagem/lexico.md)                                           |
+|                Léxico                |                                          [L04](../modelagem/lexico.md)   <br> [L05](../modelagem/lexico.md)  <br> [L06](../modelagem/lexico.md)                                           |
 |             Casos de uso             |                                                                                -                                                                                 |
 |               Cenários               |                                                                 [C09](../modelagem/cenarios.md)                                                                  |
 | Artefatos (elicitação de requisitos) |                    [GLO01](../elicitacao/glossario.md)<br/> [INT03](../elicitacao/introspeccao.md)<br/> [ST04](../elicitacao/storytelling.md)                    |
 |             Comentários              |                                                                      Implementação completa                                                                      |
-|            Funcionalidade            |                                                    ![Vídeo RF08, RF07M](./assets/forward/RF08-RF07-RF15.mp4)                                                     |
+|            Funcionalidade            |                                                     [Vídeo RF08, RF07M](./assets/forward/RF08-RF07-RF15.mp4)                                                     |
 
 
 **RF09**
@@ -160,12 +160,12 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |                Épico                 |                                                              [E01](../modelagem/agil/backlog.md)                                                              |
 |                 Tema                 |                                                                           Partidas                                                                            |
 |         História de Usuário          | [US01](../modelagem/agil/us.md) Eu, como usuário, desejo configurar o tempo de partida e incremento ao iniciar uma partida para adequar ao meu estilo de jogo |
-|                Léxico                |                      [L04](../modelagem/lexico.md)   <br> [L05] <br> [L06](../modelagem/lexico.md)   <br>  [L19](../modelagem/lexico.md)                      |
+|                Léxico                |                      [L04](../modelagem/lexico.md)   <br> [L05](../modelagem/lexico.md)  <br> [L06](../modelagem/lexico.md)   <br>  [L19](../modelagem/lexico.md)                      |
 |             Casos de uso             |                                                                               -                                                                               |
 |               Cenários               |                                                                [C09](../modelagem/cenarios.md)                                                                |
 | Artefatos (elicitação de requisitos) |                   [ENT01](../elicitacao/entrevista.md)<br/> [GLO02](../elicitacao/glossario.md)<br/> [ST04](../elicitacao/storytelling.md)                    |
 |             Comentários              |                                                                    Implementação completa                                                                     |
-|            Funcionalidade            |                                                           ![Video RF09](./assets/forward/RF09.mp4)                                                            |
+|            Funcionalidade            |                                                            [Video RF09](./assets/forward/RF09.mp4)                                                            |
 
 
 **RF10**
@@ -195,7 +195,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |               Cenários               |                                                                                            -                                                                                             |
 | Artefatos (elicitação de requisitos) |                                                     [ST09](../elicitacao/storytelling.md)<br/> [Q02](../elicitacao/questionario.md)                                                      |
 |             Comentários              | Implementação incompleta, é possível consultar a partida e após isso utilizar o computador para observar melhores lances, porém não há estatisticas relacionadas as partidas diretamente |
-|            Funcionalidade            |                                                                         ![Vídeo RF11](./assets/forward/RF11.mp4)                                                                         |
+|            Funcionalidade            |                                                                         [Vídeo RF11](./assets/forward/RF11.mp4)                                                                          |
 
 
 **RF12**
@@ -205,7 +205,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |                Épico                 |                                                                           [E06](../modelagem/agil/backlog.md)                                                                           |
 |                 Tema                 |                                                                                        Tutoriais                                                                                        |
 |         História de Usuário          |           [US14](../modelagem/agil/us.md) Eu, como usuário, desejo ter acesso às regras utilizadas na modalidade de xadrez durante a partida, para não me sentir desorientado           |
-|                Léxico                |                                   [L04](../modelagem/lexico.md)   <br> [L05] <br> [L06](../modelagem/lexico.md)   <br> [L07](../modelagem/lexico.md)                                    |
+|                Léxico                |                                   [L04](../modelagem/lexico.md)   <br> [L05](../modelagem/lexico.md)  <br> [L06](../modelagem/lexico.md)   <br> [L07](../modelagem/lexico.md)                                    |
 |             Casos de uso             |                                                                                            -                                                                                            |
 |               Cenários               |                                                                             [C03](../modelagem/cenarios.md)                                                                             |
 | Artefatos (elicitação de requisitos) |                                                                           [GLO03](../elicitacao/glossario.md)                                                                           |
@@ -250,12 +250,12 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |                Épico                 |                                                               [E01](../modelagem/agil/backlog.md)                                                                |
 |                 Tema                 |                                                                             Partidas                                                                             |
 |         História de Usuário          | [US02](../modelagem/agil/us.md) Eu, como usuário, desejo configurar a modalidade e dificuldade do jogo ao iniciar uma partida para não me frustrar com a partida |
-|                Léxico                |                        [L04](../modelagem/lexico.md)   <br> [L05] <br> [L06](../modelagem/lexico.md)   <br> [L08](../modelagem/lexico.md)                        |
+|                Léxico                |                        [L04](../modelagem/lexico.md)   <br> [L05](../modelagem/lexico.md)  <br> [L06](../modelagem/lexico.md)   <br> [L08](../modelagem/lexico.md)                        |
 |             Casos de uso             |                                                                                -                                                                                 |
 |               Cenários               |                                                                 [C09](../modelagem/cenarios.md)                                                                  |
 | Artefatos (elicitação de requisitos) |                                          [Q08](../elicitacao/questionario.md)<br/> [Q04](../elicitacao/questionario.md)                                          |
 |             Comentários              |                         Implementação incompleta, apenas usuarios com conta na plataforma conseguem selecionar o nível de seus oponentes                         |
-|            Funcionalidade            |                                                    ![Vídeo RF08, RF07M](./assets/forward/RF08-RF07-RF15.mp4)                                                     |
+|            Funcionalidade            |                                                     [Vídeo RF08, RF07M](./assets/forward/RF08-RF07-RF15.mp4)                                                     |
 
 
 **RF16**    
@@ -265,12 +265,12 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |                Épico                 |                                                          [E04](../modelagem/agil/backlog.md)                                                          |
 |                 Tema                 |                                                                       Partidas                                                                        |
 |         História de Usuário          | [US08](../modelagem/agil/us.md) Eu, como usuário, desejo jogar partidas casuais sem interferir no meu ranqueamento, para não diminuir minha pontuação |
-|                Léxico                |                                     [L04](../modelagem/lexico.md)   <br> [L05] <br> [L06](../modelagem/lexico.md)                                     |
+|                Léxico                |                                     [L04](../modelagem/lexico.md)   <br> [L05](../modelagem/lexico.md)  <br> [L06](../modelagem/lexico.md)                                     |
 |             Casos de uso             |                                                         [UC01](../modelagem/casos_de_uso.md)                                                          |
 |               Cenários               |                                                     [C01]() <br> [C02](../modelagem/cenarios.md)                                                      |
 | Artefatos (elicitação de requisitos) |                                                         [ST03](../elicitacao/storytelling.md)                                                         |
 |             Comentários              |                                                                Implementação completa                                                                 |
-|            Funcionalidade            |                                                       ![Vídeo RF16](./assets/forward/RF16.mp4)                                                        |
+|            Funcionalidade            |                                                        [Vídeo RF16](./assets/forward/RF16.mp4)                                                        |
 
 
 **RF17**
@@ -280,12 +280,12 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |                Épico                 |                                              [E04](../modelagem/agil/backlog.md)                                              |
 |                 Tema                 |                                                           Partidas                                                            |
 |         História de Usuário          | [US09](../modelagem/agil/us.md) Eu, como usuário, desejo jogar partidas online sem precisar criar uma conta, para me divertir |
-|                Léxico                |                         [L04](../modelagem/lexico.md)   <br> [L05] <br> [L06](../modelagem/lexico.md)                         |
+|                Léxico                |                         [L04](../modelagem/lexico.md)   <br> [L05](../modelagem/lexico.md)  <br> [L06](../modelagem/lexico.md)                         |
 |             Casos de uso             |                                             [UC01](../modelagem/casos_de_uso.md)                                              |
 |               Cenários               |                                         [C01]() <br> [C02](../modelagem/cenarios.md)                                          |
 | Artefatos (elicitação de requisitos) |                                             [Q09](../elicitacao/questionario.md)                                              |
 |             Comentários              |                                                    Implementação completa                                                     |
-|            Funcionalidade            |                                   ![Vídeo RF08, RF07M](./assets/forward/RF08-RF07-RF15.mp4)                                   |
+|            Funcionalidade            |                                   [Vídeo RF08, RF07M](./assets/forward/RF08-RF07-RF15.mp4)                                    |
 
 
 **RF18**
@@ -295,12 +295,12 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |                Épico                 |                                                               [E02](../modelagem/agil/backlog.md)                                                                |
 |                 Tema                 |                                                                             Partidas                                                                             |
 |         História de Usuário          | [US03](../modelagem/agil/us.md) Eu, como usuário, desejo escolher jogar contra o computador ou contra um jogador para refletir as minhas necessidades do momento |
-|                Léxico                |                        [L04](../modelagem/lexico.md)   <br> [L05] <br> [L07](../modelagem/lexico.md)   <br> [L01](../modelagem/lexico.md)                        |
+|                Léxico                |                        [L04](../modelagem/lexico.md)   <br> [L05](../modelagem/lexico.md)  <br> [L07](../modelagem/lexico.md)   <br> [L01](../modelagem/lexico.md)                        |
 |             Casos de uso             |                                                               [UC02](../modelagem/casos_de_uso.md)                                                               |
 |               Cenários               |                                                                 [C01](../modelagem/cenarios.md)                                                                  |
 | Artefatos (elicitação de requisitos) |                                                              [INT01](../elicitacao/introspeccao.md)                                                              |
 |             Comentários              |                                                                      Implementação completa                                                                      |
-|            Funcionalidade            |                                                             ![Vídeo RF18](./assets/forward/RF18.mp4)                                                             |
+|            Funcionalidade            |                                                             [Vídeo RF18](./assets/forward/RF18.mp4)                                                              |
 
 
 **RF19**
@@ -310,7 +310,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |                Épico                 |                                                          [E03](../modelagem/agil/backlog.md)                                                          |
 |                 Tema                 |                                                                       Partidas                                                                        |
 |         História de Usuário          | [US06](../modelagem/agil/us.md) Eu, como usuário, desejo escolher o meu oponente podendo filtrar por nome e nível, para não me frustrar com a partida |
-|                Léxico                |                               [L04] <br> [L05] <br> [L06](../modelagem/lexico.md)   <br> [L19](../modelagem/lexico.md)                                |
+|                Léxico                |                               [L04] <br> [L05](../modelagem/lexico.md)  <br> [L06](../modelagem/lexico.md)   <br> [L19](../modelagem/lexico.md)                                |
 |             Casos de uso             |                                                         [UC01](../modelagem/casos_de_uso.md)                                                          |
 |               Cenários               |                                                            [C02](../modelagem/cenarios.md)                                                            |
 | Artefatos (elicitação de requisitos) |             [INT02](../elicitacao/introspeccao.md)<br/> [ST02](../elicitacao/storytelling.md)<br/> [ST05](../elicitacao/storytelling.md)              |
@@ -325,7 +325,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |                Épico                 |                                               [E02](../modelagem/agil/backlog.md)                                                |
 |                 Tema                 |                                                             Partidas                                                             |
 |         História de Usuário          | [US04](../modelagem/agil/us.md)Eu, como usuário, desejo poder pausar uma partida contra o computador para poder retomá-la depois |
-|                Léxico                |                     [L04] <br> [L05] <br> [L07](../modelagem/lexico.md)   <br> [L19](../modelagem/lexico.md)                     |
+|                Léxico                |                     [L04] <br> [L05](../modelagem/lexico.md)  <br> [L07](../modelagem/lexico.md)   <br> [L19](../modelagem/lexico.md)                     |
 |             Casos de uso             |                                               [UC02](../modelagem/casos_de_uso.md)                                               |
 |               Cenários               |                                                 [C01](../modelagem/cenarios.md)                                                  |
 | Artefatos (elicitação de requisitos) |                                              [INT05](../elicitacao/introspeccao.md)                                              |
@@ -360,7 +360,8 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |               Cenários               |                                                        [C03](../modelagem/cenarios.md)                                                        |
 | Artefatos (elicitação de requisitos) |          [GLO04](../elicitacao/glossario.md)<br/> [INT12](../elicitacao/introspeccao.md)<br/> [ST12](../elicitacao/storytelling.md)           |
 |             Comentários              |                                                            Implementação completa                                                             |
-|            Funcionalidade            |                                                   ![Vídeo RF22](./assets/forward/RF22.mp4)                                                    |
+|            Funcionalidade            |                                                    [Vídeo RF22](./assets/forward/RF22.mp4)                                                    |
+|                                      |                                                                                                                                               |
 
 
 **RF23**
@@ -375,7 +376,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |               Cenários               |                                                      [C03](../modelagem/cenarios.md)                                                       |
 | Artefatos (elicitação de requisitos) |                                                   [ST13](../elicitacao/storytelling.md)                                                    |
 |             Comentários              |                                                           Implementação completa                                                           |
-|            Funcionalidade            |                                             ![Vídeo RF05 RF23](./assets/forward/RF05-RF23.mp4)                                             |
+|            Funcionalidade            |                                             [Vídeo RF05 RF23](./assets/forward/RF05-RF23.mp4)                                              |
 
 
 **RF24**
@@ -390,7 +391,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |               Cenários               |                                                                -                                                                |
 | Artefatos (elicitação de requisitos) |                                              [ST08](../elicitacao/storytelling.md)                                              |
 |             Comentários              |                                                     Implementação completa                                                      |
-|            Funcionalidade            |                                            ![Vídeo RF24](./assets/forward/RF24.mp4)                                             |
+|            Funcionalidade            |                                             [Vídeo RF24](./assets/forward/RF24.mp4)                                             |
 
 
 **RF25**
@@ -435,7 +436,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |               Cenários               |                                                             [C02](../modelagem/cenarios.md)                                                             |
 | Artefatos (elicitação de requisitos) |                                                         [INT06](../elicitacao/introspeccao.md)                                                          |
 |             Comentários              |                                                                 Implementação completa                                                                  |
-|            Funcionalidade            |                                                        ![Vídeo RF16](./assets/forward/RF16.mp4)                                                         |
+|            Funcionalidade            |                                                         [Vídeo RF16](./assets/forward/RF16.mp4)                                                         |
 
 
 **RF28**
