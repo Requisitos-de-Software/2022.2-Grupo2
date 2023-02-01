@@ -34,7 +34,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 ### Requisitos Funcionais
 
 **RF01**
-
 |                 RF01                 |                            Deve existir um sistema de recompensas para incentivar os jogadores                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E08](../modelagem/agil/backlog.md)                                             |
@@ -49,7 +48,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 
 
 **RF02**
-
 |                 RF02                 |                                           Deve existir uma apresentação inicial do aplicativo para o usuário no primeiro acesso                                           |
 | :----------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                                                    [E05](../modelagem/agil/backlog.md)                                                                    |
@@ -61,6 +59,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | Artefatos (elicitação de requisitos) |                                                                   [Q10](../elicitacao/questionario.md)                                                                    |
 |             Comentários              |                                                                         Implementação inexistente                                                                         |
 |            Funcionalidade            |                                                                                     -                                                                                     |
+
 
 
 **RF03**
@@ -109,7 +108,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 
 
 **RF06**
-
 |                 RF06                 |                                      Deve ser possível assistir partidas de outras pessoas                                       |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                               [E11](../modelagem/agil/backlog.md)                                                |
@@ -140,7 +138,22 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 
 **RF08**
 
-|                 RF08                 |                                             Deve ser possível configurar a modalidade de jogo ao iniciar uma partida                                             |
+|                 RF08                 |                                              Deve ser possível configurar a modalidade de jogo ao iniciar uma partida                                               |
+| :----------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                Épico                 |                                                    [E01](../modelagem/agil/backlog/#e01-configuracao-de-partida)                                                    |
+|                 Tema                 |                                                                              Partidas                                                                               |
+|         História de Usuário          | [US02](../modelagem/agil/us/#us02) Eu, como usuário, desejo configurar a modalidade e dificuldade do jogo ao iniciar uma partida para não me frustrar com a partida |
+|                Léxico                |                                                                   [L04]() <br> [L05] <br> [L06]()                                                                   |
+|             Casos de uso             |                                                                                  -                                                                                  |
+|               Cenários               |                                                                               [C09]()                                                                               |
+| Artefatos (elicitação de requisitos) |                     [GLO01](../elicitacao/glossario.md)<br/> [INT03](../elicitacao/introspeccao.md)<br/> [ST04](../elicitacao/storytelling.md)                      |
+|             Comentários              |                                                                       Implementação completa                                                                        |
+|            Funcionalidade            |                                                      ![Vídeo RF08, RF07M](./assets/forward/RF08-RF07-RF15.mp4)                                                      |
+
+
+**RF09**
+
+|                 RF09                 |                                  Deve ser possível configurar o tempo de duração da partida e incremento ao iniciar uma partida                                  |
 | :----------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                                               [E01](../modelagem/agil/backlog.md)                                                                |
 |                 Tema                 |                                                                             Partidas                                                                             |
@@ -151,21 +164,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | Artefatos (elicitação de requisitos) |                    [GLO01](../elicitacao/glossario.md)<br/> [INT03](../elicitacao/introspeccao.md)<br/> [ST04](../elicitacao/storytelling.md)                    |
 |             Comentários              |                                                                      Implementação completa                                                                      |
 |            Funcionalidade            |                                                    ![Vídeo RF08, RF07M](./assets/forward/RF08-RF07-RF15.mp4)                                                     |
-
-
-**RF09**
-
-|                 RF09                 |                                Deve ser possível configurar o tempo de duração da partida e incremento ao iniciar uma partida                                 |
-| :----------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                Épico                 |                                                              [E01](../modelagem/agil/backlog.md)                                                              |
-|                 Tema                 |                                                                           Partidas                                                                            |
-|         História de Usuário          | [US01](../modelagem/agil/us.md) Eu, como usuário, desejo configurar o tempo de partida e incremento ao iniciar uma partida para adequar ao meu estilo de jogo |
-|                Léxico                |                      [L04](../modelagem/lexico.md)   <br> [L05] <br> [L06](../modelagem/lexico.md)   <br>  [L19](../modelagem/lexico.md)                      |
-|             Casos de uso             |                                                                               -                                                                               |
-|               Cenários               |                                                                [C09](../modelagem/cenarios.md)                                                                |
-| Artefatos (elicitação de requisitos) |                   [ENT01](../elicitacao/entrevista.md)<br/> [GLO02](../elicitacao/glossario.md)<br/> [ST04](../elicitacao/storytelling.md)                    |
-|             Comentários              |                                                                    Implementação completa                                                                     |
-|            Funcionalidade            |                                                           ![Video RF09](./assets/forward/RF09.mp4)                                                            |
 
 
 **RF10**
@@ -378,6 +376,7 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 |            Funcionalidade            |                                             ![Vídeo RF05 RF23](./assets/forward/RF05-RF23.mp4)                                             |
 
 
+
 **RF24**
 
 |                 RF24                 |                                     Deve ser possível trocar mensagens com outros jogadores                                     |
@@ -406,7 +405,6 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | Artefatos (elicitação de requisitos) |                                                   [Q02](../elicitacao/questionario.md)                                                    |
 |             Comentários              |                                                         Implementação inexistente                                                         |
 |            Funcionalidade            |                                                                     -                                                                     |
-
 
 **RF26**
 
@@ -657,4 +655,4 @@ Na Tabela 1 é possível ver a legenda referente as Tabelas abaixo, as quais as 
 | `1.1`  | 23/01/2023 | Adicionando partes do artefato                                                                                        | Lucas Macedo e Davi | Lucas Gabriel |
 | `1.2`  | 23/01/2023 | Adição gravação requisitos                                                                                            | Mauricio Machado    | Davi          |
 | `2.0`  | 29/01/2023 | Ajustes na metodologia, modificação de todas tabelas dos requisitos funcionais e adição dos requisitos não funcionais | Lucas Gabriel       | Nicolas       |
-| `2.1`  | 29/01/2023 | Links entre NFR, Especificação suplementar, Cenários, Léxicos e Casos de uso com casa requisito                       | Lucas Gabriel       |               |
+| `2.1`  | 29/01/2023 | Links entre NFR, Especificação suplementar, Cenários, Léxicos e Casos de uso com casa requisito                       | Lucas Gabriel       |  Lucas Macedo |
