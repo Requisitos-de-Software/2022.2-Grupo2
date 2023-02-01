@@ -10,7 +10,7 @@ A metodologia utilizada foi a inspeção validando-se de uma lista de requisitos
 
 ## Rastreabilidade
 
-O artefato Entrevista pode ser consultado nesse [link](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Entrevista/).
+O artefato Entrevista pode ser consultado nesse [link](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Entrevista/). Avaliação realizada na versão 1.0.
 
 ## Checklist
 

@@ -10,7 +10,7 @@ A metodologia utilizada foi a inspeção validando-se de uma lista de requisitos
 
 ## Rastreabilidade
 
-O artefato de Cenários pode ser consultado nesse [link](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Cenarios/).
+O artefato de Cenários pode ser consultado nesse [link](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Cenarios/). Avaliação realizada na versão 1.0.
 
 ## Checklist
 

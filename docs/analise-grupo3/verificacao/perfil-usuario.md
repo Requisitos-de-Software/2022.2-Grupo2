@@ -10,7 +10,7 @@ A metodologia utilizada foi a inspeção validando-se de uma lista de requisitos
 
 ## Rastreabilidade
 
-O artefato Perfil do usuário pode ser consultado nesse [link](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/perfil/).
+O artefato Perfil do usuário pode ser consultado nesse [link](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/perfil/). Avaliação realizada na versão 1.1.
 
 ## Checklist
 
