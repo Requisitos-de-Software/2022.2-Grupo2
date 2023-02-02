@@ -316,9 +316,9 @@ As dificuldades do grupo ao longo do projeto foram:
 
 [1] Plano de Ensino da disciplina Requisitos de Software.<br/>
 [2] Gerência e Qualidade de Software - Aula 06 - Técnica de revisão – UNIVESP<br/>
-[3] Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.
-[4] POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamental.
-[5] RESULTADOS alcançados. [S. l.], 9 nov. 2022. Disponível em: <https://interacao-humano-computador.github.io/2022.1-Dominio-Publico/#/faseFinal/resultadosAlcancados>. Acesso em: 1 fev. 2023.
+[3] Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.<br/>
+[4] POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamental.<br/>
+[5] RESULTADOS alcançados. [S. l.], 9 nov. 2022. Disponível em: <https://interacao-humano-computador.github.io/2022.1-Dominio-Publico/#/faseFinal/resultadosAlcancados>. Acesso em: 1 fev. 2023.<br/>
 
 ## Histórico de Versão
 
