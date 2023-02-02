@@ -80,10 +80,24 @@ Vídeo 6: Apresentação da etapa 6 do projeto
 </div>
 <br>
 
-[Link Apresentação 4](https://youtu.be/FUAAh6tfyfA)
+[Link Apresentação 6](https://youtu.be/FUAAh6tfyfA)
 
 ## Apresentação 7
-  **O grupo não realizou a entrega 7**
+**O grupo não realizou a entrega 7**
+<br>
+
+## Entrega Final
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kbif1UHmWXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+
+<div style="text-align: center">
+Vídeo 7: Apresentação da entrega final
+</div>
+<br>
+
+[Entrega Final](https://youtu.be/Kbif1UHmWXQ)
 
 ## Histórico de Versão
 
@@ -95,3 +109,4 @@ Vídeo 6: Apresentação da etapa 6 do projeto
 | `1.3`  | 10/12/2022 | Adição da apresentação 3 | Mauricio Machado | Nicolas Souza |
 | `1.4`  | 04/01/2023 | Adição da apresentação 4 | Lucas Gabriel    | Nicolas Souza      |
 | `1.5`  | 24/01/2023 | Adição da apresentação 5, 6 e 7 | Lucas Macedo    | Davi      |
+| `2.0`  | 01/02/2023 | Adição da entrega final | Lucas Macedo    | Nicolas Souza      |
