@@ -139,13 +139,13 @@ Na tabela 6 podemos ver o que foi realizado no Ponto de Controle 6.
 
 Na tabela 7 podemos ver o que foi realizado no Ponto de Controle 7.
 
-|                        Atividade                         |  Entrega   |  Revisão   |      Autor(es)      |  Revisor(es)  |
-| :------------------------------------------------------: | :--------: | :--------: | :-----------------: | :-----------: |
-| Seção de Pós-Rastreabilidade (doc inicial) **Não feito** |    ---     |    ---     |         ---         |      ---      |
-|              Backward From    **Não feito**              |    ---     |    ---     |         ---         |      ---      |
-|              Forward From (falta completar)              | 23/01/2023 | 23/01/2023 | Lucas Macedo e Davi | Lucas Gabriel |
-|         Gravação da apresentação   **Não feito**         |    ---     |     -      |         ---         |       -       |
-|         Edição da apresentação     **Não feito**         |    ---     |     -      |         ---         |       -       |
+|                 Atividade                  |  Entrega   |  Revisão   |                  Autor(es)                   |                 Revisor(es)                 |
+| :----------------------------------------: | :--------: | :--------: | :------------------------------------------: | :-----------------------------------------: |
+| Seção de Pós-Rastreabilidade (doc inicial) | 29/01/2023 | 29/01/2023 |                     Davi                     |                Lucas Gabriel                |
+|               Backward-From                | 22/01/2023 | 22/01/2023 |     Renan, Nicolas Souza e Lucas Macedo      |        Nicolas Souza e Lucas Macedo         |
+|                Forward-From                | 23/01/2023 | 23/01/2023 | Lucas Macedo, Davi, Lucas Gabriel e Maurício | Lucas Gabriel, Nicolas, Lucas Macedo e Davi |
+|  Gravação da apresentação   **Não feito**  |    ---     |     -      |                     ---                      |                      -                      |
+|  Edição da apresentação     **Não feito**  |    ---     |     -      |                     ---                      |                      -                      |
 
 <div style="text-align: center">
 <p> Tabela 7: Itens realizados Ponto de Controle 7 (Fonte: autor, 2023).</p>
@@ -162,4 +162,5 @@ Na tabela 7 podemos ver o que foi realizado no Ponto de Controle 7.
 | `1.0`  | 22/11/2022 | Versão inicial do cronograma do projeto                            | Mauricio Machado | Nicolas Souza |
 | `1.1`  | 30/11/2022 | Inclusão do cronograma realizado para o ponto de controle 2        | Nicolas Souza    | Lucas Macedo  |
 | `1.2`  | 15/12/2022 | Inclusão do cronograma realizado para o ponto de controle 3 e 4    | Davi Silva       | Nicolas Souza |
-| `1.3`  | 23/01/2023 | Inclusão do cronograma realizado para o ponto de controle 5, 6 e 7 | Lucas Macedo     |    Nicolas Souza           |
+| `1.3`  | 23/01/2023 | Inclusão do cronograma realizado para o ponto de controle 5, 6 e 7 | Lucas Macedo     | Nicolas Souza |
+| `1.4`  | 02/02/2023 | Atualização do cronograma realizado para o ponto de controle 7     | Lucas Gabriel    | Lucas Macedo  |
